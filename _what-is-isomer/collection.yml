@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  what-is-isomer:
     output: true
     order:
       - folder-page.md
