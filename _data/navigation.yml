@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: What Is Isomer
     collection: what-is-isomer
+  - title: Onboard to Isomer
+    collection: onboard-to-isomer
+  - title: IsomerCMS
+    collection: isomercms
