@@ -1,0 +1,4 @@
+collections:
+  onboard:
+    output: true
+    order: []
