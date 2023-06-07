@@ -2,6 +2,7 @@ collections:
   what-is-isomer:
     output: true
     order:
+      - For developers.md
       - Our users.md
       - About us.md
       - example-subfolder/.keep
