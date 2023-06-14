@@ -3,6 +3,15 @@ title: About us
 permalink: /example-folder/folder-page/
 description: ""
 ---
+#### Build good websites from the get go
+
+Isomer mainly caters to static, informational websites. 
+
+
+
+
+---
+
 ### You focus on your content.
 
 Isomer is an informational website builder for the government.
@@ -30,4 +39,3 @@ _Note that the current components may not be up to date with the latest SGDS._
 ### Have questions?
 
 You can refer to our [FAQ](https://www.isomer.gov.sg/faq/) for a list of commonly asked questions. You may also write in to us through [this contact form](https://go.gov.sg/isomer-contact).
-
