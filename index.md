@@ -10,18 +10,15 @@ sections:
       title: Isomer
       subtitle: The website builder for the Singapore Government
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: get started for free
+      url: /onboard
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Design academy
+          description: Tips to curate your content
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Cheatsheet
+          description: Try out what Isomer offers
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infopic:
       title: Create and launch in days
       description: Our template makes it easy to get a site up and running. On average
