@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Isomer
-      subtitle: The website builder for the Singapore Government
+      title: Easily set up good government websites
+      subtitle: Free, fast, easy
       background: /images/hero-banner.png
       button: get started for free
       url: /onboard
