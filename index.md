@@ -36,6 +36,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: We’ll handle all non-website tasks
-      description: Infopic description
+      description: Focus on building good site content. No quotes, no AOR – We cover
+        IM8 and VAPT, and our template dynamically adapts your content for
+        different devices. 
       alt: Image alt text
 ---
