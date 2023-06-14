@@ -38,6 +38,16 @@ sections:
       title: We’ll handle all non-website tasks
       description: Focus on building good site content. No quotes, no AOR – We cover
         IM8 and VAPT, and our template dynamically adapts your content for
-        different devices. 
+        different devices.
       alt: Image alt text
+  - infobar:
+      title: Join 500+ other sites
+      description: We’re already supporting more than 70 agencies with their website needs
+      button: Onboard with Isomer
+      url: /onboard
+  - infobar:
+      subtitle: 📢 Latest from the Isomer team
+      description: Hear what we’re working on next and stay updated
+      button: Announcements
+      url: /announcements
 ---
