@@ -3,39 +3,26 @@ title: About us
 permalink: /example-folder/folder-page/
 description: ""
 ---
-#### Build good websites from the get go
+### Any public officer can build a good website
+
 
 Isomer mainly caters to static, informational websites. 
 
 
+#### The vision and mission
+ 👉 Isomer aims to empower the government to easily and effectively communicate with citizens through our websites.
 
+Citizens should be able to easily find and navigate information on Isomer websites.
 
----
+We do this by making Isomer the de-facto website builder for the government which enables any public officer to create user-friendly, reliable, cost-effective, secure and fast websites.
 
-### You focus on your content.
+#### Our history
+Isomer started as a hackathon project in 2020. 
 
-Isomer is an informational website builder for the government.
+An internal study conducted by the Singapore government in 2017 found that over one-third of our government websites failed basic usability checks. Problems included website downtime, slow loading speed, and high cost.  There was also noted to be poor website UX across devices, and it was hard for citizens with visual impairment to use.
 
-GovTech creates and manages the design for all Isomer sites, provides the hosting, and ensures that your site remains accessible, secure, and fast.
+Isomer provides government agencies with an easy-to-deploy static website building and hosting service to easily create usable, secure and fast informational websites.
 
-> All you have to do is to prepare the content, and Isomer “builds” a fully featured and fully compliant site.
-
-This model works very well for sites which are informational in nature such as corporate sites.
-
-### We take care of compliance for you
-
-We understand that all Internet-facing systems have to comply to clauses stated in the Instruction Manual 8 (IM8).
-
-We’ve designed Isomer to be compliant to applicable clauses in the IM8 and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). Since all sites on Isomer share the same infrastructure and pull from a central template, there is no need for multiple VAPTs or security reviews yielding the same result.
-
-If you have specific queries regarding IM8 compliance, please contact any of the Isomer team members and we’ll help you address them.
-
-### In line with Singapore Government Design System
-
-Our site templates are designed based on components found on the [Singapore Government Design System](https://designsystem.tech.gov.sg/). If you choose to build a site on your own, you can still refer to the UI components found on their site.
-
-_Note that the current components may not be up to date with the latest SGDS._
-
-### Have questions?
-
-You can refer to our [FAQ](https://www.isomer.gov.sg/faq/) for a list of commonly asked questions. You may also write in to us through [this contact form](https://go.gov.sg/isomer-contact).
+*   Pre-tested user interface that is usable and accessible to people with disabilities
+*   Static site architecture that allows for fast loading and eliminates many vulnerabilities
+*   Automated monitoring that improves reliability and security
