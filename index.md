@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Isomer
 description: An integrated website builder and host for the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
