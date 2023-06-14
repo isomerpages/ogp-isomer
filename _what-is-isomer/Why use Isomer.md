@@ -9,7 +9,7 @@ Isomer is an informational website builder for the government.
 
 GovTech creates and manages the design for all Isomer sites, provides the hosting, and ensures that your site remains accessible, secure, and fast.
 
-> All you have to do is to prepare the content, and Isomer “builds” a fully featured and fully compliant site.
+> ##### All you have to do is to prepare the content, and Isomer “builds” a fully featured and fully compliant site.
 
 This model works very well for sites which are informational in nature such as corporate sites.
 
