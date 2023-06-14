@@ -22,27 +22,20 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
-      title: Value Prop 1
-      description: Fast, reliable, Secure, Cost effective
-      button: Button Text
+      title: Create and launch in days
+      description: Our template makes it easy to get a site up and running. On average
+        it takes just 2 weeks for sites to go from creation to launch – our
+        record is 1.5 days!
       alt: Image alt text
   - infopic:
-      title: 400+ sites already on Isomer
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: ">99% uptime rate"
+      description: We’ve easily handled sites with over a million visitors. Stay
+        assured that your static info will stay available and viewable by
+        citizens round the clock.
       alt: Image alt text
   - infopic:
-      title: What's our record
-      subtitle: Infopic Subtitle
+      title: We’ll handle all non-website tasks
       description: Infopic description
-      button: Button Text
       alt: Image alt text
 ---
