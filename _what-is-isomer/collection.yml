@@ -2,8 +2,8 @@ collections:
   what-is-isomer:
     output: true
     order:
-      - For developers.md
-      - Our users.md
       - About us.md
+      - Our users.md
+      - For developers.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
