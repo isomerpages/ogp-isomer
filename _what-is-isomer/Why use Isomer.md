@@ -3,26 +3,37 @@ title: Why use Isomer
 permalink: /what-is-isomer/permalink/
 description: ""
 ---
-### You focus on your content.
+### 1. Bypass compliance
 
-Isomer is an informational website builder for the government.
+Shorten the timeline to launch by bypassing all these other needs.
 
-GovTech creates and manages the design for all Isomer sites, provides the hosting, and ensures that your site remains accessible, secure, and fast.
+##### No tender or AOR
+Isomer is an internal government tool, meaning there is no need to set up a tendor or AOR.
 
-> ##### All you have to do is to prepare the content, and Isomer “builds” a fully featured and fully compliant site.
+##### Be IM8 compliant by default
+We're also compliant to all applicable Instruction Manual 8 (IM8) clauses and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). 
+
+##### No need to do your own VAPT
+Since all sites on Isomer share the same infrastructure and pull from a central template, there is no need for multiple VAPTs or security reviews yielding the same result.
+
+
+
+### 2. Our website template gets you started fast
+### 2. Our website template means you don't have to worry about designing a website from scratch
+
+OGP creates and manages the design for all Isomer sites, provides the hosting, and ensures that your site remains accessible, secure, and fast.
 
 This model works very well for sites which are informational in nature such as corporate sites.
 
-### We take care of compliance for you
-
-We understand that all Internet-facing systems have to comply to clauses stated in the Instruction Manual 8 (IM8).
-
-We’ve designed Isomer to be compliant to applicable clauses in the IM8 and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). Since all sites on Isomer share the same infrastructure and pull from a central template, there is no need for multiple VAPTs or security reviews yielding the same result.
-
-If you have specific queries regarding IM8 compliance, please contact any of the Isomer team members and we’ll help you address them.
-
-### In line with Singapore Government Design System
+ In line with Singapore Government Design System
 
 Our site templates are designed based on components found on the [Singapore Government Design System](https://designsystem.tech.gov.sg/). If you choose to build a site on your own, you can still refer to the UI components found on their site.
 
 _Note that the current components may not be up to date with the latest SGDS._
+
+
+
+### 3. Make edits easily with our Content Management System (CMS)
+CMS allows public officers to add, remove and edit content themselves without having to go through a third party. 
+- Add simple text to pages with low code
+- 
