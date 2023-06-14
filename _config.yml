@@ -2,8 +2,8 @@ title: Isomer
 url: https://www.google.com
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#2164da"
+  secondary-color: "#6d58bb"
   media-colors:
     - title: media-color-one
       color: "#49759a"
