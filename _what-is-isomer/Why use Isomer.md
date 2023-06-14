@@ -8,7 +8,7 @@ description: ""
 Shorten the timeline to launch by bypassing all these other needs.
 
 ##### No tender or AOR
-Isomer is an internal government tool, meaning there is no need to set up a tendor or AOR.
+Isomer is an internal government tool, meaning there is no need to set up a tender or AOR.
 
 ##### Be IM8 compliant by default
 We're also compliant to all applicable Instruction Manual 8 (IM8) clauses and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). 
@@ -36,4 +36,4 @@ _Note that the current components may not be up to date with the latest SGDS._
 ### 3. Make edits easily with our Content Management System (CMS)
 CMS allows public officers to add, remove and edit content themselves without having to go through a third party. 
 - Add simple text to pages with low code
-- 
+-
