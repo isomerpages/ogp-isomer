@@ -6,3 +6,5 @@ links:
     collection: onboard-to-isomer
   - title: IsomerCMS
     collection: isomercms
+  - title: Test
+    url: /test-page
