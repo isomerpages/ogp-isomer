@@ -34,6 +34,4 @@ _Note that the current components may not be up to date with the latest SGDS._
 ### 3. Make edits easily with our Content Management System (CMS)
 CMS allows public officers to add, remove and edit content themselves without having to go through a third party. 
 - Add simple text to pages with low code
--
-
-> test test
+- Test test bullet point
