@@ -1,10 +1,2 @@
 logo: /images/isomer-logo.svg
-links:
-  - title: What Is Isomer
-    collection: what-is-isomer
-  - title: Onboard to Isomer
-    collection: onboard-to-isomer
-  - title: IsomerCMS
-    collection: isomercms
-  - title: Test
-    url: /wrong-test-page
+links: []
