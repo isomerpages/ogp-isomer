@@ -47,4 +47,5 @@ sections:
       description: Hear what we’re working on next and stay updated
       button: Announcements
       url: /announcements
+  - resources: {}
 ---
