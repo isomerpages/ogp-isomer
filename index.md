@@ -48,18 +48,4 @@ sections:
       button: Announcements
       url: /announcements
   - resources: {}
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-      url: www.google.com
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-      url: www.google.com
-      image: /images/rectangle 1.png
 ---
