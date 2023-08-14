@@ -53,6 +53,7 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+      url: www.google.com
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
