@@ -60,4 +60,5 @@ sections:
       button: Button Text
       alt: Image alt text
       url: www.google.com
+      image: /images/rectangle 1.png
 ---
