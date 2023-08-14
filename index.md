@@ -59,4 +59,5 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      url: www.google.com
 ---
