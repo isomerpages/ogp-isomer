@@ -9,15 +9,13 @@ Isomer has its limitations too – Read through this list to see if we fit your 
 
 1. Isomer is unable to support any form of Javascript or animations on a website – we only cater to informational and static websites.
 
-2. Isomer can only able to accept files/image up to 5MB
-    
+2. Isomer can only able to accept files and image up to 5MB. We intentially keep the sizes small to ensure that sites load fast. However, you can upload files to [go.gov.sg](https://go.gov.sg/#/) (which accepts files up to 10MB), and link them on a page.
 
-4. All edits and configurations have to be done **on the CMS**. The only time Isomer users have to visit Github is to raise [pull requests](https://guide.isomer.gov.sg/guide/publish-your-changes).
-    
+3. **All site edits and configurations have to be done on IsomerCMS**. The only time Isomer users have to visit Github is to raise a [pull request](https://guide.isomer.gov.sg/guide/publish-your-changes). We may drop support to websites who make edits through other means.
+
 5. Enquiries sent to support@isomer.gov.sg will take about 3-5 working days to respond as our team operates in a lean manner. You may also look at the guide on some of the FAQs to get answers to your enquiry.
-    
 
-6. Agencies hiring vendors to help with their website development must get a government email to access [Isomer](/isomer-announcements). FAQ [here](/faq/vendor-management).
+6. While public officers are able to add a vendor as a collaborator on IsomerCMS, they are held responsible for their actions and site cleanliness following the 60 days inactive rule thing (????)
     
 
 7. The Isomer team has put in a place several restrictions on what you can or cannot do on the CMS concerning compliance. For example, if you wish to delete pages but you're not able to, that just means you're not allowed to delete those pages. A few examples are the privacy and terms of use page which you're not allowed to delete.
