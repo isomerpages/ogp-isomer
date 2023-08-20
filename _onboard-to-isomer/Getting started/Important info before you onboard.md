@@ -4,10 +4,10 @@ permalink: /onboard-to-isomer/getting-started/important-info/
 description: ""
 third_nav_title: Getting started
 ---
-### Read through this before deciding to onboard to Isomer
+##### Read through this before deciding to onboard to Isomer
 It's important to understand our limitations and ensure that we are a good fit for your use case. Here are some key points to consider:
 
-##### Technical aspects
+### Technical aspects
 
 - **Isomer does not support any form of Javascript or animations.** We are designed for informational and static websites only.
     
@@ -25,7 +25,7 @@ It's important to understand our limitations and ensure that we are a good fit f
 - All content hosted on Isomer are passed to Netlify to be deployed as staging and production sites, which is how staging links are produced.
     
 
-##### Support and cost
+### Support and cost
 
 - Public officers can add a vendor as a collaborator on IsomerCMS, but are responsible for their actions and usage cleanliness following the 60-day inactive rule. (??? I forgot what this clause is called)
     
