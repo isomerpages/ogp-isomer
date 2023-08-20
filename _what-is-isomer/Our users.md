@@ -3,7 +3,7 @@ title: Our users
 permalink: /what-is-isomer/permalink/
 description: ""
 ---
-> Isomer hosts website for 70+ government agencies, ministries, statboards, and schools
+&gt; Isomer hosts website for 70+ government agencies, ministries, statboards, and schools
 
 
 &lt; Insert image of logo wall &gt;
@@ -21,10 +21,4 @@ During the Omnicron wave of COVID-19 in Singapore, Isomer was used by the OGP te
 
 **With Isomer, the team was able to set up, populate, and launch covid.gov.sg within 4 days.** And it could have been even faster, but the team spent most of those 4 days gathering information to populate the site with. The site was live from 27 Sep 2022 to 13 Feb 2023.
 
-
-
-
-
-
-
-
+&lt; INSERT PICTURE &gt;
