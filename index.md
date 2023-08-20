@@ -21,7 +21,7 @@ sections:
           url: https://gmail.com
   - infobar:
       subtitle: 📢 Latest from the Isomer team
-      description: Hear what we’re working on next and stay updated
+      description: Hear what features we’re working on next and stay updated on our roadmap
       button: Announcements
       url: /announcements
   - infopic:
