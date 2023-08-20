@@ -2,5 +2,6 @@ collections:
   onboard-to-isomer:
     output: true
     order:
+      - Getting started/Getting started.md
       - Getting started/.keep
       - Onboarding FAQs.md
