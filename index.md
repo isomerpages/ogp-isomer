@@ -19,6 +19,11 @@ sections:
         - title: Cheatsheet
           description: Try out what Isomer offers
           url: https://gmail.com
+  - infobar:
+      subtitle: 📢 Latest from the Isomer team
+      description: Hear what we’re working on next and stay updated
+      button: Announcements
+      url: /announcements
   - infopic:
       title: Create and launch in days
       description: Our template makes it easy to get a site up and running. On average
@@ -42,10 +47,4 @@ sections:
       description: We’re already supporting more than 70 agencies with their website needs
       button: Onboard with Isomer
       url: /onboard
-  - infobar:
-      subtitle: 📢 Latest from the Isomer team
-      description: Hear what we’re working on next and stay updated
-      button: Announcements
-      url: /announcements
-  - resources: {}
 ---
