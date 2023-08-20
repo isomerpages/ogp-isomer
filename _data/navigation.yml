@@ -2,3 +2,14 @@ logo: /images/isomer-logo.svg
 links:
   - title: What is Isomer
     collection: what-is-isomer
+  - title: Onboard to Isomer
+    collection: onboard-to-isomer
+  - title: Other resources
+    url: /permalink
+    sublinks:
+      - title: IsomerCMS
+        url: https://cms.isomer.gov.sg/
+      - title: Design Academy
+        url: https://www.designacademy.isomer.gov.sg
+      - title: Cheatsheet
+        url: https://www.cheatsheet.isomer.gov.sg
