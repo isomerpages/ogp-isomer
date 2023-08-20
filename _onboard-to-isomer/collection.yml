@@ -4,6 +4,6 @@ collections:
     order:
       - Getting started/.keep
       - Getting started/Before you onboard.md
-      - Getting started/Getting started.md
+      - Getting started/Kickstart the process.md
       - Getting started/Creating a GitHub account.md
       - Onboarding FAQs.md
