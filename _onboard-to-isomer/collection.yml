@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Getting started/.keep
-      - Getting started.md
       - Onboarding FAQs.md
