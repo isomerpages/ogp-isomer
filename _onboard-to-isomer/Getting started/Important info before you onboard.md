@@ -8,9 +8,9 @@ third_nav_title: Getting started
 Isomer has its limitations too – Read through this list to see if we fit your use case.
 
 1. Isomer is unable to support any form of Javascript or animations on a website – we only cater to informational and static websites.
-
+<br>
 2. Isomer can only able to accept files and image up to 5MB. We intentially keep the sizes small to ensure that sites load fast. However, you can upload files to [go.gov.sg](https://go.gov.sg/#/) (which accepts files up to 10MB), and link them on a page.
-
+<br>
 3. **All site edits and configurations have to be done on IsomerCMS**. The only time Isomer users have to visit Github is to raise a [pull request](https://guide.isomer.gov.sg/guide/publish-your-changes). We may drop support to websites who make edits through other means.
 
 5. Enquiries sent to support@isomer.gov.sg will take about 3-5 working days to respond as our team operates in a lean manner. You may also look at the guide on some of the FAQs to get answers to your enquiry.
