@@ -2,7 +2,6 @@ collections:
   what-is-isomer:
     output: true
     order:
-      - New folder/.keep
       - Why use Isomer.md
       - About us.md
       - Our users.md
