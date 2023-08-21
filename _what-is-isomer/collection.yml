@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About us/.keep
-      - About us.md
       - Why use Isomer.md
       - Our users.md
       - What is IsomerCMS?.md
