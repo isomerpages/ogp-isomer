@@ -7,4 +7,4 @@ At OGP, we open source many of our tools in order for us to share and work toget
 
 We are proud to be part of the open-source community and to contribute to the development of government technology in Singapore.
 
-Check out our [Github repo](https://github.com/isomerpages/).
+Check out [Isomer's GitHub repo](https://github.com/isomerpages/).
