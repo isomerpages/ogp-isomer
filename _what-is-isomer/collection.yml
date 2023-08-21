@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About us.md
-      - Our users.md
       - Why use Isomer.md
+      - Our users.md
       - What is IsomerCMS?.md
       - Open source (For developers).md
