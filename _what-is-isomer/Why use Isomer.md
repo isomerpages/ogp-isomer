@@ -32,4 +32,4 @@ _Note that the current components may not be up to date with the latest SGDS._
 
 ### 3. Make edits easily with our Content Management System (CMS)
 IsomerCMS allows public officers to add, remove and edit content themselves without having to go through a third party. 
-[Learn more about IsomerCMS here](/isomercms)
+[Learn more about IsomerCMS](/isomercms)
