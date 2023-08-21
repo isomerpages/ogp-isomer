@@ -5,7 +5,7 @@ description: ""
 ---
 ### 1. Bypass compliance
 
-~~Shorten the timeline to launch by bypassing all these other needs:~~
+If you're looking to launch a website quickly, Isomer helps you bypass several compliance requirements. Here's how:
 
 - ##### No need for a tender or AOR
 	Isomer is an internal government tool, meaning there is no need to set up a tender or AOR.
@@ -17,7 +17,7 @@ description: ""
 	We're compliant to all applicable Instruction Manual 8 (IM8) clauses and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). 
 
 
-### 2. Our website template gets you started fast
+### 2. Start fast with our website template
 2. Our website template means you don't have to worry about designing a website from scratch
 
 The Isomer team creates and manages the design for all Isomer sites, provides the hosting, and ensures that your site remains accessible, secure, and fast.
@@ -31,6 +31,5 @@ Our site templates are designed based on components found on the [Singapore Gov
 _Note that the current components may not be up to date with the latest SGDS._
 
 ### 3. Make edits easily with our Content Management System (CMS)
-CMS allows public officers to add, remove and edit content themselves without having to go through a third party. 
-- Add simple text to pages with low code
-- Test test bullet point
+IsomerCMS allows public officers to add, remove and edit content themselves without having to go through a third party. 
+[Learn more about IsomerCMS here](/isomercms)
