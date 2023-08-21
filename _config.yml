@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An integrated website builder and host for the Singapore Government
+description: A static website builder and host for the Singapore Government
 permalink: none
 baseurl: ""
 exclude:
