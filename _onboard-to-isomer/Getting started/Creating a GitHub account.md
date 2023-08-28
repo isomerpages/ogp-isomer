@@ -71,7 +71,7 @@ Click on `Join Isomer` and you are all set!
 
 You will now see a banner notifying you `You are now a member of Isomer!`
 
-### Important information
+### Take note of your GitHub user types
 
 **All users on Isomer holds the same GitHub access type – editor access**.
 
@@ -83,19 +83,9 @@ All isomer team members are admin users (with the ability to create new site, ad
 
 To view the list of users in your team.
 
-*   1.
-    
-    Go to github.com/isomerpages
-    
-
-*   2.
-    
-    Click on the team's tab
-    
-
-*   3.
-    
-    Enter your team name in the search field
+1. Go to github.com/isomerpages
+2. Click on the team's tab
+3. Enter your team name in the search field
 
 
 
