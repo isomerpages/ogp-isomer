@@ -23,8 +23,8 @@ During the Omnicron wave of COVID-19 in Singapore, Isomer was used by the OGP te
 
 The website had 1 million visitors in it's first month, and was featured on all following COVID-19 communication channels such as print and digital media. The website especially received good feedback from citizens on the speed of its updates on changing protocols, as well as the user friendliness and ease-of-use of the site to find critical information.
 
-Isomer was also used to build website pages for other COVID-19 campaigns such as [sgunited.gov.sg](https://sgunited.gov.sg/) and [safetravel.ica.gov.sg](https://safetravel.ica.gov.sg/). Instead of having to wait months as is typical for government procurement, Isomer allowed government agencies to build these websites in as little as 1.5 days, ensuring that citizens receive the latest information about the constantly evolving COVID-19 situation.
+Isomer was also used to build website pages for other COVID-19 campaigns such as *sgunited.gov.sg* and *safetravel.ica.gov.sg*. Instead of having to wait months as is typical for government procurement, Isomer allowed government agencies to build these websites in as little as 1.5 days, ensuring that citizens receive the latest information about the constantly evolving COVID-19 situation.
 
-covid.gov.sg was live from 27 Sep 2022 to 13 Feb 2023.
+covid.gov.sg was live from 27 Sep 2021 to 13 Feb 2023.
 
 &lt; INSERT PICTURE &gt;
