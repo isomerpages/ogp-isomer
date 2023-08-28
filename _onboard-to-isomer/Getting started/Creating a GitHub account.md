@@ -17,54 +17,35 @@ The images in this guide may be outdated but the overall steps remains the same.
 
 Use your preferred email address and a set a professional username. Follow the steps to retrieve the code sent to the email you used. You can set any preferences based on what makes sense to you, these do not impact your Isomer experience.
 
-### 2. Click 'Continue for free'
+##### Click 'Continue for free' for a basic plan
 You will only need a basic account on GitHub to edit the content of your Isomer website.
 
 ![](https://1207396641-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MK96ehYqM3WLNOGrhXV%2Fuploads%2FysymrQXCJfLssMM2zV2R%2FScreenshot%202022-08-22%20at%205.02.27%20PM.png?alt=media&amp;token=4594778f-fbee-4164-bb88-36fa2c957ec9)
 
 
-Accounts with 2FA set up blocks off 99% of automated attacks. Hence, isomer enforces all our users to have this enabled in their accounts.
+### 2. Turn on 2-Factor Authentification
 
-### 3. Go to your settings page and click on 'Security'
-
-![](https://1207396641-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MK96ehYqM3WLNOGrhXV%2F-M_-3B84CjF-y5Ni_rGk%2F-M_-463DBfowqi9GqpS3%2F5.png?alt=media&amp;token=ed580f49-90c9-4e77-9c1b-02c1cd89a8f8)
-
-Go to your account settings by clicking on your profile picture on the top right hand corner of the page.
-
-Select 'Settings' and you will be redirected to a new page.
-
-On the left-hand side of the page, look for the 'Security' tab and select it. Here, we will be setting up two-factor authentication (2FA).
-
-![](https://1207396641-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MK96ehYqM3WLNOGrhXV%2F-M_-3B84CjF-y5Ni_rGk%2F-M_-3tGWqpo7GTD9LrcQ%2F6.png?alt=media&amp;token=ad9bab6b-f3d3-414c-8e15-8b38216d1a77)
-
-​
-
-### 
-
-Accounts with 2FA set up blocks off 99% of automated attacks. Hence, isomer enforces all our users to have this enabled in their accounts.
-
-After verification, you will need to do some additional set-up.
+Enabling two-factor authentication (2FA) on your account can block up to 99% of automated attacks. To ensure the security of our users, Isomer requires all users to enable 2FA on their accounts.
 
 
-Enable 2FA[](https://guide.isomer.gov.sg/setup/github-account/set-up-2fa#enable-2fa)
+Click on ***Settings***
 
-Before working on Isomer websites, you will have to set up two-factor authentication (2FA) to secure your account. Note that 2FA is required for all Isomer repositories.
+&lt; INSERT &gt;
+
+
+Click on ***Password and authentification***
+
+&lt; INSERT &gt;
 
 Click on ‘Enable two-factor authentication’ to proceed.
 
-### 
+Follow the [steps listed here](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) to enable your 2FA. Note that you can pick any method of 
 
-Choose 2FA authentication method[](https://guide.isomer.gov.sg/setup/github-account/set-up-2fa#choose-2fa-authentication-method)
+https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication
 
-![](https://1207396641-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MK96ehYqM3WLNOGrhXV%2F-M_-3B84CjF-y5Ni_rGk%2F-M_-3VvUJxqY-Npn2LXT%2F8.png?alt=media&amp;token=8956fe45-05cc-45b9-a376-616cfaa0ad3e)
+CAN WE RECCO SMS?
 
-Select a 2FA authentication method. You have a choice between using an app (such as [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), [Authy](https://authy.com/), or [LastPass](https://www.lastpass.com/)), or via an SMS message.
 
-### 
-
-Save your recovery codes[](https://guide.isomer.gov.sg/setup/github-account/set-up-2fa#save-your-recovery-codes)
-
-![](https://1207396641-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MK96ehYqM3WLNOGrhXV%2F-M_-3B84CjF-y5Ni_rGk%2F-M_-3Sv6BSCEB1Kosewo%2F9.png?alt=media&amp;token=99e46ae1-dc3e-48d9-87eb-27db25bce7e5)
 
 GitHub will prompt you to save your recovery codes. The purpose of these codes are to guarantee you are the owner of your account in case your 2FA fails, such as when you lose your phone.
 
@@ -72,43 +53,15 @@ We strongly encourage saving these codes somewhere secure.
 
 After selecting one of the methods to save the codes, the 'Next' button will be enabled. Proceed.
 
-### 
-
-Complete 2FA setup[](https://guide.isomer.gov.sg/setup/github-account/set-up-2fa#complete-2fa-setup)
-
-Set up your 2FA as prompted by GitHub.
-
-*   1.
-    
-    You'll be prompted for a `trial run` of your 2FA, where you must enter the generated 2FA code to make sure that your 2FA setup is working in order to proceed.
-    
-
-*   2.
-    
-    Once done, click `Enable` to enable 2FA on your account.
-    
-
-*   3.
-    
-    You will then see a banner notifying you that `Two-factor authentication successfully enabled!`.
-    
-
-![](https://1207396641-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MK96ehYqM3WLNOGrhXV%2F-M_-3B84CjF-y5Ni_rGk%2F-M_-3PXJgGwUrWEhpBPK%2F10.png?alt=media&amp;token=7dad789f-7202-4459-af8e-e77e769f5ba3)
-
 Now you are ready to gain access to your Isomer website repository.
 
-# Site access
+### 3. Request for access to Isomer's GitHub
 
-Site Access
-===========
-
-Now that your GitHub account is all set up. You will need access to your site to start editing.
+You will need access to your site to start editing.
 
 To gain access, you may submit a request through this [form](https://go.gov.sg/isomer-access). Upon being added to the repository, **you will receive an invite on your registered email.**
 
-Besides email, you can visit [www.github.com/isomerpages](https://www.github.com/isomerpages), look for a button at the top right hand corner of the page and click that button to accept the invitation.
-
-### 
+Besides email, you can visit [www.github.com/isomerpages](https://www.github.com/isomerpages), look for a button at the top right hand corner of the page and click that button to accept the invitation. 
 
 Accept the invitation[](https://guide.isomer.gov.sg/setup/github-account/site-access#accept-the-invitation)
 
@@ -118,16 +71,11 @@ Click on `Join Isomer` and you are all set!
 
 You will now see a banner notifying you `You are now a member of Isomer!`
 
-![](https://1207396641-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MK96ehYqM3WLNOGrhXV%2F-MgdPvQhcSqW1uvNOIFp%2F-MgdQ-RJbYOdIKCJE4N8%2F13.png?alt=media&amp;token=f5b945cc-f3ba-4715-aa2c-496db2e03e1b)
+### Important information
 
-What are the user access types?[](https://guide.isomer.gov.sg/setup/github-account/site-access#what-are-the-user-access-types)
+**All users on Isomer holds the same GitHub access type – editor access**.
 
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-**All users on Isomer holds the same access type, editor access**.
-
-With editor access, you'll be able to make changes to your site, create a pull request before you launch it, and approve someone else's request.
+With editor access, you'll be able to make changes to your site, create a pull request, and approve someone else's pull request.
 
 We do not provide pages specific restricted access but do note that all changes are tracked (even a single full stop you add to or remove from the page). That being said, do make changes to your site responsibly as all these changes are being tracked.
 
