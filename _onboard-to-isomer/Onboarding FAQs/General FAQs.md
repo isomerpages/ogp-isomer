@@ -6,32 +6,31 @@ third_nav_title: Onboarding FAQs
 ---
 ### What type of websites is Isomer suitable for?
     
-Isomer best caters to static websites. 
 
-##### **Characteristics of such websites include:**
+##### **Isomer best caters to static websites. Characteristics of such websites include:**
     
-✅&nbsp;Informational in nature where content is fixed and does not change unless the website owner manually updates it.    
-✅&nbsp;Contains unclassified content that are meant for public consumption
+✅ Informational in nature where content is fixed and does not change unless the website owner manually updates it.    
+✅ Contains unclassified content that are meant for public consumption
     
 ##### **Common use cases include:**
     
-✅&nbsp;**Informational websites:** Provide information to the public, such as information about government services, policies, and regulations using text and media such as images. <br>
+✅ **Informational websites:** Provide information to the public, such as information about government services, policies, and regulations using text and media such as images. <br>
 ✅ **Campaign websites:** Promote specific initiatives or programs. <br>
-✅&nbsp;**Corporate websites:** Provides information on an agency
+✅ **Corporate websites:** Provides information on an agency
     
 Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/), boa.gov.sg, switchsg.org
     
 ##### **Characteristics of websites we do NOT cater for include:**
     
-    ❌&nbsp;User authentification where users are to “log in” to the service
+❌ User authentification where users are to “log in” to the service
     
-    ❌&nbsp;Dynamic content where users can interact with a website to get personalised information
+❌ Dynamic content where users can interact with a website to get personalised information
     
-    ❌&nbsp;Interactive elements such as calculators or maps (*Note that some such services can be embedded onto Isomer websites, such as data.gov.sg)
+❌ Interactive elements such as calculators or maps (*Note that some such services can be embedded onto Isomer websites, such as data.gov.sg)
         
-    ❌&nbsp;Calls to a database to store and retrieve information
+❌ Calls to a database to store and retrieve information
     
-    ❌&nbsp;Server-side processing???
+❌ Server-side processing???
     
 #####    **Common use cases with these chracteristics include:**
     
