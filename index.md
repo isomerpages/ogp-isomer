@@ -30,18 +30,21 @@ sections:
         it takes just 2 weeks for sites to go from creation to launch – our
         record is 1.5 days!
       alt: Image alt text
+      image: /images/rectangle 1.png
   - infopic:
       title: ">99% uptime rate"
       description: We’ve easily handled sites with over a million visitors. Stay
         assured that your static info will stay available and viewable by
         citizens round the clock.
       alt: Image alt text
+      image: /images/rectangle 1.png
   - infopic:
       title: We’ll handle all non-website tasks
       description: Focus on building good site content. No quotes, no AOR – We cover
         IM8 and VAPT, and our template dynamically adapts your content for
         different devices.
       alt: Image alt text
+      image: /images/rectangle 1.png
   - infobar:
       title: Join 500+ other sites
       description: We’re already supporting more than 70 agencies with their website needs
