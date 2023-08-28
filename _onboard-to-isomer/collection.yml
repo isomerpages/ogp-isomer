@@ -2,10 +2,10 @@ collections:
   onboard-to-isomer:
     output: true
     order:
-      - Onboarding FAQs/Security & Policy.md
-      - Onboarding FAQs/General FAQs.md
-      - Onboarding FAQs/Onboarding FAQs.md
       - Onboarding FAQs/.keep
+      - Onboarding FAQs/General FAQs.md
+      - Onboarding FAQs/Security & Policy.md
+      - Onboarding FAQs/Onboarding FAQs.md
       - Getting started/.keep
       - Getting started/Before you onboard.md
       - Getting started/Kickstart the process.md
