@@ -2,11 +2,11 @@ collections:
   onboard-to-isomer:
     output: true
     order:
-      - Onboarding FAQs/.keep
-      - Onboarding FAQs/General FAQs.md
-      - Onboarding FAQs/Security & Policy.md
-      - Onboarding FAQs/Onboarding FAQs (Old).md
       - Getting started/.keep
       - Getting started/Before you onboard.md
       - Getting started/Kickstart the process.md
       - Getting started/Creating a GitHub account.md
+      - Onboarding FAQs/.keep
+      - Onboarding FAQs/General FAQs.md
+      - Onboarding FAQs/Security & Policy.md
+      - Onboarding FAQs/Onboarding FAQs (Old).md
