@@ -13,7 +13,7 @@ Isomer is an internal government tool, meaning there is no need to set up a tend
 ##### No need to do your own VAPT
 Since all sites on Isomer share the same infrastructure and pull from a central template, there is no need for multiple VAPTs or security reviews.
 
-##### Be IM8 compliant by default
+##### IM8 compliant by default
 We're compliant to all applicable Instruction Manual 8 (IM8) clauses and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). 
 
 
