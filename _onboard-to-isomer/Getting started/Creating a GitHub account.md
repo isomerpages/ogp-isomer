@@ -28,48 +28,28 @@ You will only need a basic account on GitHub to edit the content of your Isomer 
 Enabling two-factor authentication (2FA) on your account can block up to 99% of automated attacks. To ensure the security of our users, Isomer requires all users to enable 2FA on their accounts.
 
 
-Click on ***Settings***
+[Follow the steps listed here to enable your 2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) . Note that you can pick any method of authentification out of TOTP, SMS, or security key.
 
-&lt; INSERT &gt;
+ https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication
 
-
-Click on ***Password and authentification***
-
-&lt; INSERT &gt;
-
-Click on ‘Enable two-factor authentication’ to proceed.
-
-Follow the [steps listed here](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) to enable your 2FA. Note that you can pick any method of 
-
-https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication
-
-CAN WE RECCO SMS?
-
-
+&gt; CAN WE RECCO SMS?
 
 GitHub will prompt you to save your recovery codes. The purpose of these codes are to guarantee you are the owner of your account in case your 2FA fails, such as when you lose your phone.
 
 We strongly encourage saving these codes somewhere secure.
 
-After selecting one of the methods to save the codes, the 'Next' button will be enabled. Proceed.
-
-Now you are ready to gain access to your Isomer website repository.
-
 ### 3. Request for access to Isomer's GitHub
 
-You will need access to your site to start editing.
+After setting up your 2FA, you will need access to your site to start editing it on IsomerCMS.
 
-To gain access, you may submit a request through this [form](https://go.gov.sg/isomer-access). Upon being added to the repository, **you will receive an invite on your registered email.**
+[Fill in this form to request for access to an Isomer site](https://go.gov.sg/isomer-access). **You will receive an invite to your registered email** once we've added you to the repository.
 
-Besides email, you can visit [www.github.com/isomerpages](https://www.github.com/isomerpages), look for a button at the top right hand corner of the page and click that button to accept the invitation. 
-
-Accept the invitation[](https://guide.isomer.gov.sg/setup/github-account/site-access#accept-the-invitation)
+Accept the invitation by clicking on ***Join Isomer***. 
 
 ![](https://1207396641-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MK96ehYqM3WLNOGrhXV%2F-MgdPvQhcSqW1uvNOIFp%2F-MgdPxreyVDpHiSXsOqB%2F12.png?alt=media&amp;token=a1622936-e6c1-4593-b7f0-961d3c504ea1)
 
-Click on `Join Isomer` and you are all set!
+You should see a banner notifying you that `You are now a member of Isomer!`
 
-You will now see a banner notifying you `You are now a member of Isomer!`
 
 ### Take note of your GitHub user types
 
