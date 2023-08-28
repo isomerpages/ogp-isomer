@@ -6,7 +6,7 @@ description: ""
 > Isomer hosts website for 70+ government agencies, ministries, statboards, and schools
 
 
-&lt; Insert image of logo wall &gt;
+![Logo wall of Isomer users such as OGP, MLaw and BOA](/images/our%20users_agency%20logos.png)
 
 
 #### Check out these sites from our users:
