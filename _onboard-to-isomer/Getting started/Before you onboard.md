@@ -19,7 +19,7 @@ Here are some key points to consider:
 
 
 ### Technical considerations
-> Should this be about Isomer tech stack? As well as type of websites + info level e.g. open closed or wtv?
+&gt; Should this be about Isomer tech stack? As well as type of websites + info level e.g. open closed or wtv?
 
 
 - **Isomer hosts all website content on Github – making them publicly available.** This includes the URL of your staging and production site. Isomer has [security measures](https://guide-cms.isomer.gov.sg/faq/security) to avoid unauthorized changes to your live site, and generally these links are hard to find unless specifically looked for. 
@@ -41,6 +41,43 @@ Here are some key points to consider:
 - Isomer is free to use, but agencies must bear the cost of the domain URL and custom SSL. Alternatively, you can onboard to the free Isomer provisioned 'LetsEncrypt' SSL cert, which lasts 3 months and auto-renews itself. (Do we enforce letsEncrypt now????)
 
 - Public officers can add a vendor as a collaborator on IsomerCMS, but are responsible for their actions and usage cleanliness following the 60-day inactive rule. (??? I forgot what this clause is called)
+
+
+### What type of websites is Isomer suitable for?
+    
+
+##### **Isomer best caters to static websites. Characteristics of such websites include:**
+    
+✅ Informational in nature where content is fixed and does not change unless the website owner manually updates it.    
+✅ Contains unclassified content that are meant for public consumption
+    
+##### **Common use cases include:**
+    
+✅ **Informational websites:** Provide information to the public, such as information about government services, policies, and regulations using text and media such as images. <br>
+✅ **Campaign websites:** Promote specific initiatives or programs. <br>
+✅ **Corporate websites:** Provides information on an agency
+    
+Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/), boa.gov.sg, switchsg.org
+    
+##### **Characteristics of websites we do NOT cater for include:**
+    
+❌ User authentification where users are to “log in” to the service <br>
+❌ Dynamic content where users can interact with a website to get personalised information <br>
+❌ Interactive elements such as calculators or maps (Note that some such services can be embedded onto Isomer websites, such as data.gov.sg) <br>
+❌ Calls to a database to store and retrieve information <br>
+❌ Server-side processing???*
+    
+#####    **Common use cases with these chracteristics include:**
+    
+❌ **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments. <br>
+❌ **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets. <br>
+❌ **Data visualization platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
+    
+Examples include: cpf.gov.sg, iras.gov.sg
+
+Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
+
+
 
 ---
 
