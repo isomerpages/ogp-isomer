@@ -8,6 +8,7 @@ third_nav_title: Getting started
 It's important to understand our limitations and ensure that we are a good fit for your use case. Here are some key points to consider:
 
 ### Technical considerations
+> Should this be about Isomer tech stack? As well as type of websites + info level e.g. open closed or wtv?
 - **Isomer hosts all website content on Github – making them publicly available.** This includes the URL of your staging and production site. Isomer has [security measures](https://guide-cms.isomer.gov.sg/faq/security) to avoid unauthorized changes to your live site, and generally these links are hard to find unless specifically looked for. 
 (?Repo privatisation?)
 
