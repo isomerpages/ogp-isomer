@@ -27,4 +27,8 @@ Isomer was also used to build website pages for other COVID-19 campaigns, such a
 
 *covid.gov.sg* was live from September 27, 2021, to February 13, 2023.
 
-&lt; INSERT PICTURE &gt;
+![A screenshot of the covid.gov.sg landing page](/images/CovidGovSG/covidgovsg_1.png)
+
+![A screenshot of a checkfirst checker embedded on covid.gov.sg ](/images/CovidGovSG/covidgovsg_2.png)
+
+![A screenshot of the page on Eligibility for the home recovery programme](/images/CovidGovSG/covidgovsg_3.png)
