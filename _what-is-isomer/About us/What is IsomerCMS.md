@@ -4,11 +4,10 @@ permalink: /what-is-isomer/isomercms/
 description: ""
 third_nav_title: About us
 ---
-IsomerCMS stands for **Content Management System**. This is the interface through which Public Officers can make edits and publish changes to their websites themselves, without having to go through any third party.
+IsomerCMS stands for **Content Management System**. This is the platform through which Public Officers can make edits and publish changes to their websites themselves, without having to go through any third party.
 
 
 #### What can I do on IsomerCMS?
-You can do the following actions:
 
 - Create and manage site pages
 - Edit page content
