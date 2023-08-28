@@ -4,7 +4,7 @@ collections:
     order:
       - About us/.keep
       - About us/Isomer.md
-      - About us/What is IsomerCMS.md
+      - About us/IsomerCMS.md
       - Why use Isomer.md
       - Our users.md
       - Open source (For developers).md
