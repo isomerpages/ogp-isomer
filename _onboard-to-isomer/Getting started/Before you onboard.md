@@ -54,7 +54,7 @@ Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20
 
 
 ### Technical considerations
-&gt; Should this be about Isomer tech stack? As well as type of websites + info level e.g. open closed or wtv?
+&gt; Should this be about Isomer tech stack? As well as type of websites + info level e.g. open closed or wtv? Maybe can be another page
 
 
 - **Isomer hosts all website content on Github – making them publicly available.** This includes the URL of your staging and production site. Isomer has [security measures](https://guide-cms.isomer.gov.sg/faq/security) to avoid unauthorized changes to your live site, and generally these links are hard to find unless specifically looked for. 
