@@ -53,19 +53,18 @@ You should see a banner notifying you that `You are now a member of Isomer!`
 
 ### Take note of your GitHub user types
 
-**All users on Isomer holds the same GitHub access type – editor access**.
+**All users on Isomer holds the same GitHub access type – editor access**. With editor access, you'll be able to make changes to your site, create a pull request, and approve someone else's pull request.
 
-With editor access, you'll be able to make changes to your site, create a pull request, and approve someone else's pull request.
+~~We do not provide pages specific restricted access but do note that all changes are tracked (even a single full stop you add to or remove from the page). That being said, do make changes to your site responsibly as all these changes are being tracked.~~
 
-We do not provide pages specific restricted access but do note that all changes are tracked (even a single full stop you add to or remove from the page). That being said, do make changes to your site responsibly as all these changes are being tracked.
+~~All isomer team members are admin users (with the ability to create new site, add and remove users, and grant permissions to users)~~
 
-All isomer team members are admin users (with the ability to create new site, add and remove users, and grant permissions to users)
+##### View the list of users in your team
 
-To view the list of users in your team.
-
-1. Go to github.com/isomerpages
+1. Go to [github.com/isomerpages](https://github.com/isomerpages)
 2. Click on the team's tab
-3. Enter your team name in the search field
+&lt; INSERT &gt; 
+3. Enter your repository name in the search field
 
 
 
