@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Getting started
 ---
 ##### Read through this before deciding to onboard to Isomer
-It's important to understand our limitations and ensure that we are a good fit for your use case. Here are some key points to consider:
+It's important to understand our limitations and ensure that we are a good fit for your use case. You can also [read our Onboarding FAQs]() for more information. Here are some key points to consider:
 
-~We do not provide pages specific restricted access but do note that all changes are tracked (even a single full stop you add to or remove from the page). That being said, do make changes to your site responsibly as all these changes are being tracked.~
-
-~All isomer team members are admin users (with the ability to create new site, add and remove users, and grant permissions to users)~
 
 ### Technical considerations
 > Should this be about Isomer tech stack? As well as type of websites + info level e.g. open closed or wtv?
@@ -38,14 +35,16 @@ It's important to understand our limitations and ensure that we are a good fit f
 
 - Public officers can add a vendor as a collaborator on IsomerCMS, but are responsible for their actions and usage cleanliness following the 60-day inactive rule. (??? I forgot what this clause is called)
 
-If you have any doubts, please contact us at [support@isomer.gov.sg](mailto:support@isomer.gov.sg) for clarification.
 
+### Access considerations?
+
+We do not provide pages specific restricted access but do note that all changes are tracked (even a single full stop you add to or remove from the page). That being said, do make changes to your site responsibly as all these changes are being tracked.
 
 ---
 
-[from FAQ] 
+# [from FAQ] 
 
-Isomer is an **informational static website builder** which means Isomer is unable to support any Javascripts or animation required on the website.
+1. Isomer is an **informational static website builder** which means Isomer is unable to support any Javascripts or animation required on the website.
     
 
 2. Upon onboarding, we strongly recommend you try out the CMS to see if it suits your use case.
