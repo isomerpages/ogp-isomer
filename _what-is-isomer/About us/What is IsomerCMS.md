@@ -16,3 +16,6 @@ IsomerCMS stands for **Content Management System**. This is the platform through
 - Raise and approve review requests to publish changes
 - Publish content in approved review requests
 
+![Screenshot of the IsomerCMS Site Dashboard page](/images/IsomerCMS/isomercms_site%20dashboard.png)
+
+![Screenshot of the IsomerCMS Workspace](/images/IsomerCMS/isomercms_workspace.png)
