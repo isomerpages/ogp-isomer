@@ -28,44 +28,9 @@ An internal study conducted by the Singapore government in 2017 found that over 
 - Our static site architecture is designed for **fast loading and eliminates many vulnerabilities**, providing a secure and reliable platform for your website
 - We use automated monitoring to improve the **reliability and security** of your website, ensuring that it is always up-to-date and protected against potential threats
 
-
-
----
-
-[old]
-
-
-### Our vision
     
-Isomer aims to empower the government to easily and effectively communicate with citizens.
-
-For citizens, Isomer aims to enable them to easily find and navigate information
+### Our impact
     
-    
-### Our mission
-    
-We do this by making Isomer the de-facto website builder for the government which enables any public officer to create user-friendly, reliable, cost-effective, secure and fast websites.
-    
-### History
-Background
-    
-An internal study conducted by the Singapore government in 2017 found that over one-third of our government websites failed basic usability checks. Other problems include:
-    
-- Website downtime: Cases of government sites not accessible for hours in any given month
-- Poor UX: Many had outdated designs that do not work well on mobile devices and are unaccessible to persons with visual impairments
-- Slow: Certain sites took more than 10 seconds to load, which far exceeded the average speed of about 2 seconds that modern sites take
-- Expensive: A simple website can cost the Singapore government upwards of S$25,000 per year, racking a hefty bill across the government
-    
-    ### Solution
-    
-    Isomer provides government agencies with an easy-to-deploy static website building and hosting service to create usable, secure and faster informational websites quickly. Isomer provides:
-    
-    *   Pre-tested user interface that is usable and accessible to people with disabilities
-    *   Static site architecture that allows for fast loading and eliminates many vulnerabilities
-    *   Automated monitoring that improves reliability and security
-    
-### Impact
-    
-- 106 websites launched
-- Achieved &gt; S$2 million yearly cost savings
-- 100x reduction in downtime in government sites
+##### 🖥️ 500+ websites launched
+##### 💰 S$2 million yearly cost savings
+##### 🪦 100x reduction in downtime of government sites
