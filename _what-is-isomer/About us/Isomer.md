@@ -4,7 +4,7 @@ permalink: /what-is-isomer/about-us/
 description: ""
 third_nav_title: About us
 ---
-&gt; Any public officer can build a good website
+> Any public officer can build a good website
 
 
 **Isomer mainly caters to static, informational websites.** Our team works on the belief that websites are important ways that the government shares information with citizens. As such, we want to help any public officer to set up a *good* website easily without any prior coding or design knowledge.
