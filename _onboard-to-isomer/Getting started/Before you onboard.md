@@ -62,6 +62,8 @@ Examples include: cpf.gov.sg, iras.gov.sg
 
 - Isomer Support is able to help with technical assistance of the CMS and simple markdown or HTML debugging, **but does not entertain debugging requests for complex customisations of the Isomer template CSS.**
 
+- Each website should have at least 2 Public Officers added to it. To publish changes to your website, a colleague needs to approve the changes. The Isomer team does not do this approval for you.
+
 
 ### Technical considerations
 View the Isomer Tech Stack
