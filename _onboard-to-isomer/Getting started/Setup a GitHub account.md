@@ -42,7 +42,7 @@ After setting up your 2FA, you will need access to your site to start editing it
 
 [Fill in this form to request for access to an Isomer site](https://go.gov.sg/isomer-access). **You will receive an invite to your registered email** once we've added you to the repository.
 
-Click on the link in your email and accept the invitation by clicking on ***Join Isomer***. 
+**Click on the link in your email** and accept the invitation by clicking on ***Join Isomer***. 
 
 ![](https://1207396641-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MK96ehYqM3WLNOGrhXV%2F-MgdPvQhcSqW1uvNOIFp%2F-MgdPxreyVDpHiSXsOqB%2F12.png?alt=media&amp;token=a1622936-e6c1-4593-b7f0-961d3c504ea1)
 
