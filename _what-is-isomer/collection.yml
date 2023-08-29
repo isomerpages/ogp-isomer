@@ -2,11 +2,11 @@ collections:
   what-is-isomer:
     output: true
     order:
-      - For developers/.keep
-      - For developers/Isomer Tech Stack.md
-      - For developers/Open source code.md
       - About us/.keep
       - About us/Isomer.md
       - About us/IsomerCMS.md
       - Why use Isomer.md
       - Our users.md
+      - For developers/.keep
+      - For developers/Isomer Tech Stack.md
+      - For developers/Open source code.md
