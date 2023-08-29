@@ -65,11 +65,14 @@ Examples include: cpf.gov.sg, iras.gov.sg
 - Each website should have at least 2 Public Officers added to it. To publish changes to your website, a colleague needs to approve the changes. The Isomer team does not do this approval for you.
 
 
-### Technical considerations
+### Compliance
+- By using Isomer, your site is by default compliant to all applicable IM8 clauses. 
 View the Isomer Tech Stack
 
 
 Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
+
+
 
 
 ---
