@@ -59,7 +59,9 @@ Isomer also provides the following services:
 *   Technical support and assistance with usage of IsomerCMS through our support channels
 *   Training of how to use IsomerCMS on request
 
-&gt; **We do not offer website design services, and are unable to provide custom designs or layouts for your website.** Instead, Isomer maintains a central template that offers some basic customisation that users can leverage on to begin building their website.
+> We do not offer website design services, and are unable to provide custom designs or layouts for your website.
+
+Instead, Isomer maintains a central template that offers some basic customisation that users can leverage on to begin building their website.
 
 
 ### Other considerations
