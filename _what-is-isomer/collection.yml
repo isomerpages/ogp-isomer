@@ -2,6 +2,7 @@ collections:
   what-is-isomer:
     output: true
     order:
+      - For developers/Isomer Tech Stack.md
       - For developers/.keep
       - About us/.keep
       - About us/Isomer.md
