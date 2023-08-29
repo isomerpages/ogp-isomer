@@ -7,14 +7,14 @@ description: ""
 
 This helps when you need to launch a website quickly. Here's how we'll speed up the process for you:
 
-##### No need for a tender or AOR
-Isomer is an internal government tool, meaning there is no need to set up a tender or AOR.
+- ##### No need for a tender or AOR
+	Isomer is an internal government tool, meaning there is no need to set up a tender or AOR.
 
-##### No need to do your own VAPT
-Since all sites on Isomer share the same infrastructure and pull from a central template, there is no need for multiple VAPTs or security reviews.
+- ##### No need to do your own VAPT
+	Since all sites on Isomer share the same infrastructure and pull from a central template, there is no need for multiple VAPTs or security reviews.
 
-##### IM8 compliant by default
-We're compliant to all applicable Instruction Manual 8 (IM8) clauses and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). 
+- ##### IM8 compliant by default
+	We're compliant to all applicable Instruction Manual 8 (IM8) clauses and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). 
 
 
 ### 2. Start fast with our website template
