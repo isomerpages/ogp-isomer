@@ -4,7 +4,7 @@ collections:
     order:
       - For developers/.keep
       - For developers/Isomer Tech Stack.md
-      - For developers/Open source (For developers).md
+      - For developers/Open source.md
       - About us/.keep
       - About us/Isomer.md
       - About us/IsomerCMS.md
