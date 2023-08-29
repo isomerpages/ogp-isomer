@@ -14,7 +14,7 @@ Here are some key points to consider:
 
 ##### **Isomer best caters to static websites. Characteristics of such websites include:**
     
-✅ Content shown on the website is fixed and does not change unless the website owner manually updates it.  
+✅ Content shown on the website is fixed and does not change unless the website owner manually updates it.   
 ✅ Contains unclassified content that is meant for public consumption.
     
 **Common use cases include:**    
@@ -39,6 +39,7 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
     
 Examples include: cpf.gov.sg, iras.gov.sg
 
+> Note that some services, while not controlled from within IsomerCMS, can be embedded onto an Isomer page such as FormSG forms and CheckFirst checkers.
 
 ### What are my agency's responsibilities for a website hosted on Isomer?
 
