@@ -43,24 +43,30 @@ Examples include: cpf.gov.sg, iras.gov.sg
 
 ### General considerations
 
-**Isomer does not support any form of Javascript or animations.**&nbsp;We are designed for informational and static websites only.
-    
-**Isomer has placed restrictions on certain actions to follow government compliance regulations,**&nbsp;such as disallowing the deletion of required pages (e.g. privacy, terms of use).
+- **Isomer does not support any form of Javascript or animations.**&nbsp;We are designed for informational and static websites only.
 
-~~- **All site edits and configurations must be done on IsomerCMS**, and we may drop support for websites that make edits through other means.~~
-    
-- **We limit each image or file size uploaded to 5MB** to ensure fast loading times, but you can upload larger files to [go.gov.sg](https://go.gov.sg/#/) and link to them on a page.
+- **We limit each image or file size uploaded to IsomerCMS to 5MB** to ensure fast loading times, but you can upload larger files to [go.gov.sg](https://go.gov.sg/#/) and link to them on a page.
 
-- We do not provide pages specific restricted access but do note that all changes are tracked (even a single full stop you add to or remove from the page). That being said, do make changes to your site responsibly as all these changes are being tracked.
+    
+**Isomer has placed restrictions on certain actions to follow government compliance regulations,** such as disallowing the deletion of required pages (e.g. privacy, terms of use).
+
+- We can create subdomain sites if requested. Noted, we can create a site for you as you've shared that the site will be hosted on the domain that you've share.
+
+    
+
+
+
 
     
 
 ### Support and cost 
 - Isomer is free to use, but agencies must bear the cost of the domain URL and custom SSL. Alternatively, you can onboard to the free Isomer provisioned 'LetsEncrypt' SSL cert, which lasts 3 months and auto-renews itself. (Do we enforce letsEncrypt now????)
 
-- Public officers can add a vendor as a collaborator on IsomerCMS, but are responsible for their actions and usage cleanliness following the 60-day inactive rule. (??? I forgot what this clause is called)
+- Isomer allows Public officers to add vendors as collaborators to their website, but agencies are responsible for all communications and actions of their vendors. We recommend agencies regularly review and remove any un
 
-- Enquiries sent to [support@isomer.gov.sg](mailto:support@isomer.gov.sg) may take 3-5 working days to respond, but you can also refer to our guide for answers to common questions.
+&gt; Agencies are responsible for migrating any existing content from a previous website. The Isomer team cannot provide this service for you.
+
+- Isomer Support is able to help with technical assistance of the CMS and simple markdown or HTML debugging, **but does not entertain debugging requests for complex customisations of the Isomer template CSS.**
 
 
 ### Technical considerations
