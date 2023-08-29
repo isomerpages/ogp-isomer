@@ -40,7 +40,6 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
     
 Examples include: cpf.gov.sg, iras.gov.sg
 
-Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
 
 
 ### General considerations
@@ -67,6 +66,9 @@ Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20
 
 ### Technical considerations
 View the Isomer Tech Stack
+
+
+Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
 
 
 ---
