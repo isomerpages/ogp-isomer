@@ -46,10 +46,7 @@ Examples include: cpf.gov.sg, iras.gov.sg
 - **Isomer does not support any form of Javascript or animations.**&nbsp;We are designed for informational and static websites only.
 
 - **We limit each image or file size uploaded to IsomerCMS to 5MB** to ensure fast loading times, but you can upload larger files to [go.gov.sg](https://go.gov.sg/#/) and link to them on a page.
-
     
-**Isomer has placed restrictions on certain actions to follow government compliance regulations,** such as disallowing the deletion of required pages (e.g. privacy, terms of use).
-
 - We can create subdomain sites if requested. Noted, we can create a site for you as you've shared that the site will be hosted on the domain that you've share.
     
 
@@ -70,8 +67,10 @@ Examples include: cpf.gov.sg, iras.gov.sg
 
 system performance test (SPT), SSAT, VAPT etc?
 
-View the Isomer Tech Stack
+- **Isomer has placed restrictions on certain actions to follow government compliance regulations,** such as disallowing the deletion of required pages (e.g. privacy, terms of use).
 
+
+View the Isomer Tech Stack
 
 Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
 
