@@ -11,31 +11,30 @@ Here are some key points to consider:
 
 
 ### What types of websites are suitable for Isomer?
-    
 
 ##### **Isomer best caters to static websites. Characteristics of such websites include:**
     
-✅ Informational in nature where content is fixed and does not change unless the website owner manually updates it.    
-✅ Contains unclassified content that are meant for public consumption
+✅ Content shown on the website is fixed and does not change unless the website owner manually updates it.  
+✅ Contains unclassified content that is meant for public consumption.
     
 **Common use cases include:**    
-✅ **Informational websites:** Provide information to the public, such as information about government services, policies, and regulations using text and media such as images. <br>
-✅ **Campaign websites:** Promote specific initiatives or programs. <br>
+✅ **Informational websites:** Provide information to the public, such as information about government services, policies, and regulations using text and media such as images.   
+✅ **Campaign websites:** Promote specific initiatives or programs.  
 ✅ **Corporate websites:** Provides information on an agency
     
 Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/), boa.gov.sg, switchsg.org
     
 ##### **Characteristics of websites we do NOT cater for include:**
     
-❌ User authentification where users are to “log in” to the service <br>
-❌ Dynamic content where users can interact with a website to get personalised information <br>
+❌ User authentification where users are to “log in” to the service  
+❌ Dynamic content where users can interact with a website to get personalised information  
 ❌ Interactive elements such as calculators or maps (Note that some such services can be embedded onto Isomer websites, such as data.gov.sg) <br>
-❌ Calls to a database to store and retrieve information <br>
+❌ Calls to a database to store and retrieve information  
 ❌ Server-side processing???*
     
-**Common use cases with these chracteristics include:** <br>
-❌ **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments. <br>
-❌ **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets. <br>
+**Common use cases with these chracteristics include:**  
+❌ **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments.  
+❌ **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets.  
 ❌ **Data visualization platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
     
 Examples include: cpf.gov.sg, iras.gov.sg
@@ -56,12 +55,12 @@ Examples include: cpf.gov.sg, iras.gov.sg
 
     
 
-### Support and cost
-- Enquiries sent to [support@isomer.gov.sg](mailto:support@isomer.gov.sg) may take 3-5 working days to respond, but you can also refer to our guide for answers to common questions.
-    
+### Support and cost 
 - Isomer is free to use, but agencies must bear the cost of the domain URL and custom SSL. Alternatively, you can onboard to the free Isomer provisioned 'LetsEncrypt' SSL cert, which lasts 3 months and auto-renews itself. (Do we enforce letsEncrypt now????)
 
 - Public officers can add a vendor as a collaborator on IsomerCMS, but are responsible for their actions and usage cleanliness following the 60-day inactive rule. (??? I forgot what this clause is called)
+
+- Enquiries sent to [support@isomer.gov.sg](mailto:support@isomer.gov.sg) may take 3-5 working days to respond, but you can also refer to our guide for answers to common questions.
 
 
 ### Technical considerations
@@ -72,6 +71,16 @@ Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20
 
 
 ---
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # [from FAQ] 
 
