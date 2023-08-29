@@ -51,20 +51,14 @@ Examples include: cpf.gov.sg, iras.gov.sg
 **Isomer has placed restrictions on certain actions to follow government compliance regulations,** such as disallowing the deletion of required pages (e.g. privacy, terms of use).
 
 - We can create subdomain sites if requested. Noted, we can create a site for you as you've shared that the site will be hosted on the domain that you've share.
-
-    
-
-
-
-
     
 
 ### Support and cost 
 - The Isomer platform and service is free for Public Officers to use, but in order to launch their site, agencies must bear the cost of the domain URL, which you can procure from IT Service Management (ITSM).
 
-- Isomer allows Public officers to add vendors as collaborators to their website, but agencies are responsible for all communications and actions of their vendors. We recommend agencies regularly review and remove any un
+- Isomer allows Public officers to add vendors as collaborators to their website, but **agencies are responsible for all communication with and actions of their vendors.** The Isomer team will not directly liaise with any vendors.
 
-- **Agencies are responsible for migrating any existing content from a previous website** to their Isomer website The Isomer team cannot provide this service for you.
+- **Agencies are responsible for migrating any existing content from a previous website** to their Isomer website. The Isomer team cannot provide this service for you.
 
 - Isomer Support is able to help with technical assistance of the CMS and simple markdown or HTML debugging, **but does not entertain debugging requests for complex customisations of the Isomer template CSS.**
 
