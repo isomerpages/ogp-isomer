@@ -51,7 +51,7 @@ Examples include: cpf.gov.sg, iras.gov.sg
     
 
 ### Support and cost 
-- The Isomer platform and service is free for Public Officers to use, but in order to launch their site, agencies must bear the cost of the domain URL, which you can procure from IT Service Management (ITSM).
+- The Isomer platform and service is free for Public Officers to use, but in order to launch their site, **agencies must bear the cost of the domain URL**, which you can procure from IT Service Management (ITSM).
 
 - Isomer allows Public officers to add vendors as collaborators to their website, but **agencies are responsible for all communication with and actions of their vendors.** The Isomer team will not directly liaise with any vendors.
 
@@ -59,7 +59,7 @@ Examples include: cpf.gov.sg, iras.gov.sg
 
 - Isomer Support is able to help with technical assistance of the CMS and simple markdown or HTML debugging, **but does not entertain debugging requests for complex customisations of the Isomer template CSS.**
 
-- Each website should have at least 2 Public Officers added to it. To publish changes to your website, a colleague needs to approve the changes. The Isomer team does not do this approval for you.
+- Each website should have at least 2 Public Officers added to it. To publish changes to your website, a colleague needs to approve your changes. The Isomer team does not do this approval for you. [Learn more about review requests]()
 
 
 ### Compliance
