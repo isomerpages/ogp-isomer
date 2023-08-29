@@ -60,11 +60,11 @@ Examples include: cpf.gov.sg, iras.gov.sg
     
 
 ### Support and cost 
-- Isomer is free to use, but agencies must bear the cost of the domain URL and custom SSL. Alternatively, you can onboard to the free Isomer provisioned 'LetsEncrypt' SSL cert, which lasts 3 months and auto-renews itself. (Do we enforce letsEncrypt now????)
+- The Isomer platform and service is free for Public Officers to use, but in order to launch their site, agencies must bear the cost of the domain URL, which you can procure from IT Service Management (ITSM).
 
 - Isomer allows Public officers to add vendors as collaborators to their website, but agencies are responsible for all communications and actions of their vendors. We recommend agencies regularly review and remove any un
 
-&gt; Agencies are responsible for migrating any existing content from a previous website. The Isomer team cannot provide this service for you.
+- **Agencies are responsible for migrating any existing content from a previous website** to their Isomer website The Isomer team cannot provide this service for you.
 
 - Isomer Support is able to help with technical assistance of the CMS and simple markdown or HTML debugging, **but does not entertain debugging requests for complex customisations of the Isomer template CSS.**
 
