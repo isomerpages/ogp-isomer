@@ -3,7 +3,7 @@ title: Our users
 permalink: /what-is-isomer/our-users/
 description: ""
 ---
-> Isomer hosts website for 70+ government agencies, ministries, statboards, and schools
+> Isomer hosts websites for 70+ government agencies, ministries, statboards, and schools
 
 
 ![Logo wall of Isomer users such as OGP, MLaw and BOA](/images/our%20users_agency%20logos.png)
