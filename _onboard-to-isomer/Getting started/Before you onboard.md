@@ -40,8 +40,29 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
 Examples include: cpf.gov.sg, iras.gov.sg
 
 
+### What are my agency's responsibilities for a website hosted on Isomer?
 
-### General considerations
+Agencies are responsible for all content, management and maintenance of your Isomer website. This includes:
+
+- Migrating any content from an old website to a new Isomer website
+- Updating and creating content such as text or images
+- Approving and publishing any content changes
+- Ensuring that your website content meets content-related standards in DSS
+- Maintaining access rights to the editing of your website and regularly removing inactive users
+
+These can be done through our Content Management System, IsomerCMS. [Learn more about IsomerCMS]()
+
+Isomer will be responsible for website hosting, maintenance, support and ensuring compliance to relevant clauses of the IM8, DSS and UC. We are here to ensure that your website is up and running smoothly, and we provide technical support if you encounter any issues.
+
+Isomer also provides the following services:
+
+*   Technical support and assistance with usage of IsomerCMS through our support channels
+*   Training of how to use IsomerCMS on request
+
+&gt; **We do not offer website design services, and are unable to provide custom designs or layouts for your website.** Instead, Isomer maintains a central template that offers some basic customisation that users can leverage on to begin building their website.
+
+
+### Other considerations
 
 - **Isomer does not support any form of Javascript or animations.**&nbsp;We are designed for informational and static websites only.
 - **We limit each image or file size uploaded to IsomerCMS to 5MB** to ensure fast loading times, but you can upload larger files to [go.gov.sg](https://go.gov.sg/#/) and link to them on a page.
@@ -70,6 +91,7 @@ You can reach out to [Isomer Support](mailto:%20support@isomer.gov.sg) for furth
 
 
 View the Isomer Tech Stack
+
 
 Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
 
