@@ -18,8 +18,7 @@ Here are some key points to consider:
 ✅ Informational in nature where content is fixed and does not change unless the website owner manually updates it.    
 ✅ Contains unclassified content that are meant for public consumption
     
-##### **Common use cases include:**
-    
+**Common use cases include:**    
 ✅ **Informational websites:** Provide information to the public, such as information about government services, policies, and regulations using text and media such as images. <br>
 ✅ **Campaign websites:** Promote specific initiatives or programs. <br>
 ✅ **Corporate websites:** Provides information on an agency
