@@ -34,7 +34,7 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
 ❌ Calls to a database to store and retrieve information <br>
 ❌ Server-side processing???*
     
-#####    **Common use cases with these chracteristics include:**
+**Common use cases with these chracteristics include:**
     
 ❌ **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments. <br>
 ❌ **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets. <br>
