@@ -28,7 +28,7 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
     
 ❌ User authentification where users are to “log in” to the service  
 ❌ Dynamic content where users can interact with a website to get personalised information  
-❌ Interactive elements such as calculators or maps (Note that some such services can be embedded onto Isomer websites, such as data.gov.sg) <br>
+❌ Native interactive elements such as calculators or maps (Note that some such services can be embedded onto Isomer websites, such as data.gov.sg or CheckFirst.gov.sg)  
 ❌ Calls to a database to store and retrieve information  
 ❌ Server-side processing???*
     
