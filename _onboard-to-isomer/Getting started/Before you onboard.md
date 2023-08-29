@@ -28,7 +28,7 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
     
 ❌ User authentification where users are to “log in” to the service  
 ❌ Dynamic content where users can interact with a website to get personalised information  
-❌ Native webapp features such as calculators or maps**
+❌ Specialised widgets such as calculators or maps. However, you can embed some services onto an Isomer page, and we allow chatbots such as VICA or AskJamie.
 ❌ Any type of calls to a database to store and retrieve information using an API or requires any form of server-side processing
     
 **Common use cases with these chracteristics include:**  
