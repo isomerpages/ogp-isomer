@@ -26,6 +26,6 @@ We help to redirect HTTP to HTTPS traffic through our redirection server
 ~~We also help redirect the raw root domain to www cos of government DNS 
 ~~
 
-
+> Agencies are responsible for migrating any existing content from a previous website. The Isomer team cannot provide this service for you.
 
 -
