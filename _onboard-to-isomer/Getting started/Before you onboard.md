@@ -26,10 +26,10 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
     
 ##### **Characteristics of websites we do NOT cater for include:**
     
-❌ User authentification where users are to “log in” to the service  
-❌ Dynamic content where users can interact with a website to get personalised information  
-❌ Specialised widgets such as calculators or maps. However, you can embed some services onto an Isomer page, and we allow chatbots such as VICA or AskJamie.
-❌ Any type of calls to a database to store and retrieve information using an API or requires any form of server-side processing
+❌ User authentification where users have to 'log in' to the service  
+❌ Website content that can be personalized and interacted with by users to obtain customized information.  
+❌ Specialised widgets such as calculators or maps.** However, you can embed some services onto an Isomer page, and we allow chatbots such as VICA or AskJamie.  
+❌ Any calls to a database for storing or retrieving information using an API or any form of server-side processing.
     
 **Common use cases with these chracteristics include:**  
 ❌ **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments.  
