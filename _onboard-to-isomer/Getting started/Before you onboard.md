@@ -63,9 +63,7 @@ Examples include: cpf.gov.sg, iras.gov.sg
 
 
 ### Compliance
-- Agencies do not need to be responsible for any IM8 clauses.**By using Isomer, your site is _by default compliant_ to all applicable IM8 clauses.** The Isomer Team manages all security centrally, including any security testing (i.e. VAPT etc) and audits/tests. In the event that any IM8-related queries come along, we will sort it out separately with the IM8 team.
-
-system performance test (SPT), SSAT, VAPT etc?
+- Agencies do not need to be responsible for any IM8 clauses. **By using Isomer, your site is _by default compliant_ to all applicable IM8 clauses.** The Isomer Team manages all security centrally, including any security testing (i.e. VAPT etc) and audits/tests. In the event that any IM8-related queries come along, we will sort it out separately with the IM8 team.
 
 - **Isomer has placed restrictions on certain actions to follow government compliance regulations,** such as disallowing the deletion of required pages (e.g. privacy, terms of use).
 
