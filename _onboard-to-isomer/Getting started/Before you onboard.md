@@ -28,9 +28,8 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
     
 ❌ User authentification where users are to “log in” to the service  
 ❌ Dynamic content where users can interact with a website to get personalised information  
-❌ Native interactive elements such as calculators or maps (Note that some such services can be embedded onto Isomer websites, such as data.gov.sg or CheckFirst.gov.sg)  
-❌ Calls to a database to store and retrieve information  
-❌ Server-side processing???*
+❌ Native webapp features such as calculators or maps**
+❌ Any type of calls to a database to store and retrieve information using an API or requires any form of server-side processing
     
 **Common use cases with these chracteristics include:**  
 ❌ **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments.  
@@ -39,7 +38,7 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
     
 Examples include: cpf.gov.sg, iras.gov.sg
 
-> Note that some services, while not controlled from within IsomerCMS, can be embedded onto an Isomer page such as FormSG forms and CheckFirst checkers.
+> ** Note that some services, while not hosted by IsomerCMS, can be embedded onto an Isomer page such as FormSG forms and CheckFirst checkers.
 
 ### What are my agency's responsibilities for a website hosted on Isomer?
 
