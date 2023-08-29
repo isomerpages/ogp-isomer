@@ -46,28 +46,17 @@ Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20
 
 
 ### General considerations
+
+**Isomer does not support any form of Javascript or animations.**&nbsp;We are designed for informational and static websites only.
+    
+**Isomer has placed restrictions on certain actions to follow government compliance regulations,**&nbsp;such as disallowing the deletion of required pages (e.g. privacy, terms of use).
+
 ~~- **All site edits and configurations must be done on IsomerCMS**, and we may drop support for websites that make edits through other means.~~
     
 - **We limit each image or file size uploaded to 5MB** to ensure fast loading times, but you can upload larger files to [go.gov.sg](https://go.gov.sg/#/) and link to them on a page.
 
 - We do not provide pages specific restricted access but do note that all changes are tracked (even a single full stop you add to or remove from the page). That being said, do make changes to your site responsibly as all these changes are being tracked.
 
-
-### Technical considerations
-&gt; Should this be about Isomer tech stack? As well as type of websites + info level e.g. open closed or wtv? Maybe can be another page
-
-
-- **Isomer hosts all website content on Github – making them publicly available.** This includes the URL of your staging and production site. Isomer has [security measures](https://guide-cms.isomer.gov.sg/faq/security) to avoid unauthorized changes to your live site, and generally these links are hard to find unless specifically looked for. 
-(?Repo privatisation?)
-
-
-- **Isomer does not support any form of Javascript or animations.** We are designed for informational and static websites only.
-		
-- **Isomer has placed restrictions on certain actions to follow government compliance regulations,** such as disallowing the deletion of required pages (e.g. privacy, terms of use).
-   
-- **Isomer uses [KeyCDN](https://www.keycdn.com/about) as our CDN provider** to make sure sites are always up. It also helps protect us against DDOS attacks. **(Is this necessary)**
-    
-- **All content hosted on Isomer is passed to ~~Netlify~~ Amplify** to be deployed as staging and production sites, which is how staging links are produced. **(Is this necessary)**
     
 
 ### Support and cost
@@ -76,6 +65,10 @@ Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20
 - Isomer is free to use, but agencies must bear the cost of the domain URL and custom SSL. Alternatively, you can onboard to the free Isomer provisioned 'LetsEncrypt' SSL cert, which lasts 3 months and auto-renews itself. (Do we enforce letsEncrypt now????)
 
 - Public officers can add a vendor as a collaborator on IsomerCMS, but are responsible for their actions and usage cleanliness following the 60-day inactive rule. (??? I forgot what this clause is called)
+
+
+### Technical considerations
+View the Isomer Tech Stack
 
 
 ---
