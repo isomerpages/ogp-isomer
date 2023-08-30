@@ -5,7 +5,7 @@ description: ""
 ---
 ### What types of websites are suitable for Isomer?
 
-##### **Isomer best caters to static websites. Characteristics of such websites include:**
+##### Isomer best caters to static websites. Characteristics of such websites include:
     
 ✅ Content shown on the website is fixed and does not change unless the website owner manually updates it.   
 ✅ Contains unclassified content that is meant for public consumption.
@@ -15,7 +15,7 @@ description: ""
 ✅ **Campaign websites:** Promote specific initiatives or programs.  
 ✅ **Corporate websites:** Provides information on an agency
     
-Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/), boa.gov.sg, switchsg.org
+Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/), [boa.gov.sg](https://www.boa.gov.sg/), [switchsg.org](https://www.switchsg.org/)
     
 ##### **Characteristics of websites we do NOT cater for include:**
     
