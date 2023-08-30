@@ -28,8 +28,19 @@ An internal study conducted by the Singapore government in 2017 found that over 
 - Our static site architecture is designed for **fast loading and eliminates many vulnerabilities**, providing a secure and reliable platform for your website
 - We use automated monitoring to improve the **reliability and security** of your website, ensuring that it is always up-to-date and protected against potential threats
 
+### What is IsomerCMS?
+[IsomerCMS](cms.isomer.gov.sg) stands for **Content Management System**. This is the platform through which Public Officers can make edits and publish changes to their websites themselves, without having to go through any third party.
 
 
-MOVE ISOMERCMS INTO HERE
-TEMPLATE, INFRA, and CMS MAKES UP ISOMER
--> Your website is made up of 3 parts
+#### What can I do on IsomerCMS?
+
+- Create and manage site pages
+- Edit page content
+- Add or remove collaborators to your website
+- Edit site settings
+- Raise and approve review requests to publish changes
+- Publish content in approved review requests
+
+![Screenshot of the IsomerCMS Site Dashboard page](/images/IsomerCMS/isomercms_site%20dashboard.png)
+
+![Screenshot of the IsomerCMS Workspace](/images/IsomerCMS/isomercms_workspace.png)
