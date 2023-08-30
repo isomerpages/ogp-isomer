@@ -42,6 +42,9 @@ The Isomer team regularly conducts Vulnerability Assessment Penetration Testing 
 Moreover, the Isomer Team monitors your sites 24/7 and has set up alarms and procedures to ensure that team members are always on call to immediately attend to any downtime of your sites.
 
 
+5W 1H method -> Move static website info out to it's own page
+
+
 ##### How do I edit my website content? Do I need to know coding?
 
 #####  What are my options if I am unable to use Isomer?
