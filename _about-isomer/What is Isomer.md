@@ -17,23 +17,6 @@ description: ""
 We do this by making Isomer the de-facto website builder for the government – which enables any public officer to create user-friendly, reliable, cost-effective, secure and fast websites.
 
 
-### What is IsomerCMS?
-[IsomerCMS](cms.isomer.gov.sg) stands for **Content Management System**. This is the platform through which Public Officers can make edits and publish changes to their websites themselves, without having to go through any third party.
-
-
-#### What can I do on IsomerCMS?
-
-- Create and manage site pages
-- Edit page content
-- Add or remove collaborators to your website
-- Edit site settings
-- Raise and approve review requests to publish changes
-- Publish content in approved review requests
-
-![Screenshot of the IsomerCMS Site Dashboard page](/images/IsomerCMS/isomercms_site%20dashboard.png)
-
-![Screenshot of the IsomerCMS Workspace](/images/IsomerCMS/isomercms_workspace.png)
-
 ### Our history
 Isomer started as an [OGP hackathon project](https://hack.gov.sg/) in 2020. 
 
