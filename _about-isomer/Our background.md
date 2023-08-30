@@ -5,16 +5,15 @@ description: ""
 ---
 > Any public officer can build a good website
 
+Our team works on the belief that websites are important ways that the government shares information with citizens. As such, we want to help any public officer to set up a *good* website easily without any prior coding or design knowledge.
 
-**Isomer mainly caters to static, informational websites.** Our team works on the belief that websites are important ways that the government shares information with citizens. As such, we want to help any public officer to set up a *good* website easily without any prior coding or design knowledge.
+We do this by making Isomer the de-facto website builder for the government – which enables any public officer to create user-friendly, reliable, cost-effective, secure and fast websites.
 
 
 ### The vision and mission
-🏢 Isomer aims to empower the government to easily and effectively communicate with citizens through our websites.
+🏢 Isomer aims to empower the government to **easily and effectively communicate with citizens** through our websites.
 
-👪 Citizens should be able to easily find and navigate information on Isomer websites.
-
-We do this by making Isomer the de-facto website builder for the government – which enables any public officer to create user-friendly, reliable, cost-effective, secure and fast websites.
+👪 Citizens should be able to **easily find and navigate information** on Isomer websites.
 
 
 ### Our history
