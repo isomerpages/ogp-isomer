@@ -34,3 +34,10 @@ An internal study conducted by the Singapore government in 2017 found that over 
 ##### 🖥️ 500+ websites launched
 ##### 💰 S$2 million yearly cost savings
 ##### 🪦 100x reduction in downtime of government sites
+
+
+
+
+MOVE ISOMERCMS INTO HERE
+TEMPLATE, INFRA, and CMS MAKES UP ISOMER
+-> Your website is made up of 3 parts
