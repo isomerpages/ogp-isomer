@@ -2,8 +2,8 @@ collections:
   about-isomer:
     output: true
     order:
-      - What makes up Isomer?.md
       - What is Isomer.md
+      - What makes up Isomer?.md
       - Our users.md
       - For developers/.keep
       - For developers/Our tech stack.md
