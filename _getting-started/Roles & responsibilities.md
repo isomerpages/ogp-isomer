@@ -50,7 +50,4 @@ You can reach out to [Isomer Support](mailto:%20support@isomer.gov.sg) for furth
 - **Isomer has placed restrictions on certain actions to follow government compliance regulations,** such as disallowing the deletion of required pages (e.g. privacy, terms of use).
 
 
-[View the our tech stack]()
-
-
-Still not sure about your use case? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
+Have more questions? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
