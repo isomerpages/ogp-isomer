@@ -2,6 +2,7 @@ collections:
   getting-started:
     output: true
     order:
+      - Setup a GitHub account.md
       - What to expect.md
       - Roles & responsibilities.md
       - Getting started/.keep
