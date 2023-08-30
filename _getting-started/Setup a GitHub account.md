@@ -3,7 +3,7 @@ title: Setup a GitHub account
 permalink: /onboard-to-isomer/getting-started/github/
 description: ""
 ---
-This page is only for users who log into IsomerCMS with their GitHub ID. If you log in with your .gov.sg or other whitelisted email, you do not need to go through this process. **As of Q3 2023, all new Isomer websites use the email login method.**
+*This page is only for users who log into IsomerCMS with their GitHub ID. If you log in with your .gov.sg or other whitelisted email, you do not need to go through this process. **As of Q3 2023, all new Isomer websites use the email login method.***
 
 ---
 
