@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - What is Isomer.md
-      - What makes up Isomer?.md
+      - What makes up Isomer.md
       - Our users.md
       - For developers/.keep
       - For developers/Our tech stack.md
