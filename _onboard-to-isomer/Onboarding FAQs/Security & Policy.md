@@ -6,7 +6,7 @@ third_nav_title: Onboarding FAQs
 ---
 ##### Is Isomer IM8 compliant?
 
-##### How do I get clarity on IM8 clauses for Isomer?
+###### How do I get clarity on IM8 clauses for Isomer?
 
 ##### How are sites being monitored?
 
