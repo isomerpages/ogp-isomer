@@ -47,7 +47,8 @@ sections:
       image: /images/rectangle 1.png
   - infobar:
       title: Join 500+ other sites
-      description: We’re already supporting more than 70 agencies with their website needs
+      description: We’re already supporting more than 70 agencies, ministries, and
+        statboards with their website needs
       button: Onboard with Isomer
       url: /onboard
 ---
