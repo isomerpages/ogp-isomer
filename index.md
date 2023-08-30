@@ -13,7 +13,7 @@ sections:
       button: Find out if I'm a good fit
       url: /onboard
       key_highlights:
-        - title: isomercms
+        - title: Log in to IsomerCMS
           description: Edit an existing Isomer site
           url: https://google.com
   - infobar:
