@@ -2,14 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Isomer
     collection: about-isomer
+  - title: When & Why to use Isomer
+    collection: why-and-when-to-use-isomer
   - title: Getting Started
     collection: getting-started
   - title: Other resources
-    url: /permalink
-    sublinks:
-      - title: Edit your website
-        url: https://cms.isomer.gov.sg/
-      - title: Learn to create good content
-        url: https://www.designacademy.isomer.gov.sg
-      - title: Checkout Isomer's capabilities
-        url: https://www.cheatsheet.isomer.gov.sg
+    url: /other-resources
