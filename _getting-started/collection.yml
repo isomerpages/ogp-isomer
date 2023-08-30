@@ -4,7 +4,6 @@ collections:
     order:
       - Roles & responsibilities.md
       - Getting started/.keep
-      - Getting started/What to expect.md
       - Getting started/Setup a GitHub account.md
       - Onboarding FAQs/.keep
       - Onboarding FAQs/General FAQs.md
