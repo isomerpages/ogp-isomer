@@ -3,6 +3,8 @@ title: What is Isomer
 permalink: /about-isomer/what-is-isomer/
 description: ""
 ---
+**Isomer mainly caters to static, informational websites.** Our team works on the belief that websites are important ways that the government shares information with citizens. As such, we want to help any public officer to set up a *good* website easily without any prior coding or design knowledge.
+
 There are 3 parts to an Isomer website:
 1. The Isomer template
 2. Isomer's infrastructure
