@@ -44,6 +44,9 @@ Moreover, the Isomer Team monitors your sites 24/7 and has set up alarms and pro
 
 5W 1H method -> Move static website info out to it's own page
 
+When to use Isomer -> Could be it's own page? Now split btw before you onboard and FAQ
+
+
 
 ##### How do I edit my website content? Do I need to know coding?
 
