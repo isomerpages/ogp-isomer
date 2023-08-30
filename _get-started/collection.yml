@@ -1,5 +1,5 @@
 collections:
-  onboard-to-isomer:
+  get-started:
     output: true
     order:
       - Getting started/.keep
