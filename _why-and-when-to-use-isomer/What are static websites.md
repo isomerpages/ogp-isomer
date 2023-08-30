@@ -30,10 +30,3 @@ This is also why Isomer has established limits on the size of media and files up
 The Isomer team regularly conducts Vulnerability Assessment Penetration Testing (VAPT) on the Isomer template. We ensure that only whitelisted scripts are able to run on your sites, which is managed by a central template and infrastructure that all Isomer websites use. Therefore, we do not allow custom scripts to run on Isomer sites.
 
 Moreover, the Isomer Team monitors your sites 24/7 and has set up alarms and procedures to ensure that team members are always on call to immediately attend to any downtime of your sites.
-
-
-##### How are static websites more secure?
-
-The Isomer team regularly conducts Vulnerability Assessment Penetration Testing (VAPT) on the Isomer template. We ensure that only whitelisted scripts are able to run on your sites, which is managed by a central template and infrastructure that all Isomer websites use. Therefore, we do not allow custom scripts to run on Isomer sites.
-
-Moreover, the Isomer Team monitors your sites 24/7 and has set up alarms and procedures to ensure that team members are always on call to immediately attend to any downtime of your sites.
