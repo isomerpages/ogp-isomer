@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Getting started/.keep
-      - Getting started/Before you onboard.md
+      - Getting started/Roles & responsibilities.md
       - Getting started/What to expect.md
       - Getting started/Setup a GitHub account.md
       - Onboarding FAQs/.keep
