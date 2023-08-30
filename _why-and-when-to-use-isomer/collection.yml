@@ -2,5 +2,5 @@ collections:
   why-and-when-to-use-isomer:
     output: true
     order:
-      - What are static websites.md
       - Why use Isomer.md
+      - What are static websites.md
