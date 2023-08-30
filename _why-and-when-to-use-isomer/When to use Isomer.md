@@ -29,6 +29,6 @@ Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/
 ❌ **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets.  
 ❌ **Data visualization platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
     
-Examples include: cpf.gov.sg, iras.gov.sg
+Examples include: [CPF Portal](https://cpf.gov.sg/), [IRAS Portal](https://iras.gov.sg/), [EDB Portal](https://portal.edb.gov.sg/)
 
 > ** Note that some services, while not hosted by IsomerCMS, can be embedded onto an Isomer page such as FormSG forms and CheckFirst checkers.
