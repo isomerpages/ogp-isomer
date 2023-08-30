@@ -19,8 +19,8 @@ These can be done through our Content Management System, IsomerCMS. [Learn more 
 
 Isomer also provides the following services:
 
-*   Technical support and assistance with usage of IsomerCMS through our support channels
-*   Training of how to use IsomerCMS on request
+- Technical support and assistance with usage of IsomerCMS through our support channels
+- Training of how to use IsomerCMS on request
 
 > We do not offer website design services, and are unable to provide custom designs or layouts for your website.
 
