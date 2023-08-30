@@ -2,6 +2,6 @@ collections:
   about-isomer:
     output: true
     order:
-      - What makes up Isomer.md
+      - What is Isomer.md
       - Our background.md
       - Who uses Isomer.md
