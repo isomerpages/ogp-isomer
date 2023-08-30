@@ -2,8 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Isomer
     collection: about-isomer
-  - title: Get Started
-    collection: get-started
+  - title: Getting Started
+    collection: getting-started
   - title: Other resources
     url: /permalink
     sublinks:
