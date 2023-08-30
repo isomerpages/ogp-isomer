@@ -2,9 +2,9 @@ collections:
   getting-started:
     output: true
     order:
-      - Setup a GitHub account.md
-      - What to expect.md
       - Roles & responsibilities.md
+      - What to expect.md
+      - Setup a GitHub account.md
       - Onboarding FAQs/.keep
       - Onboarding FAQs/General FAQs.md
       - Onboarding FAQs/Security & Policy.md
