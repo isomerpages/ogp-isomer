@@ -10,15 +10,12 @@ sections:
       title: Easily set up good government websites
       subtitle: Free, fast, easy
       background: /images/hero-banner.png
-      button: get started for free
+      button: Find out if I'm a good fit
       url: /onboard
       key_highlights:
-        - title: Design academy
-          description: Tips to curate your content
+        - title: isomercms
+          description: Edit an existing Isomer site
           url: https://google.com
-        - title: Cheatsheet
-          description: Try out what Isomer offers
-          url: https://gmail.com
   - infobar:
       subtitle: 📢 Latest from the Isomer team
       description: Hear what features we’re working on next and stay updated on our roadmap
