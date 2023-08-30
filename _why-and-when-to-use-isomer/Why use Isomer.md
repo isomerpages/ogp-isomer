@@ -14,7 +14,7 @@ This helps when you need to launch a website quickly. Here's how we'll speed up 
 	Since all sites on Isomer share the same infrastructure and pull from a central template, there is no need for multiple VAPTs or security reviews.
 
 - ##### IM8 compliant by default
-	We're compliant to all applicable Instruction Manual 8 (IM8) clauses and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). 
+	Just by using Isomer, you've already covered all applicable Instruction Manual 8 (IM8) clauses and are follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). 
 
 
 ### 2. Start fast with our website template
