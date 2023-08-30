@@ -28,14 +28,6 @@ An internal study conducted by the Singapore government in 2017 found that over 
 - Our static site architecture is designed for **fast loading and eliminates many vulnerabilities**, providing a secure and reliable platform for your website
 - We use automated monitoring to improve the **reliability and security** of your website, ensuring that it is always up-to-date and protected against potential threats
 
-    
-### Our impact
-    
-##### 🖥️ 500+ websites launched
-##### 💰 S$2 million yearly cost savings
-##### 🪦 100x reduction in downtime of government sites
-
-
 
 
 MOVE ISOMERCMS INTO HERE
