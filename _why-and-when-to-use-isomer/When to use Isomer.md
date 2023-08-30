@@ -15,7 +15,7 @@ description: ""
 ✅ **Campaign websites:** Promote specific initiatives or programs.  
 ✅ **Corporate websites:** Provides information on an agency
     
-Examples include: [towardszerowaste.gov.sg](https://www.towardszerowaste.gov.sg/), [boa.gov.sg](https://www.boa.gov.sg/), [switchsg.org](https://www.switchsg.org/)
+Examples include: [Towards Zero Waste campaign website](https://www.towardszerowaste.gov.sg/), [Board of Architects Corporate website](https://www.boa.gov.sg/), [Singapore Week of Innovation & Technology event website](https://www.switchsg.org/)
     
 ##### **Characteristics of websites we do NOT cater for include:**
     
