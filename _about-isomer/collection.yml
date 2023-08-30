@@ -4,7 +4,7 @@ collections:
     order:
       - About us/.keep
       - About us/Isomer.md
-      - About us/IsomerCMS.md
+      - About us/What makes up Isomer?.md
       - Our users.md
       - For developers/.keep
       - For developers/Our tech stack.md
