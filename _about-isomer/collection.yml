@@ -1,5 +1,5 @@
 collections:
-  what-is-isomer:
+  about-isomer:
     output: true
     order:
       - About us/.keep
