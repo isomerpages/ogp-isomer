@@ -8,4 +8,4 @@ There are 3 parts to an Isomer website:
 2. Isomer's infrastructure
 3. IsomerCMS
 
-
+Our pre-designed **Isomer template** is hosted our **infrastructure**, which can be edited through the **IsomerCMS**.
