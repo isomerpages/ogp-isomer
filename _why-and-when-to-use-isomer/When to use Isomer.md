@@ -21,8 +21,11 @@ Examples include: [Towards Zero Waste campaign website](https://www.towardszerow
     
 ❌ User authentification where users have to 'log in' to the service  
 ❌ Website content that can be personalized and interacted with by users to obtain customized information.  
-❌ Specialised widgets such as calculators or maps.** However, you can embed some services onto an Isomer page, and we allow chatbots such as VICA or AskJamie.  
-❌ Any calls to a database for storing or retrieving information using an API or any form of server-side processing.
+❌ Any calls to a database for storing or retrieving information using an API or any form of server-side processing.  
+❌ Specialised widgets such as calculators or maps.  
+ℹ️ Note that some services, while not hosted by IsomerCMS, can be embedded onto an Isomer page such as FormSG forms and CheckFirst checkers. These are managed and configured outside of IsomerCMS.  
+ℹ️ We also allow chatbots such as VICA or AskJamie.
+
     
 **Common use cases with these chracteristics include:**  
 ❌ **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments.  
@@ -30,7 +33,5 @@ Examples include: [Towards Zero Waste campaign website](https://www.towardszerow
 ❌ **Data visualization platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
     
 Examples include: [CPF Portal](https://cpf.gov.sg/), [IRAS Portal](https://iras.gov.sg/), [EDB Portal](https://portal.edb.gov.sg/)
-
-> ** Note that some services, while not hosted by IsomerCMS, can be embedded onto an Isomer page such as FormSG forms and CheckFirst checkers.
 
 Have more questions? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
