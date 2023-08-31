@@ -20,7 +20,7 @@ All of this helps when you need to launch a website quickly.
 
 ### 2. Standard templates for quick launch
 
-Don't worry about designing a website entirely from scratch. Choose from a range of components and templates to design a website that suits your needs. Think of it like having your own set of building blocks.
+Don't worry about designing a website entirely from scratch. Choose from a range of lightweight components and templates to design a quick, clean website that's customised to your needs. 
 
 ##### In line with Singapore Government Design System (SGDS)
 
