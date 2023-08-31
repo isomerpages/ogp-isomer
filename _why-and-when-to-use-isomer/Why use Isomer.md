@@ -30,7 +30,7 @@ Our template components reference and follow the standards set by the [Singapor
 
 _Note that the current components may not be up to date with the latest version of SGDS. The team is looking to realign in the future._ 
 
-### 3. Total control of your content
+### 3. Easy-to-use CMS to manage your content
 
 IsomerCMS (Content Management System) allows public officers to add, remove and edit content themselves without having to go through a third party. 
 [Learn more about IsomerCMS](/isomercms)
