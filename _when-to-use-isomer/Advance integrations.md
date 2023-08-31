@@ -3,7 +3,9 @@ title: Advance integrations
 permalink: /when-to-use-isomer/advance-integrations/
 description: ""
 ---
-Extending the capability of a static website
+> Embed services and tools to extend the capability of an Isomer page 
+
+
 instead of just serving content, we're also giving some interaction
 
 - The exception is being able to embed certain services and tools such as FormSG forms and CheckFirst checkers. Isomer also allows chatbots such as VICA or AskJamie. These are managed and configured outside of IsomerCMS. 
