@@ -16,4 +16,6 @@ The template UI and its components are derived from the [Singapore Government De
 
 ##### Does this mean that all Isomer websites look the same?
 
-Not necessarily. Our research has shown that site visitors do perceive Isomer websites differently, and can feel strongly about certain Isomer websites over others. **Despite them using the same template and components, content was a bigger differentiator in how they perceived the websites** than any specific styling. Some interviewees even noted that they didn't notice the similarities if not for our research questions.
+Not necessarily. Our research has shown that site visitors do perceive Isomer websites differently, and can feel strongly about certain Isomer websites over others. **Despite them using the same template and components, content was a bigger differentiator in how they perceived the websites than any specific styling.**
+
+Some interviewees even noted that they wouldn't have noticed the similarities if not for our research questions.
