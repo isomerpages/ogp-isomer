@@ -3,9 +3,7 @@ title: Why use Isomer
 permalink: /what-is-isomer/why-use-isomer/
 description: ""
 ---
-Isomer believes that websites are an important way for the government to share information with citizens. As such, we want to enable any public officer to **set up a good website easily without any prior coding or design knowledge.** 
-
-Here's how Isomer makes it easy:
+Isomer believes that websites are an important way for the government to share information with citizens. As such, we want to enable any public officer to **set up a good website easily without any prior coding or design knowledge.** Here's how Isomer makes it easy:
 
 ### 1. It meets all compliance requirements
 
