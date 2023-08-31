@@ -11,7 +11,7 @@ description: ""
 - Ensuring that your website content meets Digital Service Standards (DSS)
 - Maintaining website administrators and regularly removing inactive users
 
-These can be done through our Content Management System, IsomerCMS. [Learn more about IsomerCMS]()
+These can all be done through IsomerCMS.
 
 **Isomer will be responsible for website hosting, maintenance, support and ensuring compliance to relevant clauses of the IM8, DSS and UC.** We are here to ensure that your website is up and running smoothly, and we provide technical support if you encounter any issues.
 
