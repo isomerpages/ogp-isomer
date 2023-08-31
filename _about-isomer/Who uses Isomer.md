@@ -21,10 +21,9 @@ During the Omicron wave of COVID-19 in Singapore, Isomer was used to quickly set
 
 **The site was set up, populated, and launched within just 4 days.** It featured CheckFirst checkers that visitors could fill out. Based on their situation, they would be redirected to pages with the appropriate protocol to follow. The site also featured links to an AskGov FAQ for further information. This empowered site visitors to self-serve complex information.
 
-The website had 1 million visitors in its first month and was featured on print and digital media. It had good feedback for being **fast with updates on changing protocols, easy to use, and helpful for finding important information**
+The website had 1 million visitors in its first month and was featured on print and digital media. It received good feedback for being **fast with updates on changing protocols, easy to use, and helpful for finding important information.**
 
-Isomer was also used to build website pages for other COVID-19 campaigns, such as *sgunited.gov.sg* and *safetravel.ica.gov.sg*. **Instead of waiting months for government procurement, Isomer allowed government agencies to build these websites in as little as 1.5 days,** ensuring that citizens received the latest information about the constantly evolving COVID-19 situation.
-
+Isomer was also used to build websites for other COVID-19 campaigns, such as *sgunited.gov.sg* and *safetravel.ica.gov.sg*. **Instead of waiting months for procurement, Isomer enabled agencies to build these websites in as little as 1.5 days,** ensuring that citizens received the latest information about the constantly evolving COVID-19 situation.
 
 
 *covid.gov.sg* was live from September 27, 2021, to February 13, 2023.
