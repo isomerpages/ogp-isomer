@@ -15,20 +15,20 @@ description: ""
     
 Examples include: [Towards Zero Waste campaign website](https://www.towardszerowaste.gov.sg/), [Board of Architects Corporate website](https://www.boa.gov.sg/), [Singapore Week of Innovation & Technology event website](https://www.switchsg.org/)
     
-##### **Characteristics of websites we do NOT cater for include:**
+##### Isomer is not ideal for websites that include:
     
-❌ User authentification where users have to 'log in' to the service  
-❌ Website content that can be personalized and interacted with by users to obtain customized information.  
-❌ Any calls to a database for storing or retrieving information using an API or any form of server-side processing.  
-❌ Specialised widgets such as calculators or maps.  
-ℹ️ Note that some services, while not hosted by IsomerCMS, can be embedded onto an Isomer page such as FormSG forms and CheckFirst checkers. These are managed and configured outside of IsomerCMS.  
-ℹ️ We also allow chatbots such as VICA or AskJamie.
+- User authentification where users have to 'log in' to the service  
+- Website content that can be personalised and interacted with by users to obtain customised information.  
+- Any calls to a database for storing or retrieving information using an API or any form of server-side processing.  
+- Specialised widgets such as calculators or maps.  
+	- Note that some services, while not hosted by IsomerCMS, can be embedded onto an Isomer page such as FormSG forms and CheckFirst checkers. These are managed and configured outside of IsomerCMS.  
+	- We also allow chatbots such as VICA or AskJamie.
 
     
 **Common use cases with these chracteristics include:**  
-❌ **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments.  
-❌ **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets.  
-❌ **Data visualization platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
+- **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments.  
+- **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets.  
+- **Data visualization platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
     
 Examples include: [CPF Portal](https://cpf.gov.sg/), [IRAS Portal](https://iras.gov.sg/), [EDB Portal](https://portal.edb.gov.sg/)
 
