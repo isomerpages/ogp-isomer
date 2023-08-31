@@ -27,6 +27,6 @@ Isomer limits the size of media and files uploaded. Larger files take longer to 
 
 ##### How are static websites more secure?
 
-The Isomer team regularly conducts Vulnerability Assessment Penetration Testing (VAPT). Only whitelisted scripts are allowed to run on your sites, which is managed centrally by the Isomer team. We do not allow custom scripts to run on any Isomer site.
+Isomer regularly conducts Vulnerability Assessment Penetration Testing (VAPT). Only whitelisted scripts are allowed to run on your sites, which is managed centrally by the Isomer team. We do not allow custom scripts to run on any Isomer site.
 
-The Isomer team also monitors your sites 24/7. We've set up alarms and procedures to ensure that team members are on call to immediately attend to any sites that go down.
+Isomer also monitors your sites 24/7. The team has set up alarms and procedures to ensure that team members are on call to immediately attend to any sites that go down.
