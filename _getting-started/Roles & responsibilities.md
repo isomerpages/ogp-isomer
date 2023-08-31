@@ -3,12 +3,10 @@ title: Roles & responsibilities
 permalink: /getting-started/roles-and-responsibilities/
 description: ""
 ---
-### What are my agency's responsibilities for a website hosted on Isomer?
+##### Agencies are responsible for all content, management and maintenance of your Isomer website. This includes:
 
-**Agencies are responsible for all content, management and maintenance of your Isomer website.** This includes:
-
-- Migrating any content from an old website to a new Isomer website
-- Updating and creating content such as text or images
+- Migrating all content from your old website to your new Isomer website
+- Creating and updating content such as text or images
 - Approving and publishing any content changes
 - Ensuring that your website content meets content-related standards in DSS
 - Maintaining access rights to the editing of your website and regularly removing inactive users
