@@ -11,7 +11,7 @@ You can also refer to our design academy website to get tips on ways to use the 
 
 ##### Does this mean that all Isomer websites look the same?
 
-Not necessarily. By design, the Isomer template keeps a consistent *navigational* experience across all Isomer websites. This becomes familiar to site visitors and **helps them find the information they need quicker, regardless of whichever Isomer website they are on** since they don’t have to re-learn how to use the website. They save time and frustration, and improves their overall experience.
+Not necessarily. By design, the Isomer template keeps a consistent *navigational* experience across all Isomer websites. This becomes familiar to site visitors and **helps them find the information they need quicker, regardless of whichever Isomer website they are on** since they don’t have to re-learn how to use the website. They save time and frustration, and improves the overall site experience.
 
 In addition, it also makes it more accessible for users with disabilities. For example, users who rely on screen readers or other assistive technologies to navigate websites can benefit from a consistent navigation structure, as it makes it easier for them to find and access content.
 
