@@ -24,7 +24,7 @@ Examples include: [Towards Zero Waste campaign website](https://www.towardszerow
 	- The exception is being able to embed certain services and tools such as FormSG forms and CheckFirst checkers. Isomer also allows chatbots such as VICA or AskJamie. These are managed and configured outside of IsomerCMS. 
 
     
-**Common use cases with these chracteristics include:**  
+**Common use cases include:**  
 - **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments.  
 - **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets.  
 - **Data visualization platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
