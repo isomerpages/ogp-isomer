@@ -11,7 +11,7 @@ This keeps a consistent navigation across all Isomer websites by design. **With 
 
 Additionally, **it's more accessible for site visitors with disabilities.** For example, individuals who rely on screen readers or other assistive technologies to navigate websites benefit from a consistent navigation structure. The repetition makes it easier for them to find and access content.
 
-The template UI and its components are derived from the [Singapore Government Design System (SGDS)](https://www.designsystem.tech.gov.sg/), and follows their standards. Currently, users can set website colors, content, and order of components. We do not currently offer font or specific component styling customisations (e.g. round vs sharp corners, button styling etc.)
+The template UI and its components are derived from the [Singapore Government Design System (SGDS)](https://www.designsystem.tech.gov.sg/), and follows their standards. Currently, users can set website colors, content, and order of components. 
 
 _\[Note that as of 2023 the template is following an older version of SGDS. The team is looking to realign in the future.\]_
 
@@ -20,8 +20,6 @@ You can also refer to our design academy website to get tips on ways to use the 
 
 ##### Does this mean that all Isomer websites look the same?
 
-Not necessarily. 
-
-Despite using the same Isomer template, our research has shown that site visitors do perceive Isomer websites differently and place greater importance on content than on specific styling.
+Not necessarily. Our research has shown that site visitors do perceive Isomer websites differently, despite them using the same template and components. Content was a bigger differentiator than any specific styling.
 
 We recommend users to visit our [design academy website](https://designacademy.isomer.gov.sg/) to learn how to use content more effectively to differentiate your website.
