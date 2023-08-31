@@ -2,8 +2,8 @@ collections:
   getting-started:
     output: true
     order:
-      - Roles & responsibilities.md
       - What to expect.md
+      - Roles & responsibilities.md
       - Onboarding FAQs/.keep
       - Onboarding FAQs/General FAQs.md
       - Onboarding FAQs/Security & Policy.md
