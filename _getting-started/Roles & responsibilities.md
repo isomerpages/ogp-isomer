@@ -28,11 +28,14 @@ These can all be done through IsomerCMS.
 
 
 ### Compliance
-- **Agencies do not need to be responsible for any IM8 clauses. By using Isomer, your site is _by default compliant_ to all applicable IM8 clauses.** The Isomer Team manages all security centrally, including any security testing (i.e. VAPT etc) and audits/tests. In the event that any IM8-related queries come along, we will sort it out separately with the IM8 team. 
-You can reach out to [Isomer Support](mailto:%20support@isomer.gov.sg) for further clarification on specific clauses.
+- Isomer is in direct contact with IM8 to ensure compliance of all websites it hosts on the platform. There are restrictions on certain actions to ensure compliance with government regulations, such as disallowing the deletion of required pages (e.g. privacy, terms of use).
+
+- **By using Isomer, your site is compliant with all applicable IM8 clauses by default, including any amendments.** The Isomer Team manages all security centrally, including any security testing (e.g. VAPT) and audits or tests. **You do not need to do these independently.**
+
+
+- You can reach out to [Isomer Support](mailto:%20support@isomer.gov.sg) for further clarification on specific clauses.
 - Internal Risk Assessment Checklist is not applicable to Isomer (?) as part of the security review for compliance with IM8
 
-- **Isomer has placed restrictions on certain actions to follow government compliance regulations,** such as disallowing the deletion of required pages (e.g. privacy, terms of use).
 
 ---
 
