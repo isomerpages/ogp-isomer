@@ -25,9 +25,6 @@ The website had 1 million visitors in its first month and was featured on print 
 
 Isomer was also used to build websites for other COVID-19 campaigns, such as *sgunited.gov.sg* and *safetravel.ica.gov.sg*. **Instead of waiting months for procurement, Isomer enabled agencies to build these websites in as little as 1.5 days,** ensuring that citizens received the latest information about the constantly evolving COVID-19 situation.
 
-
-*covid.gov.sg* was live from September 27, 2021, to February 13, 2023.
-
 ![A screenshot of the covid.gov.sg landing page](/images/CovidGovSG/covidgovsg_1.png)
 
 ![A screenshot of a checkfirst checker embedded on covid.gov.sg ](/images/CovidGovSG/covidgovsg_2.png)
