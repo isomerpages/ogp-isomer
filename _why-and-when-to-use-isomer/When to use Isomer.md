@@ -27,7 +27,7 @@ Examples include: [Towards Zero Waste campaign website](https://www.towardszerow
 **Common use cases include:**  
 - **Web applications:** Dynamic websites that allow users to interact with the website and perform specific tasks, such as filling out forms or making payments.  
 - **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets.  
-- **Data visualization platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
+- **Data visualisation platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
     
 Examples include: [CPF Portal](https://cpf.gov.sg/), [IRAS Portal](https://iras.gov.sg/), [EDB Portal](https://portal.edb.gov.sg/)
 
