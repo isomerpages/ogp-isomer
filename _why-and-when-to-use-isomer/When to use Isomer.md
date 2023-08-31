@@ -3,10 +3,8 @@ title: When to use Isomer
 permalink: /why-and-when-to-use-isomer/when-to-use-isomer/
 description: ""
 ---
-### What types of websites are suitable for Isomer?
+##### Isomer caters best to static websites, which is where:
 
-##### Isomer caters best to static websites. Characteristics of such websites include:
-    ✅ 
 - Content shown on the website is fixed and does not change unless the website owner manually updates it.   
 - Contains unclassified content that is meant for public consumption.
     
