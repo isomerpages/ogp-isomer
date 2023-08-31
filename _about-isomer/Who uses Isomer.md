@@ -17,13 +17,15 @@ description: ""
 - [smartnation.gov.sg](https://www.smartnation.gov.sg/)
 
 ### Isomer in action – covid.gov.sg
-During the Omicron wave of COVID-19 in Singapore, the OGP team used Isomer to set up *covid.gov.sg*, a microsite that housed all information regarding health protocols and next steps. The site was hosted outside of the main MOH corporate website to allow for more targeted information.
+During the Omicron wave of COVID-19 in Singapore, Isomer was used to quickly set up *covid.gov.sg*. It's a microsite that provides information on health protocols and next steps.
 
-**With Isomer, the team was able to set up, populate, and launch *covid.gov.sg* within just 4 days.** They used embedded CheckFirst checkers, FormSG forms, and an AskGov FAQ to divert people to appropriate information based on their particular situation, in a self-serve manner.
+**The site was set up, populated, and launched within just 4 days.** It featured CheckFirst checkers that visitors could fill out. Based on their situation, they would be redirected to pages with the appropriate protocol to follow. The site also featured links to an AskGov FAQ for further information. This empowered site visitors to self-serve complex information.
 
 The website received 1 million visitors in its first month and was featured on all following COVID-19 communication channels, including print and digital media. **It received good feedback on its speed of updates on changing protocols, as well as its user-friendliness and ease-of-use in finding critical information.**
 
 Isomer was also used to build website pages for other COVID-19 campaigns, such as *sgunited.gov.sg* and *safetravel.ica.gov.sg*. **Instead of waiting months for government procurement, Isomer allowed government agencies to build these websites in as little as 1.5 days,** ensuring that citizens received the latest information about the constantly evolving COVID-19 situation.
+
+
 
 *covid.gov.sg* was live from September 27, 2021, to February 13, 2023.
 
