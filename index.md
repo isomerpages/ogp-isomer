@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Log in to IsomerCMS
           description: Edit an existing Isomer site
-          url: https://google.com
+          url: https://cms.isomer.gov.sg
   - infobar:
       subtitle: 📢 Latest from the Isomer team
       description: Hear what features we’re working on next and stay updated on our roadmap
@@ -47,5 +47,5 @@ sections:
       description: We’re already supporting more than 70 agencies, ministries, and
         statboards with their website needs
       button: Onboard with Isomer
-      url: /onboard
+      url: /getting-started/what-to-expect
 ---
