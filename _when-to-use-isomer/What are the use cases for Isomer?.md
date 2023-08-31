@@ -21,7 +21,8 @@ description: ""
 - Website content that can be personalised and interacted with by users to obtain customised information.  
 - Any calls to a database for storing or retrieving information using an API or any form of server-side processing.  
 - Use of Javascript or animations 
-- Specialised widgets such as custom calculators or maps. Isomer does however allow for some [advanced integrations]().
+- Specialised widgets such as custom calculators or maps. 
+	- However, Isomer does [allow some advanced integrations](/when-to-use-isomer/advance-integrations/).
 
     
 **Common use cases include:**  
