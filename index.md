@@ -11,7 +11,7 @@ sections:
       subtitle: Free, fast, easy
       background: /images/hero-banner.png
       button: Find out if I'm a good fit
-      url: /onboard
+      url: /when-to-use-isomer/use-cases/
       key_highlights:
         - title: Log in to IsomerCMS
           description: Edit an existing Isomer site
