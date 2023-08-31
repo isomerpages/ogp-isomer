@@ -13,12 +13,7 @@ description: ""
 
 These can all be done through IsomerCMS.
 
-**Isomer will be responsible for website hosting, maintenance, support, and ensuring compliance with relevant clauses of the IM8, DSS, and UC.** We are here to ensure that your website is up and running smoothly, and offer technical support if you encounter any issues.
-
-Isomer also provides the following services:
-
-- Technical support and assistance with usage of IsomerCMS through our support channels
-- Training of how to use IsomerCMS on request
+**Isomer will be responsible for website hosting, maintenance, support, and ensuring compliance with relevant clauses of the IM8, DSS, and UC.** We are here to ensure that your website is up and running smoothly, and offer training and technical support if you encounter any issues.
 
 > We do not offer website design services, and are unable to provide custom designs or layouts for your website.
 
