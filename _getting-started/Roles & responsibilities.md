@@ -9,7 +9,7 @@ description: ""
 - Creating and updating content such as text or images
 - Approving and publishing any content changes
 - Ensuring that your website content meets Digital Service Standards (DSS)
-- Maintaining access rights to the editing of your website and regularly removing inactive users
+- Maintaining website administrators and regularly removing inactive users
 
 These can be done through our Content Management System, IsomerCMS. [Learn more about IsomerCMS]()
 
