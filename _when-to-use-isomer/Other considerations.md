@@ -6,6 +6,11 @@ description: ""
 ### Other considerations
 
 
+Extending the capability of a static website
+instead of just serving content, we're also giving some interaction
+
+- The exception is being able to embed certain services and tools such as FormSG forms and CheckFirst checkers. Isomer also allows chatbots such as VICA or AskJamie. These are managed and configured outside of IsomerCMS. 
+
 
 
 --- 
