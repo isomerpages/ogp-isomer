@@ -3,7 +3,7 @@ title: Why use Isomer
 permalink: /what-is-isomer/why-use-isomer/
 description: ""
 ---
-Change phrasing to statements, instead of CTAs? Benefit based rather than action.
+
 
 ### 1. It meets all compliance requirements
 
