@@ -8,6 +8,10 @@ While all whitelisted government emails are currently able to log into IsomerCMS
 
 The time required to setup a new website can vary, ranging from 36 hours to 6 months, depending on the size of the site and your internal processes. 
 
+##### 0. Prepare and buy a domain
+It's recommended to get a domain on ITSM before getting a new Isomer website to ensure that you can get the domain that you want.
+
+
 ##### 1. Let us know you're interested
 
 [Send us request through this form](https://go.gov.sg/isomer-contact/). If your use case matches our capabilities, we'll generate a new website template for you
