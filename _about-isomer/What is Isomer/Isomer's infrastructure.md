@@ -8,12 +8,12 @@ third_nav_title: What is Isomer
 
 <br>
 
-- **Staging** is like an intermediate version of your live website. It's used to preview content changes and updates without affecting the live website.
-	- Clicking 'save' on IsomerCMS will reflect the changes on your staging site, but not production.
-	- Page previews in IsomerCMS only allow you to preview that particular page. On your staging site, you can click around and navigate across pages like in your live site.
-	- You can share this staging site with colleagues or stakeholders to preview new content, without them having to log into IsomerCMS.
+- **Staging is like an intermediate version of your live website.** It's used to preview content changes and updates without affecting the live website.
+	- Clicking 'save' on IsomerCMS will **reflect the changes on your staging site, but not production**.
+	- Page previews in IsomerCMS only allow you to preview that particular page. **On your staging site, you can click around and navigate across pages** like in your live site.
+	- You can **share your staging site link** with colleagues or stakeholders to preview new content, without them having to log into IsomerCMS. 
 
-- **Production** is the live version of your website that is publicly accessible to site visitors.
+- **Production is the live version of your website** that is publicly accessible to site visitors.
 	- A colleague must approve all the changes in staging in order to publish them into your production site. You can do this by raising a Requesting a review on IsomerCMS.
 	- Note that approval and publishing is for ALL content on your staging site, across all pages. Currently you cannot selectively approve and publish changes for a particular page.
 
