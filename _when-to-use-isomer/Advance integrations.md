@@ -5,7 +5,7 @@ description: ""
 ---
 > Embed services and tools to extend the capabilities of a page 
 
-You can leverage on certain services by embedding them onto a page in your website. These services are managed and configured outside of IsomerCMS. 
+You can use some outside services by putting them on a page on your website. These services are managed and set up outside of IsomerCMS.
 
 - ##### [Youtube videos](https://www.youtube.com/)
 	- Show media content
