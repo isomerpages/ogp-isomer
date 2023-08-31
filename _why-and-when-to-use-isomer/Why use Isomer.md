@@ -5,7 +5,7 @@ description: ""
 ---
 Isomer believes that websites are important ways that the government shares information with citizens. As such, we want to help any public officer to set up good websites easily without any prior coding or design knowledge.
 
-Additionally, Isomer is a power tool because:
+Additionally, Isomer is a powerful tool because:
 
 ### 1. It meets all compliance requirements
 
