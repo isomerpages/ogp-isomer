@@ -3,7 +3,7 @@ title: What is Isomer
 permalink: /about-isomer/what-is-isomer/
 description: ""
 ---
-Isomer is a website builder created by [Open Government Products](https://open.gov.sg/). We mainly cater to static, informational websites. Public Officers use Isomer and our CMS to create and manage their websites.
+Isomer is a website builder for government agencies to launch static websites free and easily. Public Officers use Isomer and our CMS to create and manage their websites. 
 
 There are 3 parts to Isomer:
 1. The Isomer template
@@ -13,6 +13,8 @@ There are 3 parts to Isomer:
 Our pre-designed **Isomer template** is hosted on our **infrastructure**, which can be edited through the **IsomerCMS**.
 
 The Isomer team centrally manages the Isomer template and infrastructure, while **Public Officers only need to access the IsomerCMS to make edits to their website.**
+
+Isomer is built and managed by [Open Government Products](https://open.gov.sg/)
 
 ### What is IsomerCMS?
 [IsomerCMS](cms.isomer.gov.sg) stands for **Content Management System**. This is the platform through which Public Officers can make edits and publish changes to their websites themselves, without having to go through any third party.
