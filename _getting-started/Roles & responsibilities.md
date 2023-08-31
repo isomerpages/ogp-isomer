@@ -20,13 +20,11 @@ These can all be done through IsomerCMS.
 ### Support and cost 
 - The Isomer service is free for agencies and officers to use, but **you will need to cover the cost of your domain URL**, which you can get from IT Service Management (ITSM).
 
-- Isomer allows Public Officers to add vendors as collaborators to their website, but **agencies are responsible for all communication with and actions of their vendors.** The Isomer team will not directly liaise with any vendors. 
+- You can add a vendor as a collaborator on your website, but **you are responsible for all communication with, and actions of, your vendors.** The Isomer team will not directly liaise with any vendors. 
 
-- **Agencies are responsible for migrating any existing content from a previous website** to their Isomer website. The Isomer team cannot provide this service for you.
+- Isomer Support is able to help with technical assistance of the CMS and simple markdown or HTML debugging, **but will not be able to debug complex customisations of the Isomer template CSS.**
 
-- Isomer Support is able to help with technical assistance of the CMS and simple markdown or HTML debugging, **but does not entertain debugging requests for complex customisations of the Isomer template CSS.**
-
-- Each website should have at least 2 Public Officers added to it. To publish changes to your website, a colleague needs to approve your changes. The Isomer team does not do this approval for you. [Learn more about review requests]()
+- Each website should have at least 2 Public Officers added to it. To publish changes to your website, a colleague needs to approve your changes. The Isomer team does not do this approval for you.
 
 
 ### Compliance
