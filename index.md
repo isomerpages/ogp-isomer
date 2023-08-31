@@ -30,9 +30,9 @@ sections:
       image: /images/rectangle 1.png
   - infopic:
       title: ">99.9% uptime"
-      description: We’ve easily handled sites with over a million visitors. Stay
-        assured that your static info will stay available and viewable by
-        citizens round the clock.
+      description: We’ve easily handled sites with over a million visitors. Be assured
+        that your information will stay available for citizens to view round the
+        clock.
       alt: Image alt text
       image: /images/rectangle 1.png
   - infopic:
