@@ -37,8 +37,8 @@ sections:
       image: /images/rectangle 1.png
   - infopic:
       title: We’ll handle all non-website tasks
-      description: Focus on building good site content. No quotes, no AOR – We cover
-        IM8 and VAPT, and our template dynamically adapts your content for
+      description: Focus on building good site content. No quotations, no AOR – we
+        cover IM8 and VAPT, and our template dynamically adapts your content for
         different devices.
       alt: Image alt text
       image: /images/rectangle 1.png
