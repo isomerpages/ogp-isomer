@@ -13,7 +13,7 @@ description: ""
 - **Campaign websites:** Promote specific initiatives or programs.  
 - **Corporate websites:** Provides information on an agency
     
-Examples include: [Towards Zero Waste campaign website](https://www.towardszerowaste.gov.sg/), [Board of Architects Corporate website](https://www.boa.gov.sg/), [Singapore Week of Innovation & Technology event website](https://www.switchsg.org/)
+	Examples include: [Towards Zero Waste campaign website](https://www.towardszerowaste.gov.sg/), [Board of Architects Corporate website](https://www.boa.gov.sg/), [Singapore Week of Innovation & Technology event website](https://www.switchsg.org/)
     
 ##### Isomer is not ideal for websites that include:
     
@@ -29,7 +29,7 @@ Examples include: [Towards Zero Waste campaign website](https://www.towardszerow
 - **E-commerce websites:** Allow users to purchase goods or services online. This includes selling products or services, such as park passes or event tickets.  
 - **Data visualisation platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
     
-Examples include: [CPF Portal](https://cpf.gov.sg/), [IRAS Portal](https://iras.gov.sg/), [EDB Portal](https://portal.edb.gov.sg/)
+	Examples include: [CPF Portal](https://cpf.gov.sg/), [IRAS Portal](https://iras.gov.sg/), [EDB Portal](https://portal.edb.gov.sg/)
 
 To learn more about static websites and dynamic websites, [visit this page]().
 
