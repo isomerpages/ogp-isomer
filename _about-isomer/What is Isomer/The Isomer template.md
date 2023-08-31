@@ -5,13 +5,9 @@ description: ""
 third_nav_title: What is Isomer
 ---
 ### What is the Isomer template?
-The Isomer team centrally manages a template, which is a **pre-designed layout** that provides the structure for a website built with Isomer. It includes a set of pre-defined pages, sections, and elements that users can combine in various ways to make further customisations to better suit the needs of a particular website.
+Isomer has a **pre-designed layout** that provides the structure for websites built with Isomer. It includes lightweight components and templates that users can mix and match in various ways. This website is an example of the Isomer template. 
 
-> As an analogy, the Isomer team has designed and made a bunch of building blocks that you can stack and combine in various ways to create a structure.
-
-The Isomer template is designed to be flexible and adaptable, so that it can be used for a wide range of website types. It provides a starting point for government agencies to build their websites, rather than starting from scratch.
-
-This website is an example of a website using the Isomer template. You can also refer to our design academy website to get tips on ways to use the template, or refer to our cheatsheet to preview the possibilities of the Isomer template.
+You can also refer to our design academy website to get tips on ways to use the template, or refer to our cheatsheet to preview the possibilities of the Isomer template.
 
 ##### Does this mean that all Isomer websites look the same?
 
