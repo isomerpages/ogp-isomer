@@ -4,7 +4,7 @@ permalink: /about-isomer/what-is-isomer/isomercms/
 description: ""
 third_nav_title: What is Isomer
 ---
-### IsomerCMS is Isomer's Content Management System
+> IsomerCMS is Isomer's Content Management System
 
 This is the platform through which Public Officers can make edits and publish changes to their websites themselves, without having to go through any third party.
 
