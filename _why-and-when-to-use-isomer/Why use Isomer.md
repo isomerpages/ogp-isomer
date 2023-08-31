@@ -3,9 +3,9 @@ title: Why use Isomer
 permalink: /what-is-isomer/why-use-isomer/
 description: ""
 ---
-Change phrasing to statements, instead of CTAs?
+Change phrasing to statements, instead of CTAs? Benefit based rather than action.
 
-### 1. Bypass compliance
+### 1. It meets all compliance requirements
 
 This helps when you need to launch a website quickly. Here's how we'll speed up the process for you:
 
