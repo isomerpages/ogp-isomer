@@ -32,5 +32,5 @@ _Note that the current components may not be up to date with the latest version 
 
 ### 3. Easy-to-use CMS to manage your content
 
-IsomerCMS (Content Management System) allows public officers to add, remove and edit content themselves without having to go through a third party. 
+IsomerCMS (Content Management System) allows public officers to add, edit and publish content themselves without having to go through a third party. 
 [Learn more about IsomerCMS](/isomercms)
