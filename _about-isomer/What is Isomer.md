@@ -3,7 +3,7 @@ title: What is Isomer
 permalink: /about-isomer/what-is-isomer/
 description: ""
 ---
-> Isomer is a website builder for government agencies to launch static websites free and easily.
+> Isomer is a website builder for government agencies to launch static websites *free and easily*.
 
 Public Officers use Isomer and our CMS to create and manage their websites. 
 
