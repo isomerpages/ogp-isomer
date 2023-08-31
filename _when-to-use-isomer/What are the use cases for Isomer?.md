@@ -31,7 +31,7 @@ description: ""
     
 	Examples include: [CPF Portal](https://cpf.gov.sg/), [IRAS Portal](https://iras.gov.sg/), [EDB Portal](https://portal.edb.gov.sg/)
 
-To learn more about static websites and dynamic websites, [visit this page]().
+To learn more about static websites and dynamic websites, [visit this page](/when-to-use-isomer/static-websites/).
 
 ---
 
