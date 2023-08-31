@@ -7,21 +7,12 @@ description: ""
 
 You can leverage on certain services by embedding them onto a page in your website. These services are managed and configured outside of IsomerCMS. 
 
-- Youtube videos
-- Vimeo videos
-- FormSG forms
+- ##### [Youtube videos](https://www.youtube.com/)
+	- Show media content
+- ##### [Vimeo videos]()
+- ##### [FormSG forms](https://form.gov.sg/)
 	- Collect data such as 
-- CheckFirst Checkers
-- data.gov.sg graphs
+- ##### [CheckFirst Checkers](https://www.checkfirst.gov.sg/)
+- ##### [data.gov.sg graphs](https://beta.data.gov.sg/)
+	- Linke to data visualisation
 - (Pending more!)
-
----
-instead of just serving content, we're also giving some interaction
-
- 
-
-Show the combination that static websites are not just static, it's static cos there's no user management
-Can extend adv functionality by emedding other things -&gt; Can use a form to collect data and link to data visualisation through data.gov.sg, media content such as youtube or vimeo
-
-
-Pending more!
