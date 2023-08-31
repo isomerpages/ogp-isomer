@@ -3,11 +3,9 @@ title: Why use Isomer
 permalink: /what-is-isomer/why-use-isomer/
 description: ""
 ---
-
-
 ### 1. It meets all compliance requirements
 
-This helps when you need to launch a website quickly. Here's how we'll speed up the process for you:
+This helps when you need to launch a website quickly. Here's how Isomer speeds up the process for you:
 
 - ##### No need for a tender or AOR
 	Isomer is an internal government tool, meaning there is no need to set up a tender or AOR.
