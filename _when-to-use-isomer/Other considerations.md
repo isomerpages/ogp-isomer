@@ -9,3 +9,11 @@ description: ""
 - **We limit each image or file size uploaded to IsomerCMS to 5MB** to ensure fast loading times, but you can upload larger files to [go.gov.sg](https://go.gov.sg/#/) and link to them on a page.
 - **Agencies can only use [IsomerCMS](cms.isomer.gov.sg) to edit their websites.** Users only have to visit Github is to raise a [pull request](https://guide.isomer.gov.sg/guide/publish-your-changes).
 - We can create subdomain sites if requested. Noted, we can create a site for you as you've shared that the site will be hosted on the domain that you've share.
+
+
+Show the combination that static websites are not just static, it's static cos there's no user management
+Can extend adv functionality by emedding other things -&gt; Can use a form to collect data and link to data visualisation through data.gov.sg, media content such as youtube or vimeo
+
+Certain advanced functionality can be achieved, such as &lt;&gt;
+
+Core principle behind it is because
