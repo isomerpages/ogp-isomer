@@ -5,13 +5,13 @@ description: ""
 third_nav_title: What is Isomer
 ---
 ### What is the Isomer template?
-Isomer has a **pre-designed layout** that provides the structure for websites built with Isomer. It includes lightweight components and templates that users can mix and match in various ways. This website is an example of the Isomer template. 
+Isomer has a **pre-designed layout** that provides the structure for all websites built with Isomer. It includes lightweight components and templates that users can mix and match in various ways. 
 
 You can also refer to our design academy website to get tips on ways to use the template, or refer to our cheatsheet to preview the possibilities of the Isomer template.
 
 ##### Does this mean that all Isomer websites look the same?
 
-Not necessarily. By design, the Isomer template keeps a consistent navigational experience across all Isomer websites. This becomes familiar to site visitors and helps them find the information they need quicker, regardless of whichever Isomer website they are on since they don’t have to re-learn how to use the website. This can save users time and frustration, and can also improve their overall experience.
+Not necessarily. By design, the Isomer template keeps a consistent *navigational* experience across all Isomer websites. This becomes familiar to site visitors and **helps them find the information they need quicker, regardless of whichever Isomer website they are on** since they don’t have to re-learn how to use the website. They save time and frustration, and improves their overall experience.
 
 In addition, it also makes it more accessible for users with disabilities. For example, users who rely on screen readers or other assistive technologies to navigate websites can benefit from a consistent navigation structure, as it makes it easier for them to find and access content.
 
