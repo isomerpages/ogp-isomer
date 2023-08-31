@@ -2,6 +2,7 @@ collections:
   about-isomer:
     output: true
     order:
+      - What is Isomer/The Isomer infrastructure.md
       - What is Isomer/The Isomer template.md
       - What is Isomer/What is Isomer.md
       - What is Isomer/.keep
