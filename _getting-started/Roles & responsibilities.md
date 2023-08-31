@@ -24,7 +24,7 @@ These can all be done through IsomerCMS.
 
 - Isomer Support is able to help with technical assistance of the CMS and simple markdown or HTML debugging, **but will not be able to debug complex customisations of the Isomer template CSS.**
 
-- Each website should have at least 2 Public Officers added to it. To publish changes to your website, a colleague needs to approve your changes. The Isomer team does not do this approval for you.
+- Your website needs **at least 1 other public officer** to approve and publish any changes. The Isomer team cannot approve these changes for you.
 
 
 ### Compliance
