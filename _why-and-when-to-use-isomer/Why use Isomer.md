@@ -22,9 +22,9 @@ All of this helps when you need to launch a website quickly.
 
 Don't worry about designing a website entirely from scratch. Choose from a range of lightweight components and templates to design a quick, clean website that's customised to your needs. 
 
-##### In line with Singapore Government Design System (SGDS)
+##### In line with [Singapore Government Design System (SGDS)]((https://designsystem.tech.gov.sg/))
 
-Our template components reference and follow the standards set by the [Singapore Government Design System](https://designsystem.tech.gov.sg/). This means that using our template ensures that you are following good user interface and user experience practices.
+Isomer's components follow standards set by SGDS. This means that using our template ensures that you are following good user interface and user experience practices.
 
 _Note that the current components may not be up to date with the latest version of SGDS. The team is looking to realign in the future._ 
 
