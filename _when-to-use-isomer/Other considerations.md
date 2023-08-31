@@ -11,6 +11,8 @@ description: ""
 - We can create subdomain sites if requested. Noted, we can create a site for you as you've shared that the site will be hosted on the domain that you've share.
 
 
+--- 
+
 Show the combination that static websites are not just static, it's static cos there's no user management
 Can extend adv functionality by emedding other things -&gt; Can use a form to collect data and link to data visualisation through data.gov.sg, media content such as youtube or vimeo
 
