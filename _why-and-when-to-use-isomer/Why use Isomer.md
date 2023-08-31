@@ -22,8 +22,6 @@ All of this helps when you need to launch a website quickly.
 
 Don't worry about designing a website entirely from scratch. Choose from a range of components and templates to design a website that suits your needs. Think of it like having your own set of building blocks.
 
-
-
 ##### In line with Singapore Government Design System (SGDS)
 
 Our template components reference and follow the standards set by the [Singapore Government Design System](https://designsystem.tech.gov.sg/). This means that using our template ensures that you are following good user interface and user experience practices.
