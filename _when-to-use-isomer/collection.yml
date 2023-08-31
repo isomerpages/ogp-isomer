@@ -2,6 +2,6 @@ collections:
   when-to-use-isomer:
     output: true
     order:
-      - When to use Isomer.md
+      - What are the use cases for Isomer?.md
       - What are static websites.md
       - Other considerations.md
