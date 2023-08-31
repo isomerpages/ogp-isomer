@@ -28,8 +28,7 @@ These can all be done through IsomerCMS.
 
 
 ### Compliance
-- Isomer is in direct contact with IM8 to ensure compliance of all websites it hosts on the platform. There are restrictions on certain actions to ensure compliance with government regulations, such as disallowing the deletion of required pages (e.g. privacy, terms of use).
-
+- **Isomer is in direct contact with IM8 to ensure compliance of all websites it hosts on the platform.** There are restrictions on certain CMS actions to ensure compliance with government regulations, such as preventing required pages (e.g. privacy, terms of use) from being deleted.
 - **By using Isomer, your site is compliant with all applicable IM8 clauses by default, including any amendments.** The Isomer Team manages all security centrally, including any security testing (e.g. VAPT) and audits or tests. **You do not need to do these independently.**
 
 
