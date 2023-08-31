@@ -3,22 +3,26 @@ title: Advance integrations
 permalink: /when-to-use-isomer/advance-integrations/
 description: ""
 ---
-> Embed services and tools to extend the capability of an Isomer page 
+> Embed services and tools to extend the capability of a page 
+
+Isomer allows embedding of certain services onto a website page. These are managed and configured outside of IsomerCMS. 
 
 
+VICA
+
+You can currently embed the following services onto an Isomer page:
+- Youtube videos
+- Vimeo videos
+- FormSG forms
+- CheckFirst Checkers
+
+---
 instead of just serving content, we're also giving some interaction
 
-- The exception is being able to embed certain services and tools such as FormSG forms and CheckFirst checkers. Isomer also allows chatbots such as VICA or AskJamie. These are managed and configured outside of IsomerCMS. 
-
-
-
---- 
+ 
 
 Show the combination that static websites are not just static, it's static cos there's no user management
 Can extend adv functionality by emedding other things -&gt; Can use a form to collect data and link to data visualisation through data.gov.sg, media content such as youtube or vimeo
 
-Certain advanced functionality can be achieved, such as &lt;&gt;
 
-Core principle behind it is because
-
-People should get domain before trying to cme to create an isomer website
+Pending more!
