@@ -22,7 +22,7 @@ description: ""
 - Any calls to a database for storing or retrieving information using an API or any form of server-side processing.  
 - Use of Javascript or animations 
 - Specialised widgets such as custom calculators or maps. 
-	- However, Isomer does [allow some advanced integrations](/when-to-use-isomer/advance-integrations/).
+	- However, Isomer does allow some [advanced integrations](/when-to-use-isomer/advance-integrations/).
 
     
 **Common use cases include:**  
