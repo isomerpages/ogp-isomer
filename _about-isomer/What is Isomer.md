@@ -5,7 +5,7 @@ description: ""
 ---
 > Isomer is a website builder for government agencies to launch static websites *easily and for free*.
 
-It aims to empower the government to **easily and effectively communicate with citizens** through government websites. Citizens should be able to **easily find and navigate information** on Isomer websites.
+It aims to empower the government to **easily and effectively communicate with citizens** through Isomer websites. Citizens should be able to **easily find and navigate information** on Isomer websites.
 
 You can use Isomer and our CMS to create and manage your website. 
 
