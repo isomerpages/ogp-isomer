@@ -28,4 +28,4 @@ Isomer's components follow standards set by SGDS, which ensures that your websi
 
 ### 3. Easy-to-use CMS to manage your content
 
-IsomerCMS allows you to add, edit and publish content yourself without the need for a third party.
+IsomerCMS allows you to add, edit and publish content yourself without the need for a third party. It only takes a few minutes for you to make changes to your website.
