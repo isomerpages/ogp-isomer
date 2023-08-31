@@ -18,9 +18,9 @@ These can all be done through IsomerCMS.
 > We do not offer website design services, and are unable to provide custom designs or layouts for your website.
 
 ### Support and cost 
-- The Isomer platform and service is free for Public Officers to use, but in order to launch their site, **agencies must bear the cost of the domain URL**, which you can procure from IT Service Management (ITSM).
+- The Isomer service is free for agencies and officers to use, but **you will need to cover the cost of your domain URL**, which you can procure from IT Service Management (ITSM).
 
-- Isomer allows Public Officers to add vendors as collaborators to their website, but **agencies are responsible for all communication with and actions of their vendors.** The Isomer team will not directly liaise with any vendors. [View our FAQs on vendor management]()
+- Isomer allows Public Officers to add vendors as collaborators to their website, but **agencies are responsible for all communication with and actions of their vendors.** The Isomer team will not directly liaise with any vendors. 
 
 - **Agencies are responsible for migrating any existing content from a previous website** to their Isomer website. The Isomer team cannot provide this service for you.
 
