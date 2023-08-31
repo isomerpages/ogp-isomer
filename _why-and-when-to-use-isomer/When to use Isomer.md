@@ -21,7 +21,7 @@ Examples include: [Towards Zero Waste campaign website](https://www.towardszerow
 - Website content that can be personalised and interacted with by users to obtain customised information.  
 - Any calls to a database for storing or retrieving information using an API or any form of server-side processing.  
 - Specialised widgets such as calculators or maps.  
-	- Note that some services, while not hosted by IsomerCMS, can be embedded onto an Isomer page such as FormSG forms and CheckFirst checkers. These are managed and configured outside of IsomerCMS.  
+	- The exception is being able to embed certain services and tools such as FormSG forms and CheckFirst checkers. These are managed and configured outside of IsomerCMS.  
 	- We also allow chatbots such as VICA or AskJamie.
 
     
