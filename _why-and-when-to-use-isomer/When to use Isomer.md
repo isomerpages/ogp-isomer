@@ -5,15 +5,15 @@ description: ""
 ---
 ### What types of websites are suitable for Isomer?
 
-##### Isomer best caters to static websites. Characteristics of such websites include:
-    
-✅ Content shown on the website is fixed and does not change unless the website owner manually updates it.   
-✅ Contains unclassified content that is meant for public consumption.
+##### Isomer caters best to static websites. Characteristics of such websites include:
+    ✅ 
+- Content shown on the website is fixed and does not change unless the website owner manually updates it.   
+- Contains unclassified content that is meant for public consumption.
     
 **Common use cases include:**    
-✅ **Informational websites:** Provide information to the public, such as information about government services, policies, and regulations using text and media such as images.   
-✅ **Campaign websites:** Promote specific initiatives or programs.  
-✅ **Corporate websites:** Provides information on an agency
+- **Informational websites:** Provide information to the public, such as information about government services, policies, and regulations using text and media such as images.   
+- **Campaign websites:** Promote specific initiatives or programs.  
+- **Corporate websites:** Provides information on an agency
     
 Examples include: [Towards Zero Waste campaign website](https://www.towardszerowaste.gov.sg/), [Board of Architects Corporate website](https://www.boa.gov.sg/), [Singapore Week of Innovation & Technology event website](https://www.switchsg.org/)
     
