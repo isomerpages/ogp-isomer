@@ -21,12 +21,12 @@ Isomer best caters to static websites. [Read more about the benefits of having a
 
 ##### How are static websites faster?
 
-On static websites, pages are pre-rendered and stored in a Content Delivery Network (CDN) instead of being dynamically generated from the server like on dynamic websites. This means that pages don't have to be created every time someone wants to view them, making them faster than sites that have to be generated on-the-go. Static sites usually have simpler structures and use fewer resources, allowing them to load quickly even on slower connections.
+**Static websites are pre-rendered and stored in a Content Delivery Network (CDN)**, unlike dynamic websites that are generated every time someone wants to view them. This makes them faster and simpler, using fewer resources and loading quickly even on slower connections.
 
-This is also why Isomer has established limits on the size of media and files uploaded. Larger files take longer to load and directly affect the loading speed of a website.
+Isomer limits the size of media and files uploaded. Larger files take longer to load and directly affect the loading speed of a website.
 
 ##### How are static websites more secure?
 
-The Isomer team regularly conducts Vulnerability Assessment Penetration Testing (VAPT) on the Isomer template and infr. We ensure that only whitelisted scripts are able to run on your sites, which is managed by a central template and infrastructure that all Isomer websites use. Therefore, we do not allow custom scripts to run on Isomer sites.
+The Isomer team regularly conducts Vulnerability Assessment Penetration Testing (VAPT). Only whitelisted scripts are allowed to run on your sites, which is managed centrally by the Isomer team. We do not allow custom scripts to run on any Isomer site.
 
 The Isomer team also monitors your sites 24/7. We've set up alarms and procedures to ensure that team members are on call to immediately attend to any sites that go down.
