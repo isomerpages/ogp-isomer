@@ -3,18 +3,17 @@ title: Advance integrations
 permalink: /when-to-use-isomer/advance-integrations/
 description: ""
 ---
-> Embed services and tools to extend the capability of a page 
+> Embed services and tools to extend the capabilities of a page 
 
-Isomer allows embedding of certain services onto a website page. These are managed and configured outside of IsomerCMS. 
+You can leverage on certain services by embedding them onto a page in your website. These services are managed and configured outside of IsomerCMS. 
 
-
-VICA
-
-You can currently embed the following services onto an Isomer page:
 - Youtube videos
 - Vimeo videos
 - FormSG forms
+	- Collect data such as 
 - CheckFirst Checkers
+- data.gov.sg graphs
+- (Pending more!)
 
 ---
 instead of just serving content, we're also giving some interaction
