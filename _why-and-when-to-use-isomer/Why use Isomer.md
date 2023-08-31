@@ -7,10 +7,8 @@ Isomer believes that websites are an important way for the government to share i
 
 ### 1. It meets all compliance requirements
 
-This helps when you need to launch a website quickly. Here's how Isomer speeds up the process for you:
-
 - ##### No need for a tender or AOR
-	Isomer is an internal government tool, meaning there is no need to set up a tender or AOR.
+	Because Isomer is an internal government tool, the service is free to use.
 
 - ##### No need to do your own VAPT
 	Since all sites on Isomer share the same infrastructure and pull from a central template, there is no need for multiple VAPTs or security reviews.
@@ -18,6 +16,7 @@ This helps when you need to launch a website quickly. Here's how Isomer speeds u
 - ##### IM8 compliant by default
 	Just by using Isomer, you've already covered all applicable Instruction Manual 8 (IM8) clauses and follow the recommended guidelines by the [Singapore Government Design System](https://designsystem.gov.sg/). 
 
+All of this helps when you need to launch a website quickly. 
 
 ### 2. Standard templates for quick launch
 
@@ -34,3 +33,5 @@ _Note that the current components may not be up to date with the latest version 
 
 IsomerCMS (Content Management System) allows public officers to add, edit and publish content themselves without having to go through a third party. 
 [Learn more about IsomerCMS](/isomercms)
+
+
