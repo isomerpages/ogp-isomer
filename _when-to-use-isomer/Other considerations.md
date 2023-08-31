@@ -3,7 +3,6 @@ title: Other considerations
 permalink: /when-to-use-isomer/other-considerations/
 description: ""
 ---
-### Other considerations
 
 
 Extending the capability of a static website
