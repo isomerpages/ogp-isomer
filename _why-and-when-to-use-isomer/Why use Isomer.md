@@ -28,5 +28,5 @@ Isomer's components follow standards set by SGDS, which ensures that your websi
 
 ### 3. Easy-to-use CMS to manage your content
 
-IsomerCMS (Content Management System) allows public officers to add, edit and publish content themselves without having to go through a third party. 
+IsomerCMS (Content Management System) allows you to add, edit and publish content yourself without the need for a third party. 
 [Learn more about IsomerCMS](/isomercms)
