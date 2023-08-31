@@ -16,3 +16,5 @@ third_nav_title: What is Isomer
 - **Production** is the live version of your website that is publicly accessible to site visitors.
 	- A colleague must approve all the changes in staging in order to publish them into your production site. You can do this by raising a Requesting a review on IsomerCMS.
 	- Note that approval and publishing is for ALL content on your staging site, across all pages. Currently you cannot selectively approve and publish changes for a particular page.
+
+&lt; INSERT GRAPHIC &gt;
