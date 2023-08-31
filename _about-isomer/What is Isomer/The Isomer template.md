@@ -20,6 +20,6 @@ You can also refer to our design academy website to get tips on ways to use the 
 
 ##### Does this mean that all Isomer websites look the same?
 
-Not necessarily. Our research has shown that site visitors do perceive Isomer websites differently, despite them using the same template and components. Content was a bigger differentiator than any specific styling.
+Not necessarily. Our research has shown that site visitors do perceive Isomer websites differently, and can feel strongly about certain Isomer websites over others. Despite them using the same template and components, content was a bigger differentiator than any specific styling.
 
 We recommend users to visit our [design academy website](https://designacademy.isomer.gov.sg/) to learn how to use content more effectively to differentiate your website.
