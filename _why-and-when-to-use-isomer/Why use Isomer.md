@@ -26,8 +26,6 @@ Don't worry about designing a website entirely from scratch. Choose from a range
 
 Isomer's components follow standards set by SGDS, which ensures that your website follows good user interface and experience practices.
 
-_Note that the current components may not be up to date with the latest version of SGDS. The team is looking to realign in the future._ 
-
 ### 3. Easy-to-use CMS to manage your content
 
 IsomerCMS (Content Management System) allows public officers to add, edit and publish content themselves without having to go through a third party. 
