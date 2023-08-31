@@ -31,6 +31,8 @@ Examples include: [Towards Zero Waste campaign website](https://www.towardszerow
     
 Examples include: [CPF Portal](https://cpf.gov.sg/), [IRAS Portal](https://iras.gov.sg/), [EDB Portal](https://portal.edb.gov.sg/)
 
+To learn more about static websites and dynamic websites, [visit this page]().
+
 ---
 
 Have more questions? Ask us at [support@isomer.gov.sg](mailto:%20support@isomer.gov.sg)
