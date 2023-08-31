@@ -20,7 +20,8 @@ All of this helps when you need to launch a website quickly.
 
 ### 2. Standard templates for quick launch
 
-Don't worry about designing a website entirely from scratch. You can use our pre-design sections and components, and arrange them in ways to suite your needs. Think of it like us providing you lego blocks to build your own lego house!
+Don't worry about designing a website entirely from scratch. Choose from a range of components and templates to design a website that suits your needs. Think of it like having your own set of building blocks.
+
 
 
 ##### In line with Singapore Government Design System (SGDS)
@@ -33,5 +34,3 @@ _Note that the current components may not be up to date with the latest version 
 
 IsomerCMS (Content Management System) allows public officers to add, edit and publish content themselves without having to go through a third party. 
 [Learn more about IsomerCMS](/isomercms)
-
-
