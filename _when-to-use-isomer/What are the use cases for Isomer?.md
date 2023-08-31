@@ -7,7 +7,7 @@ description: ""
 
 - Content shown on the website is fixed and does not change unless the website owner manually updates it.   
 - Contains unclassified content that is meant for public consumption.
-    
+
 **Common use cases include:**    
 - **Informational websites:** Provide information to the public, such as information about government services, policies, and regulations using text and media such as images.   
 - **Campaign websites:** Promote specific initiatives or programs.  
@@ -20,8 +20,8 @@ description: ""
 - User authentification where users have to 'log in' to the service  
 - Website content that can be personalised and interacted with by users to obtain customised information.  
 - Any calls to a database for storing or retrieving information using an API or any form of server-side processing.  
-- Specialised widgets such as calculators or maps.  
-	- The exception is being able to embed certain services and tools such as FormSG forms and CheckFirst checkers. Isomer also allows chatbots such as VICA or AskJamie. These are managed and configured outside of IsomerCMS. 
+- Use of Javascript or animations 
+- Specialised widgets such as custom calculators or maps. Isomer does however allow for some [advanced integrations]().
 
     
 **Common use cases include:**  
@@ -30,6 +30,9 @@ description: ""
 - **Data visualisation platforms:** Allow users to explore and interact with data in a visual way using maps or charts.
     
 	Examples include: [CPF Portal](https://cpf.gov.sg/), [IRAS Portal](https://iras.gov.sg/), [EDB Portal](https://portal.edb.gov.sg/)
+	
+	
+- **We limit each image or file size uploaded to IsomerCMS to 5MB** to ensure fast loading times, but you can upload larger files to [go.gov.sg](https://go.gov.sg/#/) and link to them on a page.
 
 To learn more about static websites and dynamic websites, [visit this page](/when-to-use-isomer/static-websites/).
 
