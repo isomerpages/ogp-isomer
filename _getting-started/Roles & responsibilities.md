@@ -17,12 +17,6 @@ These can all be done through IsomerCMS.
 
 > We do not offer website design services, and are unable to provide custom designs or layouts for your website.
 
-Instead, Isomer maintains a central template that offers some basic customisation that users can leverage on to begin building their website.
-
-
-
-    
-
 ### Support and cost 
 - The Isomer platform and service is free for Public Officers to use, but in order to launch their site, **agencies must bear the cost of the domain URL**, which you can procure from IT Service Management (ITSM).
 
