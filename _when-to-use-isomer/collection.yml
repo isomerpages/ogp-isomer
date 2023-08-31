@@ -1,5 +1,5 @@
 collections:
-  why-and-when-to-use-isomer:
+  when-to-use-isomer:
     output: true
     order:
       - When to use Isomer.md
