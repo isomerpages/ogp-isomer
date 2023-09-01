@@ -4,10 +4,6 @@ permalink: /onboard-to-isomer/onboarding-faqs/access-and-vendors/
 description: ""
 third_nav_title: Onboarding FAQs
 ---
-##### I am not a public officer, can I use Isomer?
-
-**Only emails ending with .gov.sg and other whitelisted domains can log into IsomerCMS.** If you are interested in Isomer and would like to explore its capabilities, please refer to [our Github Repository](https://github.com/isomerpages). Our codebase is open source, which means that you can use our templates or framework for your own development purposes.
-
 ##### Can I hire external vendors to manage my Isomer website?
 
 Yes, but the **Isomer team does not liase directly with vendors**. All communication **must** go through an agency representative. We do not  explain the product to vendors on an agency's behalf.
@@ -18,3 +14,7 @@ Yes, but the **Isomer team does not liase directly with vendors**. All communica
 
 ##### Can I restrict editing access to specific pages?
 No you cannot. All collaborators on your website have edit access to all pages on an Isomer website.
+
+##### I am not a public officer, can I use Isomer?
+
+**Only emails ending with .gov.sg and other whitelisted domains can log into IsomerCMS.** If you are interested in Isomer and would like to explore its capabilities, please refer to [our Github Repository](https://github.com/isomerpages). Our codebase is open source, which means that you can use our templates or framework for your own development purposes.
