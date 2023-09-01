@@ -13,12 +13,12 @@ To embed an external web page or document within a web page, use an iframe. An i
 
 - #### Virtual Intelligent Chat Assistant (VICA)
 	Use this GovTech chatbot to provide round-the-clock support on your website. Drop us an email and share your code snippet for us to configure it for you. <br><br>
-- #### [Youtube videos](https://www.youtube.com/) &amp; [Vimeo videos]()
+- #### [YouTube videos](https://www.youtube.com/) &amp; [Vimeo videos]()
 	Instead of an image, use videos to create interactive content <br><br>
 - #### [FormSG forms](https://form.gov.sg/)
 	Embed a form to collect data from site visitors, without having them leave the page. You could use it for event registration, or even to collect feedback. <br><br>
 - #### [Data.gov.sg graphs](https://beta.data.gov.sg/)
 	Show graphs for site visitor to see and visualise data <br><br>
-- #### [CheckFirst Checkers](https://www.checkfirst.gov.sg/)
+- #### [CheckFirst checkers](https://www.checkfirst.gov.sg/)
 	Build an eligibility checker, calculator, or quiz and embed it onto your Isomer site for people to self-check procedures. Combined with a website, you can use this to redirect visitors to specific pages.  <br><br>
 - **(Pending more!)**
