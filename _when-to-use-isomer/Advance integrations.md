@@ -9,8 +9,9 @@ You can use some outside services by putting them on a page on your website. The
 
 Embed an external web page or document within a web page with an iframe. When you use an iframe, the content is loaded from a separate URL and displayed within a frame on the web page. This can be useful for embedding content from external sources, such as a Google Map or a YouTube video, but it can also create security risks if the content being loaded is not trusted.
 
-- ##### [Youtube videos](https://www.youtube.com/)
-- ##### [Vimeo videos]()
+- ##### Virtual Intelligent Chat Assistant (VICA)
+- 
+- ##### [Youtube videos](https://www.youtube.com/) & [Vimeo videos]()
 	- Instead of an image, use videos to create interactive content 
 - ##### [FormSG forms](https://form.gov.sg/)
 	- You can embed a form to collect data from site visitors, without having them leave the page.
