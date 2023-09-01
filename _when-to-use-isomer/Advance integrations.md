@@ -16,7 +16,7 @@ To embed an external web page or document within a web page, use an iframe. An i
 - ##### [Youtube videos](https://www.youtube.com/) &amp; [Vimeo videos]()
 	Instead of an image, use videos to create interactive content <br><br>
 - ##### [FormSG forms](https://form.gov.sg/)
-	-You can embed a form to collect data from site visitors, without having them leave the page <br><br>
+	Embed a form to collect data from site visitors, without having them leave the page. You could use it for event registration, or even to collect feedback. <br><br>
 - ##### [data.gov.sg graphs](https://beta.data.gov.sg/)
 	Show graphs for site visitor to see and visualise data <br><br>
 - ##### [CheckFirst Checkers](https://www.checkfirst.gov.sg/)
