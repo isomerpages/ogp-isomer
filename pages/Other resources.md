@@ -3,8 +3,11 @@ title: Other resources
 permalink: /other-resources/
 description: ""
 ---
+### [Live site status](https://status.isomer.gov.sg/)
+Check the real-time uptime status of all websites hosted by Isomer
+
 ### [Isomer Design Academy](https://designacademy.isomer.gov.sg/)
-Learn to craft impactful Isomer sites with effective web design strategies. We give tips on how to best use the Isomer template, and craft content that is both meaningful and accessible.
+Learn to craft impactful Isomer sites with effective web design strategies. We give tips on how to best use the Isomer template and craft content that is both meaningful and accessible.
 
 ### [Isomer Cheatsheet](https://cheatsheet.isomer.gov.sg/)
 This is a quick self help guide for Isomer site creation. Take a look to see what you can do on an Isomer website!
