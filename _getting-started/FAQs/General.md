@@ -14,7 +14,7 @@ The Homepage, Contact Us page, and Navigation bar use a block editing system wit
 ##### Can I launch a non gov.sg domain?
 Yes you can. Please consult your ITD on this.
 
-##### Can I integrate VICA?
+##### Can I integrate VICA chatbot?
 Yes, you can. Drop us an email to share your code snippet and we'll configure it for you. 
 
 ##### Can I use WOGAA or other analytics?
@@ -28,7 +28,7 @@ No. The use of GTM violates the Content Security Policy (CSP) that we've set up 
 
 ##### Can I integrate or embed things on pages?
 
-Yes, Isomer has whitelisted services such as youtube videos with an iframe to be embedded on a page. View our [advanced integrations for a full list](/when-to-use-isomer/advance-integrations/).
+Yes, Isomer whitelists selected services to be embedded on pages using an iframe. View our [advanced integrations for a full list](/when-to-use-isomer/advance-integrations/)
 
 ##### I don’t see a layout or component that I want to use in IsomerCMS. Can you do it for me?
 
