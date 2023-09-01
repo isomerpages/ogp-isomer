@@ -4,10 +4,15 @@ permalink: /onboard-to-isomer/onboarding-faqs/access-and-vendors/
 description: ""
 third_nav_title: Onboarding FAQs
 ---
+##### I am not a public officer, can I use Isomer?
+
+Only emails ending with .gov.sg and other whitelisted domains can log into IsomerCMS.
+
+However, if you're interested in Isomer and would like to explore its capabilities, you can refer to [our Github Repository](https://github.com/isomerpages). Our codebase is open source, meaning that you can use our templates or framework for your own development purposes.
+
 ##### Can I hire external vendors to manage my Isomer website?
 
-##### Can the Isomer team meet up with the vendor to explain how the product works?
+Yes, but the **Isomer team does not liase directly with vendors**. All communication **must** go through an agency representative. We do not  explain the product to vendors on an agency's behalf.
 
-##### I am a vendor currently helping an agency with their website development – how can I speak to the Isomer team?
-
-##### I am a vendor who is participating in a tender from a government agency, can you help?
+- We cannot meet with them to explain how the product works
+- Any queries from a vendor should be directed to the agency representative.
