@@ -34,14 +34,14 @@ sections:
         that your information will stay available for citizens to view round the
         clock.
       alt: Image alt text
-      image: /images/rectangle 1.png
+      image: /images/Homepage/uptime rate.png
   - infopic:
       title: We’ll handle all non-website tasks
       description: Focus on building good site content. No tenders, no AORs – we cover
         IM8 and VAPT, and our template dynamically adapts your content for
         different devices.
       alt: Image alt text
-      image: /images/rectangle 1.png
+      image: /images/Homepage/non-website tasks.png
   - infobar:
       title: Join 500+ other sites
       description: We’re already supporting more than 70 agencies, ministries, and
