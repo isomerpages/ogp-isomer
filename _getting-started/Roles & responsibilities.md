@@ -32,5 +32,3 @@ These can all be done through IsomerCMS.
 - **By using Isomer, your site is automatically compliant with all applicable IM8 clauses.** The Isomer Team manages all security centrally, including any security testing (e.g. VAPT) and audits or tests. **You do not need to do these independently.**
 
 	You can reach out to [Isomer Support](mailto:%20support@isomer.gov.sg) for further clarification on specific clauses.
-
-- Internal Risk Assessment Checklist is not applicable to Isomer (?) as part of the security review for compliance with IM8
