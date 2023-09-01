@@ -6,11 +6,14 @@ third_nav_title: FAQs
 ---
 ##### Can I hire external vendors to manage my Isomer website?
 
-Yes, but the **Isomer team does not liase directly with vendors**. All communication **must** go through an agency representative. We do not  explain the product to vendors on an agency's behalf.
+Yes you can. Isomer is designed to be simple enough for officers to manage themselves, even without any coding knowledge. But we understand that sometimes you need additional help.
+
+However, the **Isomer team does not liase directly with vendors**. All communication **must** go through an agency representative. We do not  explain the product to vendors on an agency's behalf.
 
 - We cannot meet with them to explain how the product works
 - Any queries from a vendor should be directed to the agency representative, then asked to us by the officer.
 
+**You can add a vendor as a collaborator to your website through IsomerCMS.** If you have trouble adding them as a collaborator, contact Isomer support.
 
 ##### Can I restrict editing access to specific pages?
 No you cannot. All collaborators on your website have edit access to all pages on an Isomer website.
