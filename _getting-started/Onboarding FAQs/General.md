@@ -4,24 +4,21 @@ permalink: /onboard-to-isomer/onboarding-faqs/general/
 description: ""
 third_nav_title: Onboarding FAQs
 ---
-##### How do I edit my website content? Do I need to know coding?
+##### Do I need to know coding to edit my website?
+No, you do not need to know HTML or CSS. When you edit a page on Isomer you use a rich text editor that gives you buttons to 
+
+where you can use markdown sym
+
+Markdown is a plain text format, it can be easily edited using any text editor, making it a flexible and versatile option for editing text.
 
 #####  What are my options if I am unable to use Isomer?
 
-Your agency can consider using the [Singapore Government Design System](https://www.designsystem.gov.sg/).
+Agencies can consider hosting your website on CWP as part of the CWP bulk tender, or an external provider e.g. AWS Cloudfront. You can also use the [Singapore Government Design System](https://www.designsystem.gov.sg/) for UI components. 
 
 The Singapore Government Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide the public with a unified experience across all public-facing government digital services.
 
 Do note that for the Singapore Government Design System (SGDS), your agency will be responsible for developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
 
-Isomer’s design components are also extracted from SGDS. We’re working closely with them to ensure that necessary UI components are aligned with what they have.
-
-Design systems are widely used around the world today:
-
-- In Industry: [Google Material design](https://material.io/design/), [Adobe Spectrum](https://theblog.adobe.com/author/the-spectrum-design-team/)
-- In Government: [U.S. Web Design System](https://designsystem.digital.gov/), [Gov.UK Design System](https://design-system.service.gov.uk/), [Australian Design System](https://designsystem.gov.au/)
-
-Alternatively, you can also consider using CWP, which is part of the WOG bulk tender.
 
 #####  How do I back up my site for archiving purposes?
 
