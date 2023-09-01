@@ -18,8 +18,8 @@ It's recommended to get a domain on ITSM before getting a new Isomer website to 
 
 
 ##### 2. Log into [cms.isomer.gov.sg](https://cms.isomer.gov.sg/sites) to start editing
-You can add other collaborators to your site through IsomerCMS. [Learn how to add or remove collaborators]()
+You can add other collaborators to your site through IsomerCMS. 
 
 ##### 3. Launch your website
 
-You will be guided on how to launch your website independently. [Learn more about the site launch process]()
+You will be guided on how to launch your website independently. Learn more about the [site launch process in our guide]()
