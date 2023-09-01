@@ -4,7 +4,7 @@ permalink: /onboard-to-isomer/onboarding-faqs/general/
 description: ""
 third_nav_title: Onboarding FAQs
 ---
-When to use Isomer -> Could be it's own page? Now split btw before you onboard and FAQ
+When to use Isomer -&gt; Could be it's own page? Now split btw before you onboard and FAQ
 
 
 
@@ -22,6 +22,18 @@ When to use Isomer -> Could be it's own page? Now split btw before you onboard a
 
 #####  Can I restrict editing access to specific pages?
 
-#####  What can I embed onto an Isomer page?
+##### I don’t see a layout or component that I want to use in IsomerCMS. Can you do it for me?
 
-##### Can I use chatbots such as VICA or AskJamie?
+No, the Isomer team does not offer this service. While we understand that some users may have specific design requirements, we do not do custom designs for individual websites.
+
+To allow us to scale, we maintain the Isomer template and periodically add new functional templates and components after doing thorough research to ensure that they meet good design standards, and are implemented with accessibility in mind.
+
+If you have a component or template layout that you would like to see on IsomerCMS, let us know your use case here.
+
+##### Why don’t we have carousels?
+
+A carousel is a type of slideshow to display multiple images or pieces of content in a single location. Each image usually is accompanied by an action button.
+
+Carousels have been proven to be ineffective in converting visitors to an action. A study conducted found that the click-through rate significantly reduced after the first image. They can also lead to a poor user experience if a carousel rotates too quickly or contains too many images, it can be difficult for users to focus on any one piece of content. Additionally, carousels can be less accessible for users with disabilities, such as those who rely on screen readers to navigate websites. [Read the research through this article](https://medium.com/@sherpadesignco/carousels-are-killing-your-conversion-rate-heres-how-to-fix-that-b57e31f8f508)
+
+As such, we don’t believe that carousels are the best way to show content to site visitors. We suggest alternative ways to display information .
