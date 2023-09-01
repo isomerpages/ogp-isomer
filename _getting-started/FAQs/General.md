@@ -6,7 +6,7 @@ third_nav_title: FAQs
 ---
 ##### Do I need to know coding to edit my website?
 
-No, you do not need to know HTML or CSS. When you edit a page on Isomer you use a rich text editor with basic editing capabilities.  pages use markdown.
+No, you do not need to know HTML or CSS. When you edit a page on Isomer you use a rich text editor with basic editing capabilities. Text is formatted with [markdown](https://commonmark.org/help/tutorial/), which is a series of simple symbols and characters to indicate formatting.
 
 To edit the Homepage, contact us page, or navigation bar, we use a block editing system where 
 The team is looking into extending this block editing function to all Isomer pages to remove even the need to use markdown.
