@@ -39,7 +39,7 @@ A carousel is like a slideshow that shows many pictures in one place, where each
 
 Research shows that carousels usually don't work to convert visitors to do an action. In fact, a study found that people click less after the first picture. If a carousel changes too fast or has too many pictures, it can be hard for people to focus on one thing. It is also not accessible for visitors who use assistive technologies. You can read more about this in [this article](https://medium.com/@sherpadesignco/carousels-are-killing-your-conversion-rate-heres-how-to-fix-that-b57e31f8f508).
 
-As such, we don’t believe that carousels are the best way to show content to site visitors. We suggest alternative ways to display information.
+**As such, we don’t believe that carousels are the best way to show content to site visitors.** We suggest using an infopic section to display information instead.
 
 ##### What are my options if I am unable to use Isomer?
 
