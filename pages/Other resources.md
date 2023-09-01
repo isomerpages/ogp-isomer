@@ -13,8 +13,7 @@ Learn to craft impactful Isomer sites with effective web design strategies. We g
 A quick self help guide for Isomer site creation. Take a look to see what you can do on an Isomer website
 
 ### [IsomerCMS](https://cms.isomer.gov.sg/)
-IsomerCMS is the platform through which Public Officers can make edits and publish changes to their Isomer websites. [Learn more about IsomerCMS](/about-isomer/what-is-isomer/isomercms/)
-
+IsomerCMS is the platform through which Public Officers can make edits and publish changes to their Isomer websites. Learn more about [IsomerCMS](/about-isomer/what-is-isomer/isomercms/) or visit our [CMS guide](https://guide.isomer.gov.sg/).
 
 ### Open source code
 At OGP, we open source many of our tools in order for us to share and work together with developers around the world to tackle common challenges. We hope that by doing so, we can help others to improve public good around the world.
