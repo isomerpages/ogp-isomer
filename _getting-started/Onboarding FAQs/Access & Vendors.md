@@ -17,4 +17,4 @@ Yes, but the **Isomer team does not liase directly with vendors**. All communica
 
 
 ##### Can I restrict editing access to specific pages?
-No you cannot. All Isomer users have edit access to all pages on an Isomer website.
+No you cannot. All collaborators on your website have edit access to all pages on an Isomer website.
