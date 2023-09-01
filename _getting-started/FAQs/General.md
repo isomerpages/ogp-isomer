@@ -24,7 +24,7 @@ To learn how to set up WOGAA for your Isomer site, [read this guide](https://gui
 To learn how to set up other analytics, [refer to this guide](https://guide.isomer.gov.sg/analytics-and-tracking/google-analytics)
 
 **Does Isomer support Google Tag Manager (GTM)?**   
-Unfortunately no. The reason is because the use of GTM violates the Content Security Policy (CSP) we've set up to protect your site from SQL Injection or XXS attacks.However, you can explore the use of Facebook Pixel, find our more [here](https://www.notion.so/analytics-and-tracking/google-analytics#facebook-pixel).
+No. The use of GTM violates the Content Security Policy (CSP) that we've set up to protect your site from SQL Injection or XSS attacks. Isomer would have to loosen our security policy to allow this.
 
 ##### Can I integrate or embed things on pages?
 
