@@ -45,6 +45,13 @@ If you choose Isomer as your hosting platform, you will be informed that a cage 
 - Level 3: 
 	- Problems which have minimal or no impact on the operation of the website
 
+|Severity Level|Acknowledgement Time|Status Reporting|Resolution Time|
+|-|-|
+|1|- A complete unavailability of the website <br> - Security issues, or problems severely impacting the operation of the website <br> - Defacement affecting the website, resulting in negative image or adverse impact on the reputation of the Agency
+|2|Problems which moderately impact the operation of the website|
+|3|Problems which have minimal or no impact on the operation of the website|
+
+
 ##### Will Isomer be onboarding to CAM?
 
 Isomer currently does not have plans to onboard to CAM due to limitations in our technical setup. If you are in contact with a representative from the CAM team, please direct them to us.
