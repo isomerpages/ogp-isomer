@@ -20,8 +20,7 @@ Accounts on isomer are managed by Github. As of Q4 2023, all Isomer users will l
 All IsomerCMS accounts use email OTPs sent to the email you log in with.
 
 ##### Do I need to perform a CAGE scan?
-
-By default, you don't have to. If you select Isomer as your hosting platform, you will be prompted that you're not required to perform cage scan. But if you do, you can specify this IP address **18.136.36.203.**
+If you choose Isomer as your hosting platform, you will be informed that a cage scan is not required. However, if you wish to perform one, you may specify the IP address as 18.136.36.203.
 
 ##### What is our RPO (Recovery Point Objective) and RTO (Recovery Time Objective)**
 
@@ -29,7 +28,18 @@ By default, you don't have to. If you select Isomer as your hosting platform, yo
 
 **RTO**: N/A - Isomer is dependent on other systems (AWS, Netlify, KeyCDN and GitHub), hence the service recovery time will be dependent on these external services
 
-**What is our SLA?**
+##### What is our SLA?
+|Severity Level|Definition|
+|-|-|
+|1|• A complete unavailability of the website <br> • Security issues, or problems severely impacting the operation of the website <br> • Defacement affecting the website, resulting in negative image or adverse impact on the reputation of the Agency
+|2||
+|3||
+    
+
+*   Security issues, or problems severely impacting the operation of the website
+    
+
+*   Defacement affecting the website, resulting in negative image or adverse impact on the reputation of the Agency|
 
 ##### Will Isomer be onboarding to CAM?
 
