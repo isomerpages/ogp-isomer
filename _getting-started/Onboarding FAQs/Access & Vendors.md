@@ -14,3 +14,7 @@ Yes, but the **Isomer team does not liase directly with vendors**. All communica
 
 - We cannot meet with them to explain how the product works
 - Any queries from a vendor should be directed to the agency representative, then asked to us by the officer.
+
+
+##### Can I restrict editing access to specific pages?
+No you cannot. All Isomer users have edit access to all pages on an Isomer website.
