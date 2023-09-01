@@ -19,11 +19,6 @@ You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the
 **RTO**: N/A - Isomer is dependent on other systems (AWS, Netlify, KeyCDN and GitHub). The service recovery time will depend on these external services.
 
 ##### What is our service level agreement (SLA)?
-|Severity Level|Definition|
-|-|-|
-|1|- A complete unavailability of the website <br> - Security issues, or problems severely impacting the operation of the website <br> - Defacement affecting the website, resulting in negative image or adverse impact on the reputation of the Agency
-|2|Problems which moderately impact the operation of the website|
-|3|Problems which have minimal or no impact on the operation of the website|
 
 <table>
 <thead>
@@ -47,6 +42,8 @@ You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the
   </tr>
 </tbody>
 </table>
+
+<br>
 
 |Severity Level|Acknowledgement Time|Status Reporting|Resolution Time|
 |-|-|-|-|
