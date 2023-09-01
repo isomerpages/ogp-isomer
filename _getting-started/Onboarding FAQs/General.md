@@ -27,6 +27,8 @@ Alternatively, you can also consider using CWP, which is part of the WOG bulk te
 
 To keep a copy of your site content offline, you can download it in a zip file. To do so, follow the steps belowGo to your repository, usually with the URL github.com/isomerpages/agency-site 1. Click on the Code button 2. Select Download Zip option
 
+##### Can I launch a non gov.sg domain?
+
 ##### I am not a public officer, can I use Isomer?
 
 #####  Can I track individual buttons and clicks on Isomer?
