@@ -13,4 +13,4 @@ third_nav_title: Onboarding FAQs
 Yes, but the **Isomer team does not liase directly with vendors**. All communication **must** go through an agency representative. We do not  explain the product to vendors on an agency's behalf.
 
 - We cannot meet with them to explain how the product works
-- Any queries from a vendor should be directed to the agency representative.
+- Any queries from a vendor should be directed to the agency representative, then asked to us by the officer.
