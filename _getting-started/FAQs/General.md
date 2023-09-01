@@ -28,7 +28,7 @@ No. The use of GTM violates the Content Security Policy (CSP) that we've set up 
 
 ##### Can I integrate or embed things on pages?
 
-Yes, Isomer has whitelisted services such as youtube videos with an iframe to be embedded on a page. View our advanced integrations for a full list.
+Yes, Isomer has whitelisted services such as youtube videos with an iframe to be embedded on a page. View our [advanced integrations for a full list](/when-to-use-isomer/advance-integrations/).
 
 ##### I don’t see a layout or component that I want to use in IsomerCMS. Can you do it for me?
 
