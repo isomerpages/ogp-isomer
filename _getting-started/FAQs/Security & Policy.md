@@ -59,7 +59,7 @@ The Isomer team is working closely with the CSA team and has received assurance 
 
 Isomer is currently migrating sites to a new infrastructure, which will automatically give your site a score of 95% on CSA IHP. Isomer is also working on HTTP compression to push your score up to 100%. The team will contact your site directly on any actionables.
 
-For the moment, IHP scan results should focus on root domains (e.g. isomer.gov.sg), instead of www subdomains (e.g. www.isomer.gov.s ).
+For the moment, IHP scan results should focus on root domains (e.g. isomer.gov.sg), instead of www subdomains (e.g. www. isomer.gov.sg ).
 
 
 #### Do I need to perform a CAGE scan?
