@@ -46,6 +46,3 @@ Isomer currently does not have plans to onboard to CAM due to limitations in our
 
 ##### Why is my IHP scan result not 100%?
 The Isomer team is working closely with the CSA team, and there is assurance that all Isomer root domains are very much aligned with IHP. The Isomer team will be working with the relevant teams to seek alignment on DNSSEC and this can be ignored for now. IHP scan results should be focused on root domains (eg. [isomer.gov.sg](http://isomer.gov.sg/)) and not the www subdomains ([www.isomer.gov.sg](http://www.isomer.gov.sg/)) at the moment.
-
-##### My Accessibility Scores on WOGAA are below 100%, how do I fix this to meet the Digital KPI requirements for reporting?
-The Isomer team has obtained a waiver for Digital KPIs for all Isomer sites until end March 2023. Hence if your Isomer site does not meet the minimum score requirements for Accessibility and SEO scores, do report back that your site is an Isomer site and there is a waiver obtained until end March 2023.
