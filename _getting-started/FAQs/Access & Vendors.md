@@ -16,7 +16,9 @@ However, the **Isomer team does not liase directly with vendors**. All communica
 **You can add a vendor as a collaborator to your website through IsomerCMS.** If you have trouble adding them as a collaborator, contact Isomer support.
 
 ##### Can I restrict editing access to specific pages?
-No you cannot. All collaborators on your website have edit access to all pages on an Isomer website.
+No you cannot. All collaborators on your website have edit access to all pages on an Isomer website. 
+
+However, there are other restrictions in place based on your account role. Learn more in our guide.
 
 ##### I am not a public officer, can I use Isomer?
 
