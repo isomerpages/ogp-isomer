@@ -6,7 +6,7 @@ third_nav_title: FAQs
 ---
 ##### How are sites being monitored? What do I do if my site goes down?
 
-We us monitoring systems such as Pingdom and Uptime Robot on all Isomer sites. These systems send pings to your site every minute to ensure that it's running and responding properly.
+We use monitoring systems such as Pingdom and Uptime Robot on all Isomer sites. These systems send pings to your site every minute to ensure that it's running and responding properly.
 
 If our monitoring systems detect that your site is down, the Isomer team is immediately informed. We will then assess the nature of the situation and act accordingly. You will be notified by email, or in emergency situations, by phone.
 
