@@ -31,6 +31,10 @@ To keep a copy of your site content offline, you can download it in a zip file. 
 
 ##### I am not a public officer, can I use Isomer?
 
+Only emails ending with .gov.sg and other whitelisted domains can log into IsomerCMS.
+
+However, if you're interested in Isomer and would like to explore its capabilities, you can refer to our Github Repository. Our codebase is open source, meaning that you can use our templates or framework for your own development purposes.
+
 #####  Can I track individual buttons and clicks on Isomer?
 
 #####  Can I restrict editing access to specific pages?
