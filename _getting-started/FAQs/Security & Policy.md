@@ -28,11 +28,15 @@ You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the
 <table>
 <thead>
   <tr>
-    <th>1</th>
-    <th>- A complete unavailability of the website<br>- Security issues, or problems severely impacting the operation of the website<br>- Defacement affecting the website, resulting in negative image or adverse impact on the reputation of the Agency</th>
+    <th>Severity Level</th>
+    <th>Definition</th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>1</td>
+    <td>- A complete unavailability of the website<br>- Security issues, or problems severely impacting the operation of the website<br>- Defacement affecting the website, resulting in negative image or adverse impact on the reputation of the Agency</td>
+  </tr>
   <tr>
     <td>2</td>
     <td>Problems which moderately impact the operation of the website</td>
