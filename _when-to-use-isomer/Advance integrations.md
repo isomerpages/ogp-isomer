@@ -17,7 +17,7 @@ To embed an external web page or document within a web page, use an iframe. An i
 	Instead of an image, use videos to create interactive content <br><br>
 - ##### [FormSG forms](https://form.gov.sg/)
 	Embed a form to collect data from site visitors, without having them leave the page. You could use it for event registration, or even to collect feedback. <br><br>
-- ##### [data.gov.sg graphs](https://beta.data.gov.sg/)
+- ##### [Data.gov.sg graphs](https://beta.data.gov.sg/)
 	Show graphs for site visitor to see and visualise data <br><br>
 - ##### [CheckFirst Checkers](https://www.checkfirst.gov.sg/)
 	Build an eligibility checker, calculator, or quiz and embed it onto your Isomer site for people to self-check procedures. Combined with a website, you can use this to redirect visitors to specific pages.  <br><br>
