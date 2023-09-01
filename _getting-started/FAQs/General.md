@@ -43,4 +43,6 @@ Research shows that carousels usually don't work to convert visitors to do an ac
 
 ##### What are my options if I am unable to use Isomer?
 
-Agencies can consider hosting your website on CWP as part of the CWP bulk tender, or an external provider e.g. AWS Cloudfront. You can also use the [Singapore Government Design System](https://www.designsystem.gov.sg/) for UI components. In this case, your agency will be responsible for developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS, as well as any costs for these services.
+Agencies can consider hosting your website on CWP as part of the CWP bulk tender, or an external provider e.g. AWS Cloudfront. You can also use the [Singapore Government Design System](https://www.designsystem.gov.sg/) for UI components. 
+
+In this case, your agency will be responsible for developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS, as well as any costs for these services.
