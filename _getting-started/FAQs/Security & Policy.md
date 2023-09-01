@@ -25,6 +25,15 @@ You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the
 |2|Problems which moderately impact the operation of the website|
 |3|Problems which have minimal or no impact on the operation of the website|
 
+\begin{table}[]
+\begin{tabular}{|l|l|}
+\hline
+1 &amp; \begin{tabular}[c]{@{}l@{}}- A complete unavailability of the website\\ - Security issues, or problems severely impacting the operation of the website\\ - Defacement affecting the website, resulting in negative image or adverse impact on the reputation of the Agency\end{tabular} \\ \hline
+2 &amp; Text                                                           \\ \hline
+3 &amp; Text                                                           \\ \hline
+\end{tabular}
+\end{table}
+
 
 |Severity Level|Acknowledgement Time|Status Reporting|Resolution Time|
 |-|-|-|-|
