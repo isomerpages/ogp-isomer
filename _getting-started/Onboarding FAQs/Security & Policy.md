@@ -22,7 +22,7 @@ All IsomerCMS accounts use email OTPs sent to the email you log in with.
 ##### Do I need to perform a CAGE scan?
 If you choose Isomer as your hosting platform, you will be informed that a cage scan is not required. However, if you wish to perform one, you may specify the IP address as 18.136.36.203.
 
-##### What is our RPO (Recovery Point Objective) and RTO (Recovery Time Objective)**
+##### What is our Recovery Point Objective (RPO) and (Recovery Time Objective(RTO ()**
 
 **RPO**: our backup job runs once a day
 
