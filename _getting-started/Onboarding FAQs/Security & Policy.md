@@ -14,11 +14,10 @@ You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the
 
 ##### How are account logs managed?
 
-Accounts on isomer are managed by Github (note: Isomer subscribe to the free tier of Github). On Isomer Organisation, [we enforce all users to have their 2FA set up](https://docs.github.com/en/organizations/keeping-your-organization-secure/requiring-two-factor-authentication-in-your-organization).
+Accounts on isomer are managed by Github. As of Q4 2023, all Isomer users will log in with their .gov.sg or other whitelisted email. 
 
-We do not monitor account log in behaviour on Isomer. Any abnormal log in will be handled at Github's level.
-
-If you have any questions regarding how [Github keeps your account secure here.](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure)
+##### Does Isomer accounts have MFA?
+All IsomerCMS accounts use email OTPs sent to the email you log in with.
 
 ##### Do I need to perform a CAGE scan?
 
