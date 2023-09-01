@@ -16,7 +16,7 @@ You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the
 ##### What is our Recovery Point Objective (RPO) and Recovery Time Objective(RTO)?
 
 **RPO**: Our backup job runs once a day   
-**RTO**: N/A - Isomer is dependent on other systems (AWS, Netlify, KeyCDN and GitHub). Therefore, the service recovery time will depend on these external services.
+**RTO**: N/A - Isomer is dependent on other systems (AWS, Netlify, KeyCDN and GitHub). The service recovery time will depend on these external services.
 
 ##### What is our service level agreement (SLA)?
 |Severity Level|Definition|
