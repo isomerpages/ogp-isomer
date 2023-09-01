@@ -20,6 +20,10 @@ Yes, you can. Drop us an email to share your code snippet and we'll configure it
 ##### Can I use WOGAA or other analytics?
 Yes, we support WOGAA, Google analytics 4(GA4), Facebook Pixel, and LinkedIn Insights.
 
+To learn how to set up WOGAA for your Isomer site, [read this guide](https://guide.isomer.gov.sg/analytics-and-tracking/wogaa).
+
+To learn how to set up other analytics, [refer to this guide](https://guide.isomer.gov.sg/analytics-and-tracking/google-analytics)
+
 **Does Isomer support Google Tag Manager (GTM)?**   
 Unfortunately no. The reason is because the use of GTM violates the Content Security Policy (CSP) we've set up to protect your site from SQL Injection or XXS attacks.However, you can explore the use of Facebook Pixel, find our more [here](https://www.notion.so/analytics-and-tracking/google-analytics#facebook-pixel).
 
