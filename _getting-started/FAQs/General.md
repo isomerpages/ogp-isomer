@@ -14,13 +14,13 @@ The Homepage, Contact Us page, and Navigation bar use a block editing system wit
 ##### Can I launch a non gov.sg domain?
 Yes you can. Please consult your ITD on this.
 
-##### Can I use WOGAA or VICA on Isomer sites?
-Yes, you can. For AskJamie and VICA, drop us an email, share your code snippet and we'll configure it for you. 
+##### Can I integrate VICA?
+Yes, you can. Drop us an email to share your code snippet and we'll configure it for you. 
 
-For WOGAA, you can refer to [our guide on setting up analytics](https://www.notion.so/analytics-and-tracking). 
+##### Can I use WOGAA or other analytics?
 
+**Does Isomer support Google Tag Manager (GTM)?** 
 
-**Does Isomer support Google Tag Manager (GTM)?**
 Unfortunately no. The reason is because the use of GTM violates the Content Security Policy (CSP) we've set up to protect your site from SQL Injection or XXS attacks.However, you can explore the use of Facebook Pixel, find our more [here](https://www.notion.so/analytics-and-tracking/google-analytics#facebook-pixel).
 
 ##### Can I integrate or embed things on pages?
