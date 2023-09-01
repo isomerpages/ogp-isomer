@@ -28,7 +28,7 @@ If you choose Isomer as your hosting platform, you will be informed that a cage 
 
 **RTO**: N/A - Isomer is dependent on other systems (AWS, Netlify, KeyCDN and GitHub), hence the service recovery time will be dependent on these external services
 
-##### What is our SLA?
+##### What is our service level agreement (SLA)?
 |Severity Level|Definition|
 |-|-|
 |1|- A complete unavailability of the website <br> - Security issues, or problems severely impacting the operation of the website <br> - Defacement affecting the website, resulting in negative image or adverse impact on the reputation of the Agency
