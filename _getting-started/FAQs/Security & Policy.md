@@ -10,7 +10,7 @@ We us monitoring systems such as Pingdom and Uptime Robot on all Isomer sites. T
 
 If our monitoring systems detect that your site is down, the Isomer team immediately receives a phone call to rectify the issue. The team will also notify you through email, or in emergency cases, by phone.
 
-You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the status of your sites, or subscribe to the RSS feeds.
+You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the status of your sites.
 
 
 ##### What is our Recovery Point Objective (RPO) and Recovery Time Objective(RTO)?
