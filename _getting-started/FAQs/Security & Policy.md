@@ -32,11 +32,8 @@ You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the
 |2|Within **60 minutes** of notification|**Daily** till completion of resolution|Within **3 working days**|
 |3|Within **60 minutes** of notification|**Weekly** till completion of resolution|Within **5 working days**|
 
-##### Do Isomer accounts have MFA?
-All IsomerCMS accounts use email OTPs sent to the email you log in with.
-
-##### How are account logs managed?
-Accounts on isomer are managed by Github. As of Q4 2023, all Isomer users will log in with their .gov.sg or other whitelisted email. 
+##### Do accounts have MFA?
+All IsomerCMS accounts use an email OTP sent to the email you log in with.
 
 ##### Do I need to perform a CAGE scan?
 If you choose Isomer as your hosting platform, you will be informed that a cage scan is not required. However, if you wish to perform one, you may specify the IP address as 18.136.36.203.
