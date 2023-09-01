@@ -13,11 +13,7 @@ Markdown is a plain text format, it can be easily edited using any text editor, 
 
 #####  What are my options if I am unable to use Isomer?
 
-Agencies can consider hosting your website on CWP as part of the CWP bulk tender, or an external provider e.g. AWS Cloudfront. You can also use the [Singapore Government Design System](https://www.designsystem.gov.sg/) for UI components. 
-
-The Singapore Government Design System is a collection of UI components and design patterns that were built with the best UX practices in mind. The purpose of the design system is to provide the public with a unified experience across all public-facing government digital services.
-
-Do note that for the Singapore Government Design System (SGDS), your agency will be responsible for developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
+Agencies can consider hosting your website on CWP as part of the CWP bulk tender, or an external provider e.g. AWS Cloudfront. You can also use the [Singapore Government Design System](https://www.designsystem.gov.sg/) for UI components. In this case, your agency will be responsible for developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
 
 
 #####  How do I back up my site for archiving purposes?
