@@ -24,9 +24,8 @@ If you choose Isomer as your hosting platform, you will be informed that a cage 
 
 ##### What is our Recovery Point Objective (RPO) and (Recovery Time Objective(RTO ()**
 
-**RPO**: our backup job runs once a day
-
-**RTO**: N/A - Isomer is dependent on other systems (AWS, Netlify, KeyCDN and GitHub), hence the service recovery time will be dependent on these external services
+**RPO**: Our backup job runs once a day   
+**RTO**: N/A - Isomer is dependent on other systems (AWS, Netlify, KeyCDN and GitHub). Therefore, the service recovery time will depend on these external services.
 
 ##### What is our service level agreement (SLA)?
 |Severity Level|Definition|
