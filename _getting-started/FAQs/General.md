@@ -33,23 +33,13 @@ No, the Isomer team does not offer this service. While we understand that some u
 
 All our templates and components are implemented after doing thorough research to ensure that they meet good design standards, and are kept accessible.
 
-##### Custom code
-
-Typical custom code such as HTML will reflected on the CMS preview but there may be issues which we do not expect, you can report it to us through [go.gov.sg/isomer-cms-help](http://go.gov.sg/isomer-cms-help).
-
-##### Markdown/Kramdown table
-
-When you have missing title on your Markdown/Kramdown table, the preview of your table on the CMS will not be displaying correctly. Don't be alarmed, and you may check your staging link to verify that that your table is displaying properly
-
-Still have an issue but not listed here? Report to us [here](https://go.gov.sg/isomer-cms-help).
-
 ##### Why don’t we have carousels?
 
-A carousel is a type of slideshow to display multiple images or pieces of content in a single location. Each image usually is accompanied by an action button.
+A carousel is like a slideshow that shows many pictures in one place, where each picture has a button.
 
-Carousels have been proven to be ineffective in converting visitors to an action. A study conducted found that the click-through rate significantly reduced after the first image. They can also lead to a poor user experience if a carousel rotates too quickly or contains too many images, it can be difficult for users to focus on any one piece of content. Additionally, carousels can be less accessible for users with disabilities, such as those who rely on screen readers to navigate websites. [Read the research through this article](https://medium.com/@sherpadesignco/carousels-are-killing-your-conversion-rate-heres-how-to-fix-that-b57e31f8f508)
+Research shows that carousels usually don't work to convert visitors to do an action. In fact, a study found that people click less after the first picture. If a carousel changes too fast or has too many pictures, it can be hard for people to focus on one thing. It is also not accessible for visitors who use assistive technologies. You can read more about this in [this article](https://medium.com/@sherpadesignco/carousels-are-killing-your-conversion-rate-heres-how-to-fix-that-b57e31f8f508).
 
-As such, we don’t believe that carousels are the best way to show content to site visitors. We suggest alternative ways to display information .
+As such, we don’t believe that carousels are the best way to show content to site visitors. We suggest alternative ways to display information.
 
 ##### What are my options if I am unable to use Isomer?
 
