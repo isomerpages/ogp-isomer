@@ -6,14 +6,12 @@ third_nav_title: FAQs
 ---
 ##### Do I need to know coding to edit my website?
 
-No, you do not need to know HTML or CSS. When you edit a page on Isomer you use a rich text editor that gives you buttons to
+No, you do not need to know HTML or CSS. When you edit a page on Isomer you use a rich text editor with basic editing capabilities.  pages use markdown.
 
-where you can use markdown sym
-
-Markdown is a plain text format, it can be easily edited using any text editor, making it a flexible and versatile option for editing text.
+To edit the Homepage, contact us page, or navigation bar, we use a block editing system where 
+The team is looking into extending this block editing function to all Isomer pages to remove even the need to use markdown.
 
 ##### Can I launch a non [gov.sg](http://gov.sg/) domain?
-
 Yes you can. Please consult your ITD on this.
 
 ##### What analytics does Isomer offer?
@@ -58,4 +56,4 @@ As such, we don’t believe that carousels are the best way to show content to s
 
 ##### What are my options if I am unable to use Isomer?
 
-Agencies can consider hosting your website on CWP as part of the CWP bulk tender, or an external provider e.g. AWS Cloudfront. You can also use the [Singapore Government Design System](https://www.designsystem.gov.sg/) for UI components. In this case, your agency will be responsible for developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS.
+Agencies can consider hosting your website on CWP as part of the CWP bulk tender, or an external provider e.g. AWS Cloudfront. You can also use the [Singapore Government Design System](https://www.designsystem.gov.sg/) for UI components. In this case, your agency will be responsible for developing, hosting, maintaining the website and ensuring that the website is compliant to the IM8 and DSS, as well as any costs for these services.
