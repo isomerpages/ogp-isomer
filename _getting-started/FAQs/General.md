@@ -20,8 +20,7 @@ Yes, you can. Drop us an email to share your code snippet and we'll configure it
 ##### Can I use WOGAA or other analytics?
 Yes, we support WOGAA, Google analytics 4(GA4), Facebook Pixel, and LinkedIn Insights.
 
-To learn how to set up WOGAA for your Isomer site, [read this guide](https://guide.isomer.gov.sg/analytics-and-tracking/wogaa).
-
+To learn how to set up WOGAA for your Isomer site, [read this guide](https://guide.isomer.gov.sg/analytics-and-tracking/wogaa).   
 To learn how to set up other analytics, [refer to this guide](https://guide.isomer.gov.sg/analytics-and-tracking/google-analytics)
 
 **Does Isomer support Google Tag Manager (GTM)?**   
