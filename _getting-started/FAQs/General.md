@@ -25,7 +25,7 @@ Unfortunately no. The reason is because the use of GTM violates the Content Secu
 
 ##### Can I integrate or embed things on pages?
 
-Yes, you can add VICA chabots and embed services such as youtube videos with an iframe. View our advanced integrations for a full list.
+Yes, Isomer has whitelisted services such as youtube videos with an iframe to be embedded on a page. View our advanced integrations for a full list.
 
 ##### I don’t see a layout or component that I want to use in IsomerCMS. Can you do it for me?
 
