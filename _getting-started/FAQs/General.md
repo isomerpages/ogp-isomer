@@ -11,7 +11,7 @@ No, you do not need to know HTML or CSS. When you edit a page on Isomer you use 
 To edit the Homepage, contact us page, or navigation bar, we use a block editing system where 
 The team is looking into extending this block editing function to all Isomer pages to remove even the need to use markdown.
 
-##### Can I launch a non [gov.sg](http://gov.sg/) domain?
+##### Can I launch a non gov.sg domain?
 Yes you can. Please consult your ITD on this.
 
 ##### What analytics does Isomer offer?
