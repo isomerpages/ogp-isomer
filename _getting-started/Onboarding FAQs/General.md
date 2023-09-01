@@ -25,7 +25,7 @@ Alternatively, you can also consider using CWP, which is part of the WOG bulk te
 
 #####  How do I back up my site for archiving purposes?
 
-##### Can I launch a non gov.sg domain?
+To keep a copy of your site content offline, you can download it in a zip file. To do so, follow the steps belowGo to your repository, usually with the URL github.com/isomerpages/agency-site 1. Click on the Code button 2. Select Download Zip option
 
 ##### I am not a public officer, can I use Isomer?
 
