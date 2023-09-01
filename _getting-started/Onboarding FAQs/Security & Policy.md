@@ -46,10 +46,10 @@ If you choose Isomer as your hosting platform, you will be informed that a cage 
 	- Problems which have minimal or no impact on the operation of the website
 
 |Severity Level|Acknowledgement Time|Status Reporting|Resolution Time|
-|-|-|
-|1|- A complete unavailability of the website <br> - Security issues, or problems severely impacting the operation of the website <br> - Defacement affecting the website, resulting in negative image or adverse impact on the reputation of the Agency
-|2|Problems which moderately impact the operation of the website|
-|3|Problems which have minimal or no impact on the operation of the website|
+|-|-|-|-|
+|1|Within **60 minutes** of notification|**Every 2 hours** till completion of resolution|Within **24 hours**|
+|2|Within **60 minutes** of notification|**Daily** till completion of resolution|Within **3 working days**|
+|3|Within **60 minutes** of notification|**Weekly** till completion of resolution|Within **5 working days**|
 
 
 ##### Will Isomer be onboarding to CAM?
