@@ -8,7 +8,7 @@ third_nav_title: FAQs
 
 No, you do not need to know HTML or CSS. When you edit a page on Isomer you use a rich text editor with basic editing capabilities. Text is formatted with [markdown](https://commonmark.org/help/tutorial/), which is a series of simple symbols and characters to indicate formatting.
 
-To edit the Homepage, contact us page, or navigation bar, we use a block editing system that uses modules and blocks instead of open text. The team is working to extending this block editing function to all pages to remove even the need to use markdown.
+To edit the Homepage, contact us page, or navigation bar, we use a block editing system that uses modules and blocks instead of open text. The team is working to extend this editing experience to all pages, so that users won't need to use markdown.
 
 ##### Can I launch a non gov.sg domain?
 Yes you can. Please consult your ITD on this.
