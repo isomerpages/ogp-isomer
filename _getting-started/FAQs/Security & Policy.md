@@ -55,9 +55,10 @@ You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the
 All IsomerCMS accounts use an email OTP sent to the email you log in with.
 
 #### Why is my IHP scan result not 100%?
-The Isomer team is closely working with the CSA team, and have their assurance that all Isomer root domains align with IHP. This means that, for now, your score does not matter.
+The Isomer team is working closely with the CSA team and has received assurance that all Isomer root domains align with IHP. Therefore, **your score does not matter at this time.** Isomer is working on this issue, so **you do not need to take any action right now.**
 
-Isomer is migrating sites to a new infrastructure. This will automatically give your site a score of 95% on CSA IHP. Isomer is also working on HTTP compression to push your score up to 100%. They will contact your site directly to tell you what to do next. You do not need to take any action right now.
+The Isomer team 
+Isomer is migrating sites to a new infrastructure. This will automatically give your site a score of 95% on CSA IHP. Isomer is also working on HTTP compression to push your score up to 100%. They will contact your site directly to tell you what to do next. 
 
 For the moment, IHP scan results should focus on root domains (for example, [isomer.gov.sg](http://isomer.gov.sg/)), instead of www subdomains (for example, [www.isomer.gov.sg](http://www.isomer.gov.sg/)).
 
