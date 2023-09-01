@@ -4,7 +4,7 @@ permalink: /onboard-to-isomer/onboarding-faqs/security-and-policy/
 description: ""
 third_nav_title: Onboarding FAQs
 ---
-##### How are sites being monitored? What do I do if a site goes down?
+##### How are sites being monitored? What do I do if my site goes down?
 
 We us monitoring systems such as Pingdom and Uptime Robot on all Isomer sites. These systems send pings to your site every minute to ensure that it's running and responding properly.
 
