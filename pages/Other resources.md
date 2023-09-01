@@ -10,7 +10,7 @@ Check the real-time uptime status of all websites hosted by Isomer
 Learn to craft impactful Isomer sites with effective web design strategies. We give tips on how to best use the Isomer template and craft content that is both meaningful and accessible.
 
 ### [Isomer Cheatsheet](https://cheatsheet.isomer.gov.sg/)
-This is a quick self help guide for Isomer site creation. Take a look to see what you can do on an Isomer website!
+A quick self help guide for Isomer site creation. Take a look to see what you can do on an Isomer website
 
 ### [IsomerCMS](https://cms.isomer.gov.sg/)
 IsomerCMS is the platform through which Public Officers can make edits and publish changes to their Isomer websites. [Learn more about IsomerCMS](/about-isomer/what-is-isomer/)
