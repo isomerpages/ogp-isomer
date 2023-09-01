@@ -4,8 +4,6 @@ permalink: /onboard-to-isomer/onboarding-faqs/general/
 description: ""
 third_nav_title: Onboarding FAQs
 ---
-When to use Isomer -&gt; Could be it's own page? Now split btw before you onboard and FAQ
-
 
 
 ##### How do I edit my website content? Do I need to know coding?
@@ -37,3 +35,13 @@ A carousel is a type of slideshow to display multiple images or pieces of conten
 Carousels have been proven to be ineffective in converting visitors to an action. A study conducted found that the click-through rate significantly reduced after the first image. They can also lead to a poor user experience if a carousel rotates too quickly or contains too many images, it can be difficult for users to focus on any one piece of content. Additionally, carousels can be less accessible for users with disabilities, such as those who rely on screen readers to navigate websites. [Read the research through this article](https://medium.com/@sherpadesignco/carousels-are-killing-your-conversion-rate-heres-how-to-fix-that-b57e31f8f508)
 
 As such, we don’t believe that carousels are the best way to show content to site visitors. We suggest alternative ways to display information .
+
+##### Custom code
+
+Typical custom code such as HTML will reflected on the CMS preview but there may be issues which we do not expect, you can report it to us through [go.gov.sg/isomer-cms-help](http://go.gov.sg/isomer-cms-help).
+
+###### Markdown/Kramdown table
+
+When you have missing title on your Markdown/Kramdown table, the preview of your table on the CMS will not be displaying correctly. Don't be alarmed, and you may check your staging link to verify that that your table is displaying properly
+
+Still have an issue but not listed here? Report to us [here](https://go.gov.sg/isomer-cms-help).
