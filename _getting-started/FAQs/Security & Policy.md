@@ -54,11 +54,11 @@ You can visit [status.isomer.gov.sg](https://status.isomer.gov.sg/) to check the
 #### Do accounts have MFA?
 All IsomerCMS accounts use an email OTP sent to the email you log in with.
 
+#### Why is my IHP scan result not 100%?
+The Isomer team is working closely with the CSA team, and there is assurance that all Isomer root domains are very much aligned with IHP. The Isomer team will be working with the relevant teams to seek alignment on DNSSEC and this can be ignored for now. IHP scan results should be focused on root domains (eg. [isomer.gov.sg](http://isomer.gov.sg/)) and not the www subdomains ([www.isomer.gov.sg](http://www.isomer.gov.sg/)) at the moment.
+
 #### Do I need to perform a CAGE scan?
 If you choose Isomer as your hosting platform, you will be informed that a cage scan is not required. However, if you wish to perform one, you may specify the IP address as 18.136.36.203.
 
 #### Will Isomer be onboarding to CAM?
 Isomer currently does not have plans to onboard to CAM due to limitations in our technical setup. If you are in contact with a representative from the CAM team, please direct them to us.
-
-#### Why is my IHP scan result not 100%?
-The Isomer team is working closely with the CSA team, and there is assurance that all Isomer root domains are very much aligned with IHP. The Isomer team will be working with the relevant teams to seek alignment on DNSSEC and this can be ignored for now. IHP scan results should be focused on root domains (eg. [isomer.gov.sg](http://isomer.gov.sg/)) and not the www subdomains ([www.isomer.gov.sg](http://www.isomer.gov.sg/)) at the moment.
