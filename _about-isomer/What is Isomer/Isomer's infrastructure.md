@@ -17,4 +17,4 @@ third_nav_title: What is Isomer
 	- A colleague **must approve all the changes in staging in order to publish them** into your production site. You can do this by Requesting a review on IsomerCMS.
 	- Note that approval and publishing is for ALL content on your staging site, across all pages. **Currently you cannot selectively approve and publish changes for a particular page.**
 
-&lt; INSERT GRAPHIC &gt;
+![A mind map showing the relation between IsomerCMS, staging sites, and production sites](/images/staging%20vs%20production.png)
