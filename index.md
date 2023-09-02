@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Easily set up good government websites
       subtitle: Free, fast, easy
-      background: /images/hero-banner.png
+      background: /images/Homepage/hero banner.png
       button: Find out if I'm a good fit
       url: /when-to-use-isomer/use-cases/
       key_highlights:
