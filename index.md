@@ -16,11 +16,6 @@ sections:
         - title: Log in to IsomerCMS
           description: Edit an existing Isomer site
           url: https://cms.isomer.gov.sg
-  - infobar:
-      subtitle: 📢 Latest from the Isomer team
-      description: Hear what features we’re working on next and stay updated on our roadmap
-      button: Announcements
-      url: /announcements
   - infopic:
       title: Create and launch in days
       description: Our template makes it easy to get a site up and running. On average
