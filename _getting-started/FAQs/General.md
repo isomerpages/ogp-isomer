@@ -45,7 +45,7 @@ Research shows that carousels usually don't work to convert visitors to do an ac
 **As such, we don’t believe that carousels are the best way to show content to site visitors.** We suggest using an infopic section to display information instead.
 
 #### Can I change the font of my website?
-Isomer's template follows a older version of the SGDS which uses lato. You currently cannot customise your font.
+Isomer's template follows a older version of the SGDS which uses Lato. You currently cannot customise your font.
 
 #### What are my options if I am unable to use Isomer?
 
