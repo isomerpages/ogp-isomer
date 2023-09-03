@@ -8,6 +8,8 @@ third_nav_title: What is Isomer
 
 This is the platform through which Public Officers can make edits and publish changes to their websites themselves, without having to go through any third party.
 
+You can only log into IsomerCMS through the internet.
+
 
 #### What can I do on IsomerCMS?
 
