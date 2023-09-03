@@ -22,7 +22,7 @@ sections:
         it takes just 2 weeks for sites to go from creation to launch – our
         record is 1.5 days!
       alt: Image alt text
-      image: /images/Homepage/create and launch in days.png
+      image: /images/Homepage/create and launch in days 3.png
   - infopic:
       title: ">99.9% uptime"
       description: We’ve easily handled sites with over a million visitors. Be assured
