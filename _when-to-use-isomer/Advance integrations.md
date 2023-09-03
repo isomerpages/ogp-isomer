@@ -11,6 +11,8 @@ To embed an external web page or document within a web page, use an iframe. An i
 
 **Isomer maintains a whitelist of certain services that can be embedded for security reasons.** 
 
+<br>
+
 - #### Virtual Intelligent Chat Assistant (VICA)
 	Use this GovTech chatbot to provide round-the-clock support on your website. Drop us an email and share your code snippet for us to configure it for you. <br><br>
 - #### [YouTube videos](https://www.youtube.com/) &amp; [Vimeo videos]()
