@@ -8,9 +8,9 @@ third_nav_title: FAQs
 
 Yes you can. Isomer is designed to be simple enough for officers to manage themselves, even without any coding knowledge. But we understand that sometimes you need additional help.
 
-However, the **Isomer team does not liase directly with vendors**. All communication **must** go through an agency representative. We do not  explain the product to vendors on an agency's behalf.
+However, the **Isomer team does not liase directly with vendors**. All communication **must** go through an agency representative. 
 
-- We cannot meet with them to explain how the product works
+- We cannot meet with them to explain how Isomer works
 - Any queries from a vendor should be directed to their agency contact
 
 **You can add a vendor as a collaborator to your website through IsomerCMS.** If you have trouble adding them as a collaborator, contact Isomer support.

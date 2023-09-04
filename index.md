@@ -16,18 +16,13 @@ sections:
         - title: Log in to IsomerCMS
           description: Edit an existing Isomer site
           url: https://cms.isomer.gov.sg
-  - infobar:
-      subtitle: 📢 Latest from the Isomer team
-      description: Hear what features we’re working on next and stay updated on our roadmap
-      button: Announcements
-      url: /announcements
   - infopic:
       title: Create and launch in days
       description: Our template makes it easy to get a site up and running. On average
         it takes just 2 weeks for sites to go from creation to launch – our
         record is 1.5 days!
       alt: Image alt text
-      image: /images/Homepage/create and launch in days.png
+      image: /images/Homepage/create and launch in days 3.png
   - infopic:
       title: ">99.9% uptime"
       description: We’ve easily handled sites with over a million visitors. Be assured

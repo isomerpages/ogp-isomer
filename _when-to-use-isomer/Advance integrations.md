@@ -3,7 +3,7 @@ title: Advance integrations
 permalink: /when-to-use-isomer/advance-integrations/
 description: ""
 ---
-&gt; Embed services and tools to extend the capabilities of a page 
+> Embed services and tools to extend the capabilities of a page 
 
 You can use some outside services by putting them on a page on your website. These services are managed and set up outside of IsomerCMS.
 
