@@ -3,7 +3,7 @@ title: Advance integrations
 permalink: /when-to-use-isomer/advance-integrations/
 description: ""
 ---
-> Embed services and tools to extend the capabilities of a page 
+&gt; Embed services and tools to extend the capabilities of a page 
 
 You can use some outside services by putting them on a page on your website. These services are managed and set up outside of IsomerCMS.
 
@@ -15,7 +15,7 @@ To embed an external web page or document within a web page, use an iframe. An i
 
 - #### Virtual Intelligent Chat Assistant (VICA)
 	Use this GovTech chatbot to provide round-the-clock support on your website. Drop us an email and share your code snippet for us to configure it for you. <br><br>
-- #### [YouTube videos](https://www.youtube.com/) &amp; [Vimeo videos]()
+- #### [YouTube videos](https://www.youtube.com/) &amp; [Vimeo videos](https://vimeo.com/)
 	Instead of an image, use videos to create interactive content <br><br>
 - #### [FormSG forms](https://form.gov.sg/)
 	Embed a form to collect data from site visitors, without having them leave the page. You could use it for event registration, or even to collect feedback. <br><br>
