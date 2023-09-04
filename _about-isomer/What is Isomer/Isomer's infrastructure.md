@@ -4,7 +4,7 @@ permalink: /about-isomer/what-is-isomer/isomer-infra/
 description: ""
 third_nav_title: What is Isomer
 ---
-&gt; Each Isomer website is actually made up of 2 sites: *Staging* and *Production*.
+> Each Isomer website is actually made up of 2 sites: *Staging* and *Production*.
 
 <br>
 
