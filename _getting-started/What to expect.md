@@ -22,4 +22,4 @@ You can add other collaborators to your site through IsomerCMS.
 
 ##### 3. Launch your website
 
-You will be guided on how to launch your website independently. Learn more about the [site launch process in our guide]()
+You will be guided on how to launch your website independently. Learn more about the [site launch process in our guide](https://guide.isomer.gov.sg/)
