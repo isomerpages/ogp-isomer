@@ -9,7 +9,7 @@ You can use some outside services by putting them on a page on your website. The
 
 To embed an external web page or document within a web page, use an iframe. An iframe loads content from a separate URL and displays it within a frame on the web page, allowing you to show content from external sources.
 
-**Isomer maintains a whitelist of certain services that can be embedded for security reasons.** 
+**For security reasons, Isomer maintains a whitelist of certain services that can be embedded.** 
 
 <br>
 
