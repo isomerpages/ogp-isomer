@@ -1,0 +1,7 @@
+collections:
+  when-to-use-isomer:
+    output: true
+    order:
+      - What are the use cases for Isomer?.md
+      - What are static websites.md
+      - Advance integrations.md

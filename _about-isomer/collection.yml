@@ -1,0 +1,11 @@
+collections:
+  about-isomer:
+    output: true
+    order:
+      - What is Isomer/.keep
+      - What is Isomer/Overview.md
+      - What is Isomer/The Isomer template.md
+      - What is Isomer/Isomer's infrastructure.md
+      - What is Isomer/IsomerCMS.md
+      - Why use Isomer.md
+      - Who uses Isomer.md

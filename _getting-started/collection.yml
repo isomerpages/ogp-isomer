@@ -1,0 +1,10 @@
+collections:
+  getting-started:
+    output: true
+    order:
+      - What to expect.md
+      - Roles & responsibilities.md
+      - FAQs/.keep
+      - FAQs/General.md
+      - FAQs/Security & Policy.md
+      - FAQs/Access & Vendors.md
