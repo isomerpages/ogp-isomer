@@ -15,7 +15,7 @@ It's recommended to get a domain on ITSM before getting a new Isomer website to 
 
 ##### 1. Let us know you're interested
 
-[Send us an email telling us more about your website](mailto:support@isomer.gov.sg). If your use case matches our capabilities, we'll generate a new website template for you.
+[Email us at support@isomer.gov.sg, telling us more about your website](mailto:support@isomer.gov.sg). If your use case matches our capabilities, we'll generate a new website template for you.
 
 
 ##### 2. Log into [cms.isomer.gov.sg](https://cms.isomer.gov.sg/sites) to start editing
