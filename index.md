@@ -17,6 +17,15 @@ sections:
           description: Edit an existing Isomer site
           url: https://cms.isomer.gov.sg
   - infopic:
+      title: Stay connected!
+      id: infopic
+      description: Did you meet us at the DPGA AMM in Singapore? We would love to
+        continue our conversations post-event!
+      button: Drop your contact here
+      url: go.gov.sg/stayconnecteddpga
+      image: /images/1_https___go_gov_sg_stayconnecteddpga.png
+      alt: QR code to scan to Form
+  - infopic:
       title: Create and launch in days
       description: Our template makes it easy to get a site up and running. On average
         it takes just 2 weeks for sites to go from creation to launch – our
