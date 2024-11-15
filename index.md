@@ -22,7 +22,7 @@ sections:
       description: Did you meet us at the DPGA AMM in Singapore? We would love to
         continue our conversations post-event!
       button: Drop your contact here
-      url: go.gov.sg/stayconnecteddpga
+      url: https://www.go.gov.sg/stayconnecteddpga
       image: /images/1_https___go_gov_sg_stayconnecteddpga.png
       alt: QR code to scan to Form
   - infopic:
